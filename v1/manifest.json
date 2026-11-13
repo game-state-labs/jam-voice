@@ -1,0 +1,267 @@
+{
+"version": "06977c8b",
+"frame": 0.05,
+"personas": {
+"r": {
+"name": "Rosie",
+"trait": "flirty",
+"voice": "af_bella",
+"speed": 1.0,
+"pitch": 1.22
+},
+"b": {
+"name": "Bix",
+"trait": "nerdy",
+"voice": "am_puck",
+"speed": 1.12,
+"pitch": 1.28
+},
+"g": {
+"name": "Gus",
+"trait": "lazy",
+"voice": "am_echo",
+"speed": 0.85,
+"pitch": 1.18
+},
+"y": {
+"name": "Zippy",
+"trait": "hyper",
+"voice": "af_nova",
+"speed": 1.22,
+"pitch": 1.3
+},
+"p": {
+"name": "Duchess",
+"trait": "royal",
+"voice": "bf_emma",
+"speed": 0.95,
+"pitch": 1.18
+},
+"o": {
+"name": "Blaze",
+"trait": "angry",
+"voice": "am_fenrir",
+"speed": 1.08,
+"pitch": 1.22
+},
+"s": {
+"name": "Pebble",
+"trait": "peaceful",
+"voice": "af_river",
+"speed": 0.9,
+"pitch": 1.15
+}
+},
+"lines": [
+{
+"id": "r_test1",
+"who": "r",
+"tag": "test",
+"text": "Oh hey, you. Didn't see you there. Okay, I totally did.",
+"file": "clips/r_test1.mp3",
+"dur": 3.19,
+"mouth": "1133325555555334111234222555555111111113322333332145555555511111",
+"h": "5ec196f98d"
+},
+{
+"id": "r_test2",
+"who": "r",
+"tag": "test",
+"text": "Careful with those fingers, cutie. I bruise easily.",
+"file": "clips/r_test2.mp3",
+"dur": 3.07,
+"mouth": "12333123451255222345552115555511111111133333321533325555551111",
+"h": "bcc9b1fad1"
+},
+{
+"id": "r_test3",
+"who": "r",
+"tag": "test",
+"text": "You're kinda good at this. Not that I'm watching.",
+"file": "clips/r_test3.mp3",
+"dur": 2.73,
+"mouth": "1533312333355555555522211111114333333444555122555111111",
+"h": "4c000689c9"
+},
+{
+"id": "b_test1",
+"who": "b",
+"tag": "test",
+"text": "Technically, I'm the most important block here. Statistically.",
+"file": "clips/b_test1.mp3",
+"dur": 3.21,
+"mouth": "12355553333333333215555554453335125555111223522222555555111111111",
+"h": "c19b010b05"
+},
+{
+"id": "b_test2",
+"who": "b",
+"tag": "test",
+"text": "Hmm. I'd move the yellow one first. Just saying.",
+"file": "clips/b_test2.mp3",
+"dur": 2.38,
+"mouth": "113453333555333333351235521112222255555111111111",
+"h": "1ae0f56430"
+},
+{
+"id": "b_test3",
+"who": "b",
+"tag": "test",
+"text": "Fun fact! Nobody asked. Here it is anyway.",
+"file": "clips/b_test3.mp3",
+"dur": 2.24,
+"mouth": "113322335133333555522111233325555555551111111",
+"h": "4cb2b8a28a"
+},
+{
+"id": "g_test1",
+"who": "g",
+"tag": "test",
+"text": "Wake me up when it's my turn. Or don't. That's fine too.",
+"file": "clips/g_test1.mp3",
+"dur": 4.23,
+"mouth": "1544335143334444512443551225344551111444413344111111155512222355555222555111111111111",
+"h": "6391c63317"
+},
+{
+"id": "g_test2",
+"who": "g",
+"tag": "test",
+"text": "Ugh. Moving is so much work.",
+"file": "clips/g_test2.mp3",
+"dur": 2.88,
+"mouth": "1553333455114444455555552222223444451115544451111111111111",
+"h": "6c208df26b"
+},
+{
+"id": "g_test3",
+"who": "g",
+"tag": "test",
+"text": "Five more minutes. Please.",
+"file": "clips/g_test3.mp3",
+"dur": 2.7,
+"mouth": "111133333354444444444455511221111114555551111111111111",
+"h": "106ae7e764"
+},
+{
+"id": "y_test1",
+"who": "y",
+"tag": "test",
+"text": "Ooh ooh ooh! Pick me! Pick me next!",
+"file": "clips/y_test1.mp3",
+"dur": 2.11,
+"mouth": "1133334433441531435555144435511111111111111",
+"h": "39370aac03"
+},
+{
+"id": "y_test2",
+"who": "y",
+"tag": "test",
+"text": "Whoa! That was SO fast! Do it again!",
+"file": "clips/y_test2.mp3",
+"dur": 2.14,
+"mouth": "1443344354223412335211155555555551111111111",
+"h": "86c7667573"
+},
+{
+"id": "y_test3",
+"who": "y",
+"tag": "test",
+"text": "Is it my turn? Is it now? How about now?",
+"file": "clips/y_test3.mp3",
+"dur": 2.47,
+"mouth": "13333333522333455551433555123455555555111111111111",
+"h": "edfdd57e3f"
+},
+{
+"id": "p_test1",
+"who": "p",
+"tag": "test",
+"text": "You may touch me. Gently. I am royalty, darling.",
+"file": "clips/p_test1.mp3",
+"dur": 3.08,
+"mouth": "12333352231225551111122335555511153335533332225513335555511111",
+"h": "63a0fbaf10"
+},
+{
+"id": "p_test2",
+"who": "p",
+"tag": "test",
+"text": "One does not simply shove the Duchess.",
+"file": "clips/p_test2.mp3",
+"dur": 2.35,
+"mouth": "154333333253351222355552223113335122555522111111",
+"h": "d6f1c67400"
+},
+{
+"id": "p_test3",
+"who": "p",
+"tag": "test",
+"text": "Peasants first, naturally. I shall exit last, in style.",
+"file": "clips/p_test3.mp3",
+"dur": 3.65,
+"mouth": "11222332213335215335122333551111111133333333522333333512255222355555511111",
+"h": "f6ea6f7053"
+},
+{
+"id": "o_test1",
+"who": "o",
+"tag": "test",
+"text": "Hey! Watch where you're dragging me!",
+"file": "clips/o_test1.mp3",
+"dur": 1.49,
+"mouth": "113355433522533523355555111111",
+"h": "84fd2e1d34"
+},
+{
+"id": "o_test2",
+"who": "o",
+"tag": "test",
+"text": "I swear, if you bump me into that wall again...",
+"file": "clips/o_test2.mp3",
+"dur": 2.3,
+"mouth": "1532225333355522333351333555555433355555511111",
+"h": "8ba0e72981"
+},
+{
+"id": "o_test3",
+"who": "o",
+"tag": "test",
+"text": "Grr. Fine. FINE. Move me. See if I care.",
+"file": "clips/o_test3.mp3",
+"dur": 2.61,
+"mouth": "11253333333511333554113333344355555225315511555111111",
+"h": "7906c10125"
+},
+{
+"id": "s_test1",
+"who": "s",
+"tag": "test",
+"text": "Breathe in. Breathe out. We'll get there together.",
+"file": "clips/s_test1.mp3",
+"dur": 3.0,
+"mouth": "1543333355533555555333553333511155533155522553355555111111111",
+"h": "b2afe73846"
+},
+{
+"id": "s_test2",
+"who": "s",
+"tag": "test",
+"text": "No rush, friend. The blocks aren't going anywhere. Well. Eventually.",
+"file": "clips/s_test2.mp3",
+"dur": 4.21,
+"mouth": "1533333355333522113555521135533335223555555555555551111533335513555552255555111111111",
+"h": "944459c508"
+},
+{
+"id": "s_test3",
+"who": "s",
+"tag": "test",
+"text": "Such a lovely day to slide around, isn't it?",
+"file": "clips/s_test3.mp3",
+"dur": 3.08,
+"mouth": "15223352335533555555555555222155333555555555555225555111111111",
+"h": "cfc53a5f6d"
+}
+]
+}
