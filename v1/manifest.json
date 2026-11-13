@@ -1,5 +1,5 @@
 {
-"version": "426d1a28",
+"version": "e495528b",
 "frame": 0.05,
 "personas": {
 "r": {
@@ -62,11 +62,11 @@
 "who": "r",
 "tag": "chat",
 "emo": "calm",
-"text": "Shh, shh. Everybody breathe.",
+"text": "Shh, shh. Just breathe, friend.",
 "file": "clips/r_chat_02.mp3",
-"dur": 3.8,
-"mouth": "11111122222111111112222111111111111111153333333355333333511111111111111111111",
-"h": "fb7bb09c92"
+"dur": 3.49,
+"mouth": "1111111111112222111111111111111112333221333332111533345211111111111111",
+"h": "61c247671d"
 },
 {
 "id": "r_chat_03",
@@ -535,11 +535,11 @@
 "who": "y",
 "tag": "chat",
 "emo": "annoyed",
-"text": "Everybody's so slooow!",
+"text": "Faster! Pleeease! (giggles)",
 "file": "clips/y_chat_09.mp3",
-"dur": 2.61,
-"mouth": "11111133333333222342222244333333333444444451111111111",
-"h": "920a84925e"
+"dur": 2.37,
+"mouth": "111111335222511113333335222211531135113511111111",
+"h": "db6c623269"
 },
 {
 "id": "y_chat_10",
@@ -601,11 +601,11 @@
 "who": "p",
 "tag": "chat",
 "emo": "smug",
-"text": "Peasants first. Naturally.",
+"text": "Move the peasants first, darling.",
 "file": "clips/p_chat_03.mp3",
-"dur": 2.45,
-"mouth": "11115555332222233511111111115433322555511111111111",
-"h": "b64f7fb803"
+"dur": 2.78,
+"mouth": "11111144333311355532255221555222211555555551111111111111",
+"h": "a786aeb73a"
 },
 {
 "id": "p_chat_04",
@@ -832,986 +832,11 @@
 "who": "o",
 "tag": "chat",
 "emo": "angry",
-"text": "Everybody OUT of my way!",
+"text": "Get me OUT of here!",
 "file": "clips/o_chat_12.mp3",
-"dur": 3.02,
-"mouth": "1111111115333333333333333335113333311555443334433551111111111",
-"h": "2d6737a8d2"
-},
-{
-"id": "conv001_0",
-"who": "y",
-"tag": "conv",
-"conv": "conv001",
-"seq": 0,
-"emo": "excited",
-"text": "Gus! Gus! You awake?",
-"file": "clips/conv001_0.mp3",
-"dur": 2.53,
-"mouth": "111111533352221111153332211111115444333511111111111",
-"h": "a86bc28239"
-},
-{
-"id": "conv001_1",
-"who": "g",
-"tag": "conv",
-"conv": "conv001",
-"seq": 1,
-"emo": "sleepy",
-"text": "(sighs) No.",
-"file": "clips/conv001_1.mp3",
-"dur": 1.77,
-"mouth": "115555522111111115433333451111111111",
-"h": "54624ac803"
-},
-{
-"id": "conv001_2",
-"who": "y",
-"tag": "conv",
-"conv": "conv001",
-"seq": 2,
-"emo": "surprised",
-"text": "You just talked! (giggles)",
-"file": "clips/conv001_2.mp3",
-"dur": 2.6,
-"mouth": "11111153333322215555111111111111153213333311111111111",
-"h": "f3cb89d700"
-},
-{
-"id": "conv001_3",
-"who": "g",
-"tag": "conv",
-"conv": "conv001",
-"seq": 3,
-"emo": "sleepy",
-"text": "Sleep talking.",
-"file": "clips/conv001_3.mp3",
-"dur": 1.77,
-"mouth": "222225333511122444115555511111111111",
-"h": "abd26a2fd8"
-},
-{
-"id": "conv002_0",
-"who": "o",
-"tag": "conv",
-"conv": "conv002",
-"seq": 0,
-"emo": "angry",
-"text": "Who bumped me?!",
-"file": "clips/conv002_0.mp3",
-"dur": 1.21,
-"mouth": "1111555553351111111111111",
-"h": "e32958f14b"
-},
-{
-"id": "conv002_1",
-"who": "r",
-"tag": "conv",
-"conv": "conv002",
-"seq": 1,
-"emo": "calm",
-"text": "Nobody meant it, friend.",
-"file": "clips/conv002_1.mp3",
-"dur": 3.09,
-"mouth": "11111111111111111144443334433422555111111111115554445111111111",
-"h": "1da714892d"
-},
-{
-"id": "conv002_2",
-"who": "o",
-"tag": "conv",
-"conv": "conv002",
-"seq": 2,
-"emo": "angry",
-"text": "SOMEBODY meant it!",
-"file": "clips/conv002_2.mp3",
-"dur": 1.44,
-"mouth": "11111111335435555555551111111",
-"h": "5553bc9923"
-},
-{
-"id": "conv003_0",
-"who": "p",
-"tag": "conv",
-"conv": "conv003",
-"seq": 0,
-"emo": "smug",
-"text": "Bix, darling. How long until I'm free?",
-"file": "clips/conv003_0.mp3",
-"dur": 5.13,
-"mouth": "1111111111111111111111111133511112555555555511111111111111115333333333225335511255555111111111111111111",
-"h": "abc874fabe"
-},
-{
-"id": "conv003_1",
-"who": "b",
-"tag": "conv",
-"conv": "conv003",
-"seq": 1,
-"emo": "curious",
-"text": "Four moves. Give or take seven.",
-"file": "clips/conv003_1.mp3",
-"dur": 4.2,
-"mouth": "111111111111111111112444444445522111111111115444233223355445111111111111111111111111",
-"h": "9b3792645c"
-},
-{
-"id": "conv003_2",
-"who": "p",
-"tag": "conv",
-"conv": "conv003",
-"seq": 2,
-"emo": "annoyed",
-"text": "Hmph!",
-"file": "clips/conv003_2.mp3",
-"dur": 0.84,
-"mouth": "11123351111111111",
-"h": "e25a70ebc8"
-},
-{
-"id": "conv004_0",
-"who": "b",
-"tag": "conv",
-"conv": "conv004",
-"seq": 0,
-"emo": "smug",
-"text": "Fun fact. Orange is the hottest colour.",
-"file": "clips/conv004_0.mp3",
-"dur": 4.91,
-"mouth": "111111111111111111133344213333511112211111111111111111111443333333355333215534555511111111111111111",
-"h": "661af2623e"
-},
-{
-"id": "conv004_1",
-"who": "o",
-"tag": "conv",
-"conv": "conv004",
-"seq": 1,
-"emo": "annoyed",
-"text": "Is that a joke about me?",
-"file": "clips/conv004_1.mp3",
-"dur": 1.45,
-"mouth": "11111233333333333333511111111",
-"h": "4cd541507b"
-},
-{
-"id": "conv004_2",
-"who": "b",
-"tag": "conv",
-"conv": "conv004",
-"seq": 2,
-"emo": "smug",
-"text": "It's a fact about you.",
-"file": "clips/conv004_2.mp3",
-"dur": 4.2,
-"mouth": "1111111111111111111111111111153223113333333334555555111111111111111111111111111111111",
-"h": "178d6c556f"
-},
-{
-"id": "conv004_3",
-"who": "o",
-"tag": "conv",
-"conv": "conv004",
-"seq": 3,
-"emo": "angry",
-"text": "Grr!",
-"file": "clips/conv004_3.mp3",
-"dur": 0.96,
-"mouth": "11115333355111111111",
-"h": "c702211b23"
-},
-{
-"id": "conv005_0",
-"who": "g",
-"tag": "conv",
-"conv": "conv005",
-"seq": 0,
-"emo": "annoyed",
-"text": "Zippy. Quieter.",
-"file": "clips/conv005_0.mp3",
-"dur": 2.09,
-"mouth": "115522331555511111111143335511251111111111",
-"h": "2021ce8cce"
-},
-{
-"id": "conv005_1",
-"who": "y",
-"tag": "conv",
-"conv": "conv005",
-"seq": 1,
-"emo": "excited",
-"text": "NO! I mean... no! (giggles)",
-"file": "clips/conv005_1.mp3",
-"dur": 3.14,
-"mouth": "111111544433333334555433344511111114444333333411111111112511111",
-"h": "5f8456e422"
-},
-{
-"id": "conv006_0",
-"who": "r",
-"tag": "conv",
-"conv": "conv006",
-"seq": 0,
-"emo": "calm",
-"text": "Blaze, try deep breathing.",
-"file": "clips/conv006_0.mp3",
-"dur": 2.78,
-"mouth": "11111111111333334522111111111122333335144455555111111111",
-"h": "3b24f92363"
-},
-{
-"id": "conv006_1",
-"who": "o",
-"tag": "conv",
-"conv": "conv006",
-"seq": 1,
-"emo": "angry",
-"text": "I tried deep YELLING.",
-"file": "clips/conv006_1.mp3",
-"dur": 1.68,
-"mouth": "1111115334513355555533555511111111",
-"h": "bc49698475"
-},
-{
-"id": "conv006_2",
-"who": "r",
-"tag": "conv",
-"conv": "conv006",
-"seq": 2,
-"emo": "calm",
-"text": "(sighs) Not the same.",
-"file": "clips/conv006_2.mp3",
-"dur": 2.86,
-"mouth": "1111111111115555511111111111111335552223333344511111111111",
-"h": "bc95d0b834"
-},
-{
-"id": "conv007_0",
-"who": "p",
-"tag": "conv",
-"conv": "conv007",
-"seq": 0,
-"emo": "smug",
-"text": "Gus, you're slouching.",
-"file": "clips/conv007_0.mp3",
-"dur": 2.21,
-"mouth": "111153352221111115522233352255551111111111111",
-"h": "f1bd71a70a"
-},
-{
-"id": "conv007_1",
-"who": "g",
-"tag": "conv",
-"conv": "conv007",
-"seq": 1,
-"emo": "sleepy",
-"text": "I'm a square. (yawns)",
-"file": "clips/conv007_1.mp3",
-"dur": 3.35,
-"mouth": "1111153333322215435555511111115533333333333333333333555555551111111",
-"h": "3cbbc55614"
-},
-{
-"id": "conv007_2",
-"who": "p",
-"tag": "conv",
-"conv": "conv007",
-"seq": 2,
-"emo": "smug",
-"text": "And yet you manage. (chuckles)",
-"file": "clips/conv007_2.mp3",
-"dur": 2.54,
-"mouth": "111111133333315334433333551222111155555511111111111",
-"h": "8ee4a8a83a"
-},
-{
-"id": "conv008_0",
-"who": "y",
-"tag": "conv",
-"conv": "conv008",
-"seq": 0,
-"emo": "excited",
-"text": "Bix! Bix! Are we winning?",
-"file": "clips/conv008_0.mp3",
-"dur": 2.22,
-"mouth": "111111333511111111153312211344443333451111111",
-"h": "6967ba5516"
-},
-{
-"id": "conv008_1",
-"who": "b",
-"tag": "conv",
-"conv": "conv008",
-"seq": 1,
-"emo": "happy",
-"text": "Ninety percent yes!",
-"file": "clips/conv008_1.mp3",
-"dur": 2.07,
-"mouth": "111111544433333355223555333512222111111111",
-"h": "c028f89511"
-},
-{
-"id": "conv008_2",
-"who": "y",
-"tag": "conv",
-"conv": "conv008",
-"seq": 2,
-"emo": "excited",
-"text": "Wheee! (giggles)",
-"file": "clips/conv008_2.mp3",
-"dur": 1.62,
-"mouth": "111111533333355555221335511111111",
-"h": "69c7a1dd9a"
-},
-{
-"id": "conv009_0",
-"who": "g",
-"tag": "conv",
-"conv": "conv009",
-"seq": 0,
-"emo": "sleepy",
-"text": "Wake me when we're winning.",
-"file": "clips/conv009_0.mp3",
-"dur": 2.18,
-"mouth": "11154333511145511153344444443555511111111111",
-"h": "3f0a97cb80"
-},
-{
-"id": "conv009_1",
-"who": "y",
-"tag": "conv",
-"conv": "conv009",
-"seq": 1,
-"emo": "excited",
-"text": "We're winning!",
-"file": "clips/conv009_1.mp3",
-"dur": 1.24,
-"mouth": "1111143355333355111111111",
-"h": "ef6a2a70f3"
-},
-{
-"id": "conv009_2",
-"who": "g",
-"tag": "conv",
-"conv": "conv009",
-"seq": 2,
-"emo": "sleepy",
-"text": "Wake me when we've won.",
-"file": "clips/conv009_2.mp3",
-"dur": 2.1,
-"mouth": "1115433511555111111334555143335111111111111",
-"h": "70242e8744"
-},
-{
-"id": "conv010_0",
-"who": "p",
-"tag": "conv",
-"conv": "conv010",
-"seq": 0,
-"emo": "smug",
-"text": "I demand to leave first.",
-"file": "clips/conv010_0.mp3",
-"dur": 2.38,
-"mouth": "111111153355444333332222555555511551111111111111",
-"h": "72f981644d"
-},
-{
-"id": "conv010_1",
-"who": "o",
-"tag": "conv",
-"conv": "conv010",
-"seq": 1,
-"emo": "annoyed",
-"text": "Get in line, your majesty.",
-"file": "clips/conv010_1.mp3",
-"dur": 2.15,
-"mouth": "11111555553333335551111444335521555511111111",
-"h": "72c6d1e450"
-},
-{
-"id": "conv010_2",
-"who": "p",
-"tag": "conv",
-"conv": "conv010",
-"seq": 2,
-"emo": "surprised",
-"text": "(gasps) How rude!",
-"file": "clips/conv010_2.mp3",
-"dur": 2.21,
-"mouth": "111112221111111111125555553333451111111111111",
-"h": "50cd76c1fd"
-},
-{
-"id": "conv011_0",
-"who": "r",
-"tag": "conv",
-"conv": "conv011",
-"seq": 0,
-"emo": "happy",
-"text": "This player is really good.",
-"file": "clips/conv011_0.mp3",
-"dur": 2.3,
-"mouth": "11111111111113222233333355555333555551111111111",
-"h": "0cc17c4ce8"
-},
-{
-"id": "conv011_1",
-"who": "b",
-"tag": "conv",
-"conv": "conv011",
-"seq": 1,
-"emo": "happy",
-"text": "Very efficient!",
-"file": "clips/conv011_1.mp3",
-"dur": 2.94,
-"mouth": "11111111111115553333335511122223351122111111111111111111111",
-"h": "4e0407192d"
-},
-{
-"id": "conv011_2",
-"who": "o",
-"tag": "conv",
-"conv": "conv011",
-"seq": 2,
-"emo": "annoyed",
-"text": "They're... okay. Hmph.",
-"file": "clips/conv011_2.mp3",
-"dur": 2.15,
-"mouth": "11153333333551111115555551111111444111111111",
-"h": "5366c92608"
-},
-{
-"id": "conv012_0",
-"who": "y",
-"tag": "conv",
-"conv": "conv012",
-"seq": 0,
-"emo": "curious",
-"text": "Duchess! Is your crown real?",
-"file": "clips/conv012_0.mp3",
-"dur": 2.3,
-"mouth": "11111133333512211133335553334433335111111111111",
-"h": "c0e2a36747"
-},
-{
-"id": "conv012_1",
-"who": "p",
-"tag": "conv",
-"conv": "conv012",
-"seq": 1,
-"emo": "smug",
-"text": "Of course, darling. It's invisible.",
-"file": "clips/conv012_1.mp3",
-"dur": 3.11,
-"mouth": "111551111555221111533355555551111115512234453322455555111111111",
-"h": "973051696c"
-},
-{
-"id": "conv012_2",
-"who": "y",
-"tag": "conv",
-"conv": "conv012",
-"seq": 2,
-"emo": "surprised",
-"text": "Whoaaa!",
-"file": "clips/conv012_2.mp3",
-"dur": 1.32,
-"mouth": "111111533333444555111111111",
-"h": "db124ce0ee"
-},
-{
-"id": "conv013_0",
-"who": "b",
-"tag": "conv",
-"conv": "conv013",
-"seq": 0,
-"emo": "curious",
-"text": "I've been thinking about exits.",
-"file": "clips/conv013_0.mp3",
-"dur": 2.86,
-"mouth": "1111111111111111111115553413333443355345555122221111111111",
-"h": "7367e73e3e"
-},
-{
-"id": "conv013_1",
-"who": "g",
-"tag": "conv",
-"conv": "conv013",
-"seq": 1,
-"emo": "sleepy",
-"text": "Please don't.",
-"file": "clips/conv013_1.mp3",
-"dur": 1.85,
-"mouth": "11111111153333521123555111221111111111",
-"h": "c5ba6da243"
-},
-{
-"id": "conv013_2",
-"who": "b",
-"tag": "conv",
-"conv": "conv013",
-"seq": 2,
-"emo": "excited",
-"text": "Too late! (giggles)",
-"file": "clips/conv013_2.mp3",
-"dur": 4.75,
-"mouth": "111111111111113344433333333511111111111111111111111111111111111111111521113351111111111111111111",
-"h": "c9f9596edd"
-},
-{
-"id": "conv014_0",
-"who": "o",
-"tag": "conv",
-"conv": "conv014",
-"seq": 0,
-"emo": "curious",
-"text": "Pebble. How are you always calm?",
-"file": "clips/conv014_0.mp3",
-"dur": 2.08,
-"mouth": "111153455111111533555333321115555111111111",
-"h": "ce08108a0f"
-},
-{
-"id": "conv014_1",
-"who": "r",
-"tag": "conv",
-"conv": "conv014",
-"seq": 1,
-"emo": "smug",
-"text": "I just let things slide. (chuckles)",
-"file": "clips/conv014_1.mp3",
-"dur": 3.41,
-"mouth": "111111111111533322333333322333335511111111111111111111111111111111111",
-"h": "485ea1fade"
-},
-{
-"id": "conv014_2",
-"who": "o",
-"tag": "conv",
-"conv": "conv014",
-"seq": 2,
-"emo": "annoyed",
-"text": "(groans) Was that a pun?",
-"file": "clips/conv014_2.mp3",
-"dur": 2.0,
-"mouth": "1111533333551111111155511115533551111111",
-"h": "d82affe8d5"
-},
-{
-"id": "conv015_0",
-"who": "p",
-"tag": "conv",
-"conv": "conv015",
-"seq": 0,
-"emo": "annoyed",
-"text": "Blaze, your temper is unbecoming!",
-"file": "clips/conv015_0.mp3",
-"dur": 2.94,
-"mouth": "11553333552221111115335225555333251333455555345551111111111",
-"h": "526d25d7cc"
-},
-{
-"id": "conv015_1",
-"who": "o",
-"tag": "conv",
-"conv": "conv015",
-"seq": 1,
-"emo": "angry",
-"text": "YOUR crown is unbecoming!",
-"file": "clips/conv015_1.mp3",
-"dur": 2.63,
-"mouth": "11115333511133333335115551111533344551113345111111111",
-"h": "27d5f234a8"
-},
-{
-"id": "conv015_2",
-"who": "p",
-"tag": "conv",
-"conv": "conv015",
-"seq": 2,
-"emo": "surprised",
-"text": "You can't even SEE it!",
-"file": "clips/conv015_2.mp3",
-"dur": 1.56,
-"mouth": "11133223333332222333511111111111",
-"h": "59f5177c33"
-},
-{
-"id": "conv015_3",
-"who": "o",
-"tag": "conv",
-"conv": "conv015",
-"seq": 3,
-"emo": "angry",
-"text": "I can FEEL it!",
-"file": "clips/conv015_3.mp3",
-"dur": 1.35,
-"mouth": "1111555135411112333551111111",
-"h": "276161c69c"
-},
-{
-"id": "conv016_0",
-"who": "b",
-"tag": "conv",
-"conv": "conv016",
-"seq": 0,
-"emo": "smug",
-"text": "Fun fact. Bricks have no knees.",
-"file": "clips/conv016_0.mp3",
-"dur": 3.97,
-"mouth": "11111111111123355123335111111111111111111111114332255543344335552221111111111111",
-"h": "5fb5921f74"
-},
-{
-"id": "conv016_1",
-"who": "y",
-"tag": "conv",
-"conv": "conv016",
-"seq": 1,
-"emo": "curious",
-"text": "Then how do we dance?",
-"file": "clips/conv016_1.mp3",
-"dur": 1.47,
-"mouth": "111111333333543335512211111111",
-"h": "1cefb121d1"
-},
-{
-"id": "conv016_2",
-"who": "b",
-"tag": "conv",
-"conv": "conv016",
-"seq": 2,
-"emo": "smug",
-"text": "Very carefully. (chuckles)",
-"file": "clips/conv016_2.mp3",
-"dur": 3.8,
-"mouth": "1111111111111155555553333335555333215445555551111111111111111111111111111111",
-"h": "c93c7f222d"
-},
-{
-"id": "conv017_0",
-"who": "g",
-"tag": "conv",
-"conv": "conv017",
-"seq": 0,
-"emo": "sleepy",
-"text": "Is it lunch yet?",
-"file": "clips/conv017_0.mp3",
-"dur": 1.68,
-"mouth": "1111333355553334122533351111111111",
-"h": "5054314d85"
-},
-{
-"id": "conv017_1",
-"who": "r",
-"tag": "conv",
-"conv": "conv017",
-"seq": 1,
-"emo": "calm",
-"text": "We don't eat, Gus.",
-"file": "clips/conv017_1.mp3",
-"dur": 2.07,
-"mouth": "111111111111111433344445133332221111111111",
-"h": "b1ed616c41"
-},
-{
-"id": "conv017_2",
-"who": "g",
-"tag": "conv",
-"conv": "conv017",
-"seq": 2,
-"emo": "sad",
-"text": "(sighs) Then what's the point?",
-"file": "clips/conv017_2.mp3",
-"dur": 2.69,
-"mouth": "111333333351111111115344351111115443551111111111111111",
-"h": "b5e9af7a62"
-},
-{
-"id": "conv018_0",
-"who": "o",
-"tag": "conv",
-"conv": "conv018",
-"seq": 0,
-"emo": "annoyed",
-"text": "Stop staring, Zippy!",
-"file": "clips/conv018_0.mp3",
-"dur": 1.68,
-"mouth": "1111113331113333355555555511111111",
-"h": "d0fa4109be"
-},
-{
-"id": "conv018_1",
-"who": "y",
-"tag": "conv",
-"conv": "conv018",
-"seq": 1,
-"emo": "happy",
-"text": "I'm not staring! I'm ADMIRING! (giggles)",
-"file": "clips/conv018_1.mp3",
-"dur": 3.59,
-"mouth": "111111533444333312223333334451153341534444333335551111555555111111111111",
-"h": "a2e8a4047a"
-},
-{
-"id": "conv019_0",
-"who": "r",
-"tag": "conv",
-"conv": "conv019",
-"seq": 0,
-"emo": "happy",
-"text": "Isn't it nice? All together?",
-"file": "clips/conv019_0.mp3",
-"dur": 4.44,
-"mouth": "11111111111111111111111111111111133335555533333522221111111111111333555333335551111111111",
-"h": "bbc447fe88"
-},
-{
-"id": "conv019_1",
-"who": "o",
-"tag": "conv",
-"conv": "conv019",
-"seq": 1,
-"emo": "annoyed",
-"text": "Squished together.",
-"file": "clips/conv019_1.mp3",
 "dur": 1.28,
-"mouth": "11111114311253351111111111",
-"h": "a3bb5a664b"
-},
-{
-"id": "conv019_2",
-"who": "r",
-"tag": "conv",
-"conv": "conv019",
-"seq": 2,
-"emo": "happy",
-"text": "Snuggled together. (chuckles)",
-"file": "clips/conv019_2.mp3",
-"dur": 3.88,
-"mouth": "111111111111122233333352255333555111111111111111111111111111111221111111111111",
-"h": "8980529da4"
-},
-{
-"id": "conv020_0",
-"who": "y",
-"tag": "conv",
-"conv": "conv020",
-"seq": 0,
-"emo": "excited",
-"text": "Who wants to play I spy?",
-"file": "clips/conv020_0.mp3",
-"dur": 2.23,
-"mouth": "111111133333222511335555533222533555551111111",
-"h": "21e475ca09"
-},
-{
-"id": "conv020_1",
-"who": "g",
-"tag": "conv",
-"conv": "conv020",
-"seq": 1,
-"emo": "sleepy",
-"text": "I spy... my eyelids. (yawns)",
-"file": "clips/conv020_1.mp3",
-"dur": 3.51,
-"mouth": "11111533222133335555111115333553333555511222111111113322211111111111111",
-"h": "ebfc39f60f"
-},
-{
-"id": "conv020_2",
-"who": "y",
-"tag": "conv",
-"conv": "conv020",
-"seq": 2,
-"emo": "annoyed",
-"text": "That's cheating!",
-"file": "clips/conv020_2.mp3",
-"dur": 1.24,
-"mouth": "1111115511122333335551111",
-"h": "b95d78aa90"
-},
-{
-"id": "conv021_0",
-"who": "b",
-"tag": "conv",
-"conv": "conv021",
-"seq": 0,
-"emo": "curious",
-"text": "If we all move at once...",
-"file": "clips/conv021_0.mp3",
-"dur": 2.55,
-"mouth": "1111111111111155433334444444433544222211111111111111",
-"h": "f142d09de6"
-},
-{
-"id": "conv021_1",
-"who": "o",
-"tag": "conv",
-"conv": "conv021",
-"seq": 1,
-"emo": "angry",
-"text": "We ARE a traffic jam!",
-"file": "clips/conv021_1.mp3",
-"dur": 1.92,
-"mouth": "111433333333335115335555555555511111111",
-"h": "ba82789f10"
-},
-{
-"id": "conv022_0",
-"who": "y",
-"tag": "conv",
-"conv": "conv022",
-"seq": 0,
-"emo": "happy",
-"text": "The player likes me best!",
-"file": "clips/conv022_0.mp3",
-"dur": 1.92,
-"mouth": "111111355133333333214445551111111111111",
-"h": "c6e332e685"
-},
-{
-"id": "conv022_1",
-"who": "p",
-"tag": "conv",
-"conv": "conv022",
-"seq": 1,
-"emo": "smug",
-"text": "Don't be absurd. Everyone likes ME best.",
-"file": "clips/conv022_1.mp3",
-"dur": 3.35,
-"mouth": "1111333553352222333555111111135555555335224455555555111111111111111",
-"h": "d4de999f34"
-},
-{
-"id": "conv022_2",
-"who": "o",
-"tag": "conv",
-"conv": "conv022",
-"seq": 2,
-"emo": "angry",
-"text": "Nobody likes anybody! Move!",
-"file": "clips/conv022_2.mp3",
-"dur": 2.77,
-"mouth": "11154433333333555552111115555555551111115433334111111111",
-"h": "bd7e119e82"
-},
-{
-"id": "conv023_0",
-"who": "p",
-"tag": "conv",
-"conv": "conv023",
-"seq": 0,
-"emo": "smug",
-"text": "When I leave, I expect a parade.",
-"file": "clips/conv023_0.mp3",
-"dur": 3.67,
-"mouth": "11111111111111111111543333335555511111333352213311111555333555111111111111",
-"h": "bf3d1e603e"
-},
-{
-"id": "conv023_1",
-"who": "y",
-"tag": "conv",
-"conv": "conv023",
-"seq": 1,
-"emo": "excited",
-"text": "I'll be the parade! Bah bah bah!",
-"file": "clips/conv023_1.mp3",
-"dur": 2.38,
-"mouth": "111111333332113333555111111113333333333335551111",
-"h": "17e7bcb337"
-},
-{
-"id": "conv023_2",
-"who": "p",
-"tag": "conv",
-"conv": "conv023",
-"seq": 2,
-"emo": "smug",
-"text": "(chuckles) How delightfully tacky.",
-"file": "clips/conv023_2.mp3",
-"dur": 4.32,
-"mouth": "111111111111111115555555111111111111555333551333555333351155555511153331125551111111111",
-"h": "51ae80e2d9"
-},
-{
-"id": "conv024_0",
-"who": "g",
-"tag": "conv",
-"conv": "conv024",
-"seq": 0,
-"emo": "curious",
-"text": "What's the timer for?",
-"file": "clips/conv024_0.mp3",
-"dur": 1.6,
-"mouth": "144311111253355555555551111111111",
-"h": "f16daaa000"
-},
-{
-"id": "conv024_1",
-"who": "b",
-"tag": "conv",
-"conv": "conv024",
-"seq": 1,
-"emo": "smug",
-"text": "Making things tense.",
-"file": "clips/conv024_1.mp3",
-"dur": 3.64,
-"mouth": "1111111111115443355344412334444222215555511222111111111111111111111111111",
-"h": "d7ac0545ca"
-},
-{
-"id": "conv024_2",
-"who": "g",
-"tag": "conv",
-"conv": "conv024",
-"seq": 2,
-"emo": "sleepy",
-"text": "It's working. On you.",
-"file": "clips/conv024_2.mp3",
-"dur": 2.19,
-"mouth": "11115522254333512551111111333445511111111111",
-"h": "9c2ea0ea19"
-},
-{
-"id": "conv025_0",
-"who": "o",
-"tag": "conv",
-"conv": "conv025",
-"seq": 0,
-"emo": "nervous",
-"text": "One day, I'll be first out.",
-"file": "clips/conv025_0.mp3",
-"dur": 1.99,
-"mouth": "1114333333351111153333321133215511111111",
-"h": "facfd8579c"
-},
-{
-"id": "conv025_1",
-"who": "r",
-"tag": "conv",
-"conv": "conv025",
-"seq": 1,
-"emo": "happy",
-"text": "And we'll be so happy for you.",
-"file": "clips/conv025_1.mp3",
-"dur": 2.7,
-"mouth": "1111111111534444455222334455555551455555551111111111111",
-"h": "da7a4c5af9"
-},
-{
-"id": "conv025_2",
-"who": "o",
-"tag": "conv",
-"conv": "conv025",
-"seq": 2,
-"emo": "annoyed",
-"text": "Don't make it weird.",
-"file": "clips/conv025_2.mp3",
-"dur": 1.45,
-"mouth": "11115333333555533355111111111",
-"h": "891b833bca"
+"mouth": "11115555333355555511111111",
+"h": "e121861e2f"
 },
 {
 "id": "r_touch_01",
@@ -2472,336 +1497,6 @@
 "dur": 0.96,
 "mouth": "11115333555111111111",
 "h": "6daccdb510"
-},
-{
-"id": "r_exit_01",
-"who": "r",
-"tag": "exit",
-"emo": "happy",
-"text": "Wheeee! Bye bye!",
-"file": "clips/r_exit_01.mp3",
-"dur": 3.56,
-"mouth": "111111111153333333333555555555555555555555551155555555555555551111111111",
-"h": "5dc0ccd3fb"
-},
-{
-"id": "r_exit_02",
-"who": "r",
-"tag": "exit",
-"emo": "happy",
-"text": "Ooh! Goodbye, friends!",
-"file": "clips/r_exit_02.mp3",
-"dur": 2.54,
-"mouth": "111111114444444444411555555555555544451111111111111",
-"h": "d97f72951b"
-},
-{
-"id": "r_exit_03",
-"who": "r",
-"tag": "exit",
-"emo": "excited",
-"text": "Wheee! (giggles)",
-"file": "clips/r_exit_03.mp3",
-"dur": 2.78,
-"mouth": "11111111111553333553333333551111111111111521111111111111",
-"h": "24c3103317"
-},
-{
-"id": "r_exit_04",
-"who": "r",
-"tag": "exit",
-"emo": "happy",
-"text": "Bye! Be good!",
-"file": "clips/r_exit_04.mp3",
-"dur": 3.09,
-"mouth": "11111111111111111555533333511111111111111133333333111111111111",
-"h": "29eaad7b08"
-},
-{
-"id": "r_exit_05",
-"who": "r",
-"tag": "exit",
-"emo": "excited",
-"text": "Free! Ahhh!",
-"file": "clips/r_exit_05.mp3",
-"dur": 2.69,
-"mouth": "111111111112555533333333355533555555555555511111111111",
-"h": "96cd60a568"
-},
-{
-"id": "b_exit_01",
-"who": "b",
-"tag": "exit",
-"emo": "excited",
-"text": "Aaaah! Freedom!",
-"file": "clips/b_exit_01.mp3",
-"dur": 3.65,
-"mouth": "1111111111115533333333333333335111555555333333335555555551111111111111111",
-"h": "c3b493efaa"
-},
-{
-"id": "b_exit_02",
-"who": "b",
-"tag": "exit",
-"emo": "excited",
-"text": "Whoaaaa! Wheee!",
-"file": "clips/b_exit_02.mp3",
-"dur": 3.88,
-"mouth": "111111111111155533333333335554444533555555555555555511111111111111111111111111",
-"h": "6bcdc3804e"
-},
-{
-"id": "b_exit_03",
-"who": "b",
-"tag": "exit",
-"emo": "excited",
-"text": "Yaaay! Science!",
-"file": "clips/b_exit_03.mp3",
-"dur": 3.17,
-"mouth": "1111111111115553333333333333222223333334412222221111111111111111",
-"h": "cc24411b98"
-},
-{
-"id": "b_exit_04",
-"who": "b",
-"tag": "exit",
-"emo": "surprised",
-"text": "(gasps) Aaaaah!",
-"file": "clips/b_exit_04.mp3",
-"dur": 3.64,
-"mouth": "1111111111111233255551111111115333333555551111115555225111111152223335511",
-"h": "36084ecb68"
-},
-{
-"id": "b_exit_05",
-"who": "b",
-"tag": "exit",
-"emo": "excited",
-"text": "Bye! Statistically!",
-"file": "clips/b_exit_05.mp3",
-"dur": 3.96,
-"mouth": "11111111111111111111111153333333335511111111122222532231145555111111111111111111",
-"h": "d4d502e1b0"
-},
-{
-"id": "g_exit_01",
-"who": "g",
-"tag": "exit",
-"emo": "sleepy",
-"text": "Ahhh... nap time.",
-"file": "clips/g_exit_01.mp3",
-"dur": 3.02,
-"mouth": "1111153333333333333355511111111544435111125555511111111111111",
-"h": "a9b9a72235"
-},
-{
-"id": "g_exit_02",
-"who": "g",
-"tag": "exit",
-"emo": "surprised",
-"text": "Whoaaaa!",
-"file": "clips/g_exit_02.mp3",
-"dur": 2.68,
-"mouth": "111111125333333333333333333334435544444444444411111111",
-"h": "6607631289"
-},
-{
-"id": "g_exit_03",
-"who": "g",
-"tag": "exit",
-"emo": "sleepy",
-"text": "Byeee... (yawns)",
-"file": "clips/g_exit_03.mp3",
-"dur": 4.59,
-"mouth": "11553333355555555555511111111111111111111111111111133333333333333333333333335555511111111111",
-"h": "bdafbdcf11"
-},
-{
-"id": "g_exit_04",
-"who": "g",
-"tag": "exit",
-"emo": "happy",
-"text": "Finally. Bed.",
-"file": "clips/g_exit_04.mp3",
-"dur": 1.86,
-"mouth": "11333555555111111111555551111111111111",
-"h": "49ea5c02e9"
-},
-{
-"id": "g_exit_05",
-"who": "g",
-"tag": "exit",
-"emo": "surprised",
-"text": "Waaah!",
-"file": "clips/g_exit_05.mp3",
-"dur": 1.52,
-"mouth": "1115433333333335533355111111111",
-"h": "38d1e3b653"
-},
-{
-"id": "y_exit_01",
-"who": "y",
-"tag": "exit",
-"emo": "excited",
-"text": "WHEEEEE!",
-"file": "clips/y_exit_01.mp3",
-"dur": 3.44,
-"mouth": "111155533333352153333221334555111322351133555421553333221554335511111",
-"h": "0d86add388"
-},
-{
-"id": "y_exit_02",
-"who": "y",
-"tag": "exit",
-"emo": "excited",
-"text": "Yaaaay! Woohoo!",
-"file": "clips/y_exit_02.mp3",
-"dur": 3.29,
-"mouth": "111111533333333335555555333355555511111433553333335554455111111111",
-"h": "bdf14359c9"
-},
-{
-"id": "y_exit_03",
-"who": "y",
-"tag": "exit",
-"emo": "excited",
-"text": "Wheee! (giggles) Bye!",
-"file": "clips/y_exit_03.mp3",
-"dur": 2.53,
-"mouth": "111111433333333511111133111111115333555111111111111",
-"h": "071aba4f7a"
-},
-{
-"id": "y_exit_04",
-"who": "y",
-"tag": "exit",
-"emo": "excited",
-"text": "Woohoo! Freedom!",
-"file": "clips/y_exit_04.mp3",
-"dur": 1.85,
-"mouth": "1111114435533444451155555555511111111",
-"h": "2306c7bb0a"
-},
-{
-"id": "y_exit_05",
-"who": "y",
-"tag": "exit",
-"emo": "excited",
-"text": "Aaaaah! Again!",
-"file": "clips/y_exit_05.mp3",
-"dur": 2.23,
-"mouth": "111111533333352111153455533333444351111111111",
-"h": "598dd9db72"
-},
-{
-"id": "p_exit_01",
-"who": "p",
-"tag": "exit",
-"emo": "smug",
-"text": "Farewell, peasants!",
-"file": "clips/p_exit_01.mp3",
-"dur": 1.81,
-"mouth": "1111233355333355555125551111111111111",
-"h": "1a6e1ee112"
-},
-{
-"id": "p_exit_02",
-"who": "p",
-"tag": "exit",
-"emo": "surprised",
-"text": "Aaaah! Ta ta!",
-"file": "clips/p_exit_02.mp3",
-"dur": 2.21,
-"mouth": "111153333333335511111153311533333351111111111",
-"h": "f9387c9d0a"
-},
-{
-"id": "p_exit_03",
-"who": "p",
-"tag": "exit",
-"emo": "smug",
-"text": "Make way! (chuckles)",
-"file": "clips/p_exit_03.mp3",
-"dur": 2.21,
-"mouth": "111155533511533333225511115211551255111111111",
-"h": "140483a2e0"
-},
-{
-"id": "p_exit_04",
-"who": "p",
-"tag": "exit",
-"emo": "surprised",
-"text": "Whoaaa! How undignified!",
-"file": "clips/p_exit_04.mp3",
-"dur": 3.67,
-"mouth": "11111115333333333335555551111111115533553355412255555512555555111111111111",
-"h": "82bd7b00e2"
-},
-{
-"id": "p_exit_05",
-"who": "p",
-"tag": "exit",
-"emo": "smug",
-"text": "Ta ta, darlings!",
-"file": "clips/p_exit_05.mp3",
-"dur": 2.21,
-"mouth": "111153331153333335115333555555555511111111111",
-"h": "3b2b9a1a06"
-},
-{
-"id": "o_exit_01",
-"who": "o",
-"tag": "exit",
-"emo": "angry",
-"text": "Aaaargh!",
-"file": "clips/o_exit_01.mp3",
-"dur": 1.36,
-"mouth": "1111233333335555511111111111",
-"h": "0cede9012b"
-},
-{
-"id": "o_exit_02",
-"who": "o",
-"tag": "exit",
-"emo": "angry",
-"text": "FINALLY! Aaaah!",
-"file": "clips/o_exit_02.mp3",
-"dur": 2.15,
-"mouth": "11111133333333355111112333333333335111111111",
-"h": "82c739fa8e"
-},
-{
-"id": "o_exit_03",
-"who": "o",
-"tag": "exit",
-"emo": "angry",
-"text": "Raaaah!",
-"file": "clips/o_exit_03.mp3",
-"dur": 1.83,
-"mouth": "1111154444333333333333333355111111111",
-"h": "6bf3b9b3e8"
-},
-{
-"id": "o_exit_04",
-"who": "o",
-"tag": "exit",
-"emo": "annoyed",
-"text": "About time! Bye!",
-"file": "clips/o_exit_04.mp3",
-"dur": 1.83,
-"mouth": "1111553335555555111111533355111111111",
-"h": "af5fb4c73a"
-},
-{
-"id": "o_exit_05",
-"who": "o",
-"tag": "exit",
-"emo": "angry",
-"text": "Outta my way! Aaah!",
-"file": "clips/o_exit_05.mp3",
-"dur": 1.83,
-"mouth": "1115533333333335551111133335111111111",
-"h": "6b39cf39c8"
 },
 {
 "id": "r_start_new_01",
@@ -3919,11 +2614,11 @@
 "who": "g",
 "tag": "streak",
 "emo": "sleepy",
-"text": "Everyone's leaving. Wait for me.",
+"text": "Hey. Wait for me.",
 "file": "clips/g_streak_02.mp3",
-"dur": 2.85,
-"mouth": "1111155555433555555555551111111115433511155551111111111111",
-"h": "7e1fc8af07"
+"dur": 2.19,
+"mouth": "11112333551111111543351123445555511111111111",
+"h": "2d63ce0da2"
 },
 {
 "id": "y_streak_01",
@@ -4832,11 +3527,11 @@
 "who": "g",
 "tag": "time_final",
 "emo": "panic",
-"text": "Ten seconds! Wake up everyone!",
+"text": "Ten seconds! Hurry hurry!",
 "file": "clips/g_time_final_01.mp3",
 "dur": 3.02,
-"mouth": "1122355522335125511122111111533355533555555555551111111111111",
-"h": "219dbae318"
+"mouth": "1123355522233555555511221111115333335555333555511111111111111",
+"h": "aed57da0eb"
 },
 {
 "id": "g_time_final_02",
@@ -5459,11 +4154,11 @@
 "who": "r",
 "tag": "shuffle",
 "emo": "calm",
-"text": "Find your new spots, everyone.",
+"text": "New spots! Let's have a look.",
 "file": "clips/r_shuffle_02.mp3",
-"dur": 2.62,
-"mouth": "11111111111123344444442155555222333443544511111111111",
-"h": "34a626c724"
+"dur": 3.25,
+"mouth": "111111111154443332221355335122221111111555225555445551111111111111",
+"h": "354de1cc53"
 },
 {
 "id": "b_shuffle_01",
@@ -5583,9 +4278,9 @@
 "emo": "sad",
 "text": "Not enough coins",
 "file": "clips/r_say_58742c82.mp3",
-"dur": 3.56,
-"mouth": "111111333333451111111111115333335555511111111553333351144333455221111111",
-"h": "4102558596"
+"dur": 2.78,
+"mouth": "11111111111111111114433355433555544555555222111111111111",
+"h": "4f904d5576"
 },
 {
 "id": "b_say_58742c82",
@@ -5595,9 +4290,9 @@
 "emo": "sad",
 "text": "Not enough coins",
 "file": "clips/b_say_58742c82.mp3",
-"dur": 4.44,
-"mouth": "11111111111111111144333344444553333333333555111111115443333331154445544422111111111111111",
-"h": "b0ecdcaf3d"
+"dur": 2.86,
+"mouth": "1111111111111111443333333211154433344442221111111111111111",
+"h": "92b7028a70"
 },
 {
 "id": "g_say_58742c82",
@@ -5607,9 +4302,9 @@
 "emo": "sad",
 "text": "Not enough coins",
 "file": "clips/g_say_58742c82.mp3",
-"dur": 4.1,
-"mouth": "1115555522211111111111115333335551111111111154433333333555143333445222111111111111",
-"h": "82ebd9a309"
+"dur": 1.86,
+"mouth": "14433322333511553335555512211111111111",
+"h": "d8a61e3ad8"
 },
 {
 "id": "y_say_58742c82",
@@ -5619,9 +4314,9 @@
 "emo": "sad",
 "text": "Not enough coins",
 "file": "clips/y_say_58742c82.mp3",
-"dur": 3.67,
-"mouth": "11111133333333344433333345553333555555555445555551111144333344442111111111",
-"h": "670e4c50c7"
+"dur": 1.62,
+"mouth": "111111433333351154335442211111111",
+"h": "043dfde09b"
 },
 {
 "id": "p_say_58742c82",
@@ -5631,9 +4326,9 @@
 "emo": "sad",
 "text": "Not enough coins",
 "file": "clips/p_say_58742c82.mp3",
-"dur": 4.32,
-"mouth": "111333333553335555111111553333335555555555511555555533555553115553355555111111111111111",
-"h": "86668229b3"
+"dur": 1.97,
+"mouth": "1111111154333333111433555522211111111111",
+"h": "49df5b5393"
 },
 {
 "id": "o_say_58742c82",
@@ -5643,9 +4338,9 @@
 "emo": "sad",
 "text": "Not enough coins",
 "file": "clips/o_say_58742c82.mp3",
-"dur": 2.86,
-"mouth": "1111533321111111153333335111111153333335115435511111111111",
-"h": "04ac74220b"
+"dur": 1.45,
+"mouth": "11153333331115435551111111111",
+"h": "ff70605599"
 },
 {
 "id": "r_say_5d827745",
@@ -5655,9 +4350,9 @@
 "emo": "happy",
 "text": "Hearts refilled!",
 "file": "clips/r_say_5d827745.mp3",
-"dur": 4.59,
-"mouth": "11111111111333344444511111333512222111111111113335123333451111111555333335555555511111111111",
-"h": "8ac6ffef24"
+"dur": 2.07,
+"mouth": "111111111111111335223315333335511111111111",
+"h": "f4e2034b7d"
 },
 {
 "id": "b_say_5d827745",
@@ -5667,9 +4362,9 @@
 "emo": "happy",
 "text": "Hearts refilled!",
 "file": "clips/b_say_5d827745.mp3",
-"dur": 4.59,
-"mouth": "11111111111111115444444451153333552222221111155335111233334444555533553335555555511111111111",
-"h": "8e2f034597"
+"dur": 2.86,
+"mouth": "1111111111111111111111115333522143311333334551111111111111",
+"h": "17390f0c98"
 },
 {
 "id": "g_say_5d827745",
@@ -5679,9 +4374,9 @@
 "emo": "happy",
 "text": "Hearts refilled!",
 "file": "clips/g_say_5d827745.mp3",
-"dur": 5.02,
-"mouth": "11111111255533335511111112533333511122221111113334451115333334445111111111153335555555555111111111111",
-"h": "41ba0d57a1"
+"dur": 1.69,
+"mouth": "1233335511155551155554451111111111",
+"h": "20ae95b95c"
 },
 {
 "id": "y_say_5d827745",
@@ -5691,9 +4386,9 @@
 "emo": "happy",
 "text": "Hearts refilled!",
 "file": "clips/y_say_5d827745.mp3",
-"dur": 4.42,
-"mouth": "11111144555111145333333333333344511113333511111533333351111533333333355555333335555111111",
-"h": "fa76fe28ef"
+"dur": 1.54,
+"mouth": "1111112233355555553334111111111",
+"h": "daba2e79d3"
 },
 {
 "id": "p_say_5d827745",
@@ -5703,9 +4398,9 @@
 "emo": "happy",
 "text": "Hearts refilled!",
 "file": "clips/p_say_5d827745.mp3",
-"dur": 4.4,
-"mouth": "1111153335555555111111111111133355111111111111333511153333555111115335555555111111111111",
-"h": "cf9fc1d085"
+"dur": 1.81,
+"mouth": "1111111123331222332133335511111111111",
+"h": "e1f131b3a2"
 },
 {
 "id": "o_say_5d827745",
@@ -5715,9 +4410,9 @@
 "emo": "happy",
 "text": "Hearts refilled!",
 "file": "clips/o_say_5d827745.mp3",
-"dur": 3.65,
-"mouth": "1111533351111111112335111111111153332112335551111111533333333355551111111",
-"h": "3f8deb39b0"
+"dur": 1.53,
+"mouth": "1111533511533511335511111111111",
+"h": "45490808e5"
 },
 {
 "id": "r_say_a8650e57",
@@ -5727,9 +4422,9 @@
 "emo": "happy",
 "text": "+1 heart",
 "file": "clips/r_say_a8650e57.mp3",
-"dur": 3.25,
-"mouth": "11111111133334445111111111111153344451154354443551155551111111111",
-"h": "690849b0f9"
+"dur": 2.23,
+"mouth": "111111111553225555433333355555111111111111111",
+"h": "77797e1b54"
 },
 {
 "id": "b_say_a8650e57",
@@ -5739,9 +4434,9 @@
 "emo": "happy",
 "text": "+1 heart",
 "file": "clips/b_say_a8650e57.mp3",
-"dur": 4.27,
-"mouth": "11111111111155333344444445553333355444533334443355533333551111111111111111111111111111",
-"h": "3b9a42d617"
+"dur": 3.57,
+"mouth": "111111111111111111111111111111111111111113322543345113333511111111111111",
+"h": "09b99c8fd0"
 },
 {
 "id": "g_say_a8650e57",
@@ -5751,9 +4446,9 @@
 "emo": "happy",
 "text": "+1 heart",
 "file": "clips/g_say_a8650e57.mp3",
-"dur": 3.02,
-"mouth": "1115555555511111111153333334445555555555555555551111111111111",
-"h": "0d66ac6e64"
+"dur": 2.43,
+"mouth": "1111111533522255543335555115333555111111111111111",
+"h": "8cde80d4b1"
 },
 {
 "id": "y_say_a8650e57",
@@ -5763,9 +4458,9 @@
 "emo": "happy",
 "text": "+1 heart",
 "file": "clips/y_say_a8650e57.mp3",
-"dur": 2.45,
-"mouth": "11111154355534444451153333333444443355555111111111",
-"h": "bc34e69c51"
+"dur": 1.54,
+"mouth": "1111111332243355333111111111111",
+"h": "cd405dc8e1"
 },
 {
 "id": "p_say_a8650e57",
@@ -5775,9 +4470,9 @@
 "emo": "happy",
 "text": "+1 heart",
 "file": "clips/p_say_a8650e57.mp3",
-"dur": 4.08,
-"mouth": "1111111553335555555555111115533335555111111111115555555555513333551111111111111111",
-"h": "ba026e4958"
+"dur": 1.97,
+"mouth": "1111533211111115335555553335511111111111",
+"h": "8e74a8981d"
 },
 {
 "id": "o_say_a8650e57",
@@ -5787,9 +4482,9 @@
 "emo": "happy",
 "text": "+1 heart",
 "file": "clips/o_say_a8650e57.mp3",
-"dur": 2.77,
-"mouth": "11115555511111111115333344511111114333335533351111111111",
-"h": "5810de4181"
+"dur": 2.0,
+"mouth": "1111153331111111153335555123351111111111",
+"h": "7d98c0b618"
 },
 {
 "id": "r_say_90752d4f",
@@ -5799,9 +4494,9 @@
 "emo": "calm",
 "text": "Progress reset",
 "file": "clips/r_say_90752d4f.mp3",
-"dur": 4.03,
-"mouth": "111111111115554444444411111153335211111111111111111111155555215555522221111111111",
-"h": "cf683b0495"
+"dur": 2.15,
+"mouth": "11111111111533333225522235511111111111111111",
+"h": "9d161f6690"
 },
 {
 "id": "b_say_90752d4f",
@@ -5811,9 +4506,9 @@
 "emo": "calm",
 "text": "Progress reset",
 "file": "clips/b_say_90752d4f.mp3",
-"dur": 3.26,
-"mouth": "111111111111111555555553411133334511111115335115335111111111111111",
-"h": "edbcf5fb3e"
+"dur": 2.94,
+"mouth": "11111111111111111433443322221544422233351111111111111111111",
+"h": "4cec52a54e"
 },
 {
 "id": "g_say_90752d4f",
@@ -5823,9 +4518,9 @@
 "emo": "calm",
 "text": "Progress reset",
 "file": "clips/g_say_90752d4f.mp3",
-"dur": 3.27,
-"mouth": "111533333355551111111113333355111111111544451155551122211111111111",
-"h": "1d5b8091ca"
+"dur": 2.02,
+"mouth": "11115333555555221543552223551111111111111",
+"h": "0cf4a2ffa0"
 },
 {
 "id": "y_say_90752d4f",
@@ -5835,9 +4530,9 @@
 "emo": "calm",
 "text": "Progress reset",
 "file": "clips/y_say_90752d4f.mp3",
-"dur": 2.38,
-"mouth": "111111335533355533511111533311355122111111111111",
-"h": "a6efd5bc81"
+"dur": 1.7,
+"mouth": "1111115333335215552255111111111111",
+"h": "3f352447df"
 },
 {
 "id": "p_say_90752d4f",
@@ -5847,9 +4542,9 @@
 "emo": "calm",
 "text": "Progress reset",
 "file": "clips/p_say_90752d4f.mp3",
-"dur": 3.59,
-"mouth": "111111113333555555511111111111153335111111111115551113355222111111111111",
-"h": "c3261fcbc1"
+"dur": 1.65,
+"mouth": "111153351332211552225511111111111",
+"h": "e6948c8b21"
 },
 {
 "id": "o_say_90752d4f",
@@ -5859,9 +4554,9 @@
 "emo": "calm",
 "text": "Progress reset",
 "file": "clips/o_say_90752d4f.mp3",
-"dur": 2.62,
-"mouth": "11115555521111115333351111111115333112355111111111111",
-"h": "d4598a8124"
+"dur": 1.68,
+"mouth": "1111133333331123321123111111111111",
+"h": "ca0241dc5a"
 },
 {
 "id": "r_say_32657d0c",
@@ -5871,9 +4566,9 @@
 "emo": "surprised",
 "text": "Shut! Send 1 more brick out to open it.",
 "file": "clips/r_say_32657d0c.mp3",
-"dur": 3.57,
-"mouth": "111111111115333445111111111443551111111111154333333331155551111111111111",
-"h": "dc7c5570b9"
+"dur": 3.25,
+"mouth": "111111123333511111111111123335443334444555555555541551111111111111",
+"h": "29aa9c21da"
 },
 {
 "id": "b_say_32657d0c",
@@ -5883,9 +4578,9 @@
 "emo": "surprised",
 "text": "Shut! Send 1 more brick out to open it.",
 "file": "clips/b_say_32657d0c.mp3",
-"dur": 4.04,
-"mouth": "111111111111155554445543335511111111111111115333333335113334222111111111111111111",
-"h": "76b5ac1a19"
+"dur": 4.12,
+"mouth": "11111111111122233351111111112233444443344333553333331255344455111111111111111111111",
+"h": "1220d41178"
 },
 {
 "id": "g_say_32657d0c",
@@ -5895,9 +4590,9 @@
 "emo": "surprised",
 "text": "Shut! Send 1 more brick out to open it.",
 "file": "clips/g_say_32657d0c.mp3",
-"dur": 4.19,
-"mouth": "115555522511111111111555335111111111111155433544433331533355111233555111111111111111",
-"h": "87b02da358"
+"dur": 3.77,
+"mouth": "5222233511111111111233355433544444113351111155511225555555511111111111111111",
+"h": "427bd354c9"
 },
 {
 "id": "y_say_32657d0c",
@@ -5907,9 +4602,9 @@
 "emo": "surprised",
 "text": "Shut! Send 1 more brick out to open it.",
 "file": "clips/y_say_32657d0c.mp3",
-"dur": 3.88,
-"mouth": "111111333333355555555445111111533551111111115554334443555511555111111111111111",
-"h": "cf9c629e2e"
+"dur": 2.9,
+"mouth": "11111122333111111223445544333333333355555555555511111111111",
+"h": "1125dd9b50"
 },
 {
 "id": "p_say_32657d0c",
@@ -5919,9 +4614,9 @@
 "emo": "surprised",
 "text": "Shut! Send 1 more brick out to open it.",
 "file": "clips/p_say_32657d0c.mp3",
-"dur": 3.67,
-"mouth": "11111112533335555111111111155333311111111154333333333351115551111111111111",
-"h": "31f820cb01"
+"dur": 3.19,
+"mouth": "1111112223331111111111335553355533355555555555555511111111111111",
+"h": "479a8e14c5"
 },
 {
 "id": "o_say_32657d0c",
@@ -5931,9 +4626,9 @@
 "emo": "surprised",
 "text": "Shut! Send 1 more brick out to open it.",
 "file": "clips/o_say_32657d0c.mp3",
-"dur": 3.33,
-"mouth": "1111555511111111144335111111111111444334433355555111155111111111111",
-"h": "3db0721555"
+"dur": 3.17,
+"mouth": "1111111335111111111235555543335533341533153351111555511111111111",
+"h": "a08f2caace"
 },
 {
 "id": "r_say_2f447cad",
@@ -5943,9 +4638,9 @@
 "emo": "surprised",
 "text": "Shut! Send 2 more bricks out to open it.",
 "file": "clips/r_say_2f447cad.mp3",
-"dur": 3.8,
-"mouth": "11111111111333344411111111154333551111111112223344435555511155551222111111111",
-"h": "49e9f53c57"
+"dur": 3.33,
+"mouth": "1111111223335111111111112355223333555555555555555555111111111111111",
+"h": "90af5a4545"
 },
 {
 "id": "b_say_2f447cad",
@@ -5955,9 +4650,9 @@
 "emo": "surprised",
 "text": "Shut! Send 2 more bricks out to open it.",
 "file": "clips/b_say_2f447cad.mp3",
-"dur": 4.2,
-"mouth": "111111111111555553334455555553355111111111111111112234433333511233352222111111111111",
-"h": "2a78834906"
+"dur": 4.52,
+"mouth": "1111111111111111122223335511111111111111111112222344122233333341533122555514415551111111111",
+"h": "f9bab1f8d0"
 },
 {
 "id": "g_say_2f447cad",
@@ -5967,9 +4662,9 @@
 "emo": "surprised",
 "text": "Shut! Send 2 more bricks out to open it.",
 "file": "clips/g_say_2f447cad.mp3",
-"dur": 3.85,
-"mouth": "115333352111111111155533311112221111122555543333335111533555122211111111111111",
-"h": "aed7be57ec"
+"dur": 3.6,
+"mouth": "5222233551221111111222335421122333444444511223551224333155511111111111111",
+"h": "b907d5f3c8"
 },
 {
 "id": "y_say_2f447cad",
@@ -5979,9 +4674,9 @@
 "emo": "surprised",
 "text": "Shut! Send 2 more bricks out to open it.",
 "file": "clips/y_say_2f447cad.mp3",
-"dur": 3.58,
-"mouth": "111111533333344115333333355111111111555551111112344333511555111111111111",
-"h": "c13175220f"
+"dur": 2.9,
+"mouth": "1111112222335111111123345233334531133111541555111111111111",
+"h": "b9e6f5201a"
 },
 {
 "id": "p_say_2f447cad",
@@ -5991,9 +4686,9 @@
 "emo": "surprised",
 "text": "Shut! Send 2 more bricks out to open it.",
 "file": "clips/p_say_2f447cad.mp3",
-"dur": 4.16,
-"mouth": "111123335555111111111115433335111111111111111111225555533335111335552221111111111111",
-"h": "e5bd359eb2"
+"dur": 3.19,
+"mouth": "1111111222233511111111111235522553355551155555555555511111111111",
+"h": "002dc37ebb"
 },
 {
 "id": "o_say_2f447cad",
@@ -6003,9 +4698,9 @@
 "emo": "surprised",
 "text": "Shut! Send 2 more bricks out to open it.",
 "file": "clips/o_say_2f447cad.mp3",
-"dur": 2.7,
-"mouth": "1111335211111111133351111111233333333511135511111111111",
-"h": "9507aa11d2"
+"dur": 2.86,
+"mouth": "1111122235111111111123334123333341335123511155511111111111",
+"h": "8305ed35a6"
 },
 {
 "id": "r_say_d8a7adf7",
@@ -6015,9 +4710,9 @@
 "emo": "surprised",
 "text": "Shut! Send 3 more bricks out to open it.",
 "file": "clips/r_say_d8a7adf7.mp3",
-"dur": 4.75,
-"mouth": "111111111111111113333334445111111111111144555555111111111112333334445533511155552211111111111111",
-"h": "e9358b50a8"
+"dur": 2.94,
+"mouth": "11111122233351111123555125555335551225125555551111111111111",
+"h": "9f6281c1fb"
 },
 {
 "id": "b_say_d8a7adf7",
@@ -6028,8 +4723,8 @@
 "text": "Shut! Send 3 more bricks out to open it.",
 "file": "clips/b_say_d8a7adf7.mp3",
 "dur": 4.2,
-"mouth": "111111111115555533555444553333351122211111111114334433331112333522221122111111111111",
-"h": "e28165f544"
+"mouth": "111111111111222335111111111112233441125554433553322335555541555511111111111111111111",
+"h": "d9c6d4e3f3"
 },
 {
 "id": "g_say_d8a7adf7",
@@ -6039,9 +4734,9 @@
 "emo": "surprised",
 "text": "Shut! Send 3 more bricks out to open it.",
 "file": "clips/g_say_d8a7adf7.mp3",
-"dur": 3.85,
-"mouth": "112555511111111111555553355111112211111111233554333333511155555122111111111111",
-"h": "2022773b06"
+"dur": 3.84,
+"mouth": "52222335511111111111122334511153355443355333512255551255533555551112211111111",
+"h": "4902426f48"
 },
 {
 "id": "y_say_d8a7adf7",
@@ -6052,8 +4747,8 @@
 "text": "Shut! Send 3 more bricks out to open it.",
 "file": "clips/y_say_d8a7adf7.mp3",
 "dur": 3.05,
-"mouth": "11111133335553334445111553351111111112433335555115551111111111",
-"h": "191363b85e"
+"mouth": "11111122223351111111122334512433333455523315555415551111111111",
+"h": "6de3bf718f"
 },
 {
 "id": "p_say_d8a7adf7",
@@ -6063,9 +4758,9 @@
 "emo": "surprised",
 "text": "Shut! Send 3 more bricks out to open it.",
 "file": "clips/p_say_d8a7adf7.mp3",
-"dur": 3.51,
-"mouth": "11115333355511111111155333511111111111555553333331123551111111111111111",
-"h": "3f32ae2628"
+"dur": 4.24,
+"mouth": "1111111111111112222335122111111111111123351155333333555331233555533155511111111111111",
+"h": "8d01213c4a"
 },
 {
 "id": "o_say_d8a7adf7",
@@ -6075,9 +4770,9 @@
 "emo": "surprised",
 "text": "Shut! Send 3 more bricks out to open it.",
 "file": "clips/o_say_d8a7adf7.mp3",
-"dur": 2.94,
-"mouth": "11115335111111111533351111111114334433333511333111111111111",
-"h": "a7f1e0783c"
+"dur": 2.77,
+"mouth": "11111222351111111111133412333333413351235115345511111111",
+"h": "58214b21c4"
 },
 {
 "id": "r_say_2af5d1bf",
@@ -6087,9 +4782,9 @@
 "emo": "surprised",
 "text": "Shut! Send 4 more bricks out to open it.",
 "file": "clips/r_say_2af5d1bf.mp3",
-"dur": 4.9,
-"mouth": "111111111111333344445111111111111111114335221111111111111111133344444333355115555221111111111111111",
-"h": "3175d55a6f"
+"dur": 3.18,
+"mouth": "1111112223335111111111222334513333334555125555554155111111111111",
+"h": "ba97e1d477"
 },
 {
 "id": "b_say_2af5d1bf",
@@ -6099,9 +4794,9 @@
 "emo": "surprised",
 "text": "Shut! Send 4 more bricks out to open it.",
 "file": "clips/b_say_2af5d1bf.mp3",
-"dur": 4.9,
-"mouth": "111111111111111111155333333444553333355111111111111111114433453335511133335222222111111111111111111",
-"h": "59230fe6e8"
+"dur": 4.82,
+"mouth": "1111111111111122233511111111111111111111111111111112554114444433555512335555415555111111111111111",
+"h": "daab40cbce"
 },
 {
 "id": "g_say_2af5d1bf",
@@ -6111,9 +4806,9 @@
 "emo": "surprised",
 "text": "Shut! Send 4 more bricks out to open it.",
 "file": "clips/g_say_2af5d1bf.mp3",
-"dur": 3.86,
-"mouth": "111225111111111155335511111221111111115333333333333511155555222111111111111111",
-"h": "d41a6153c1"
+"dur": 3.6,
+"mouth": "5222233551111111112335551133344444435555551122115551125555555511111111111",
+"h": "3d10639877"
 },
 {
 "id": "y_say_2af5d1bf",
@@ -6123,9 +4818,9 @@
 "emo": "surprised",
 "text": "Shut! Send 4 more bricks out to open it.",
 "file": "clips/y_say_2af5d1bf.mp3",
-"dur": 3.21,
-"mouth": "11111133335553333345111115333511111111153333333511335211111111111",
-"h": "09f6147af7"
+"dur": 3.13,
+"mouth": "111111222233511111111233312333333555522333315555555111111111111",
+"h": "2e7dc12c9e"
 },
 {
 "id": "p_say_2af5d1bf",
@@ -6135,9 +4830,9 @@
 "emo": "surprised",
 "text": "Shut! Send 4 more bricks out to open it.",
 "file": "clips/p_say_2af5d1bf.mp3",
-"dur": 3.35,
-"mouth": "1111533555555111111111153351111111153333333351155551111111111111111",
-"h": "7b11f7395a"
+"dur": 3.59,
+"mouth": "111111112222333111111111112555115335533555551233512555555551111111111111",
+"h": "4f49ec989c"
 },
 {
 "id": "o_say_2af5d1bf",
@@ -6147,9 +4842,9 @@
 "emo": "surprised",
 "text": "Shut! Send 4 more bricks out to open it.",
 "file": "clips/o_say_2af5d1bf.mp3",
-"dur": 3.1,
-"mouth": "111153351111111111543335111111111113333333333511551111111111111",
-"h": "5f19e5c43a"
+"dur": 3.02,
+"mouth": "1111112351111111111133421123333333355555555555533111111111111",
+"h": "15429b0bb2"
 },
 {
 "id": "r_say_42358c4e",
@@ -6159,9 +4854,9 @@
 "emo": "surprised",
 "text": "Shut! Send 5 more bricks out to open it.",
 "file": "clips/r_say_42358c4e.mp3",
-"dur": 4.5,
-"mouth": "1111111111113354444451111111115333333511111111111111153335144444355555511551111111111111111",
-"h": "b5b0bb6293"
+"dur": 3.33,
+"mouth": "1111112223355111111112233422233355433555522555555555551111111111111",
+"h": "f4bea6ba3e"
 },
 {
 "id": "b_say_42358c4e",
@@ -6171,9 +4866,9 @@
 "emo": "surprised",
 "text": "Shut! Send 5 more bricks out to open it.",
 "file": "clips/b_say_42358c4e.mp3",
-"dur": 4.2,
-"mouth": "1111111111115555555555555553335111111111111111333553333511133355222111111111111111111",
-"h": "24bf6d19cf"
+"dur": 3.57,
+"mouth": "111111111112223355111111111122234512333334553312335555555551111111111111",
+"h": "6a0b614d8d"
 },
 {
 "id": "g_say_42358c4e",
@@ -6183,9 +4878,9 @@
 "emo": "surprised",
 "text": "Shut! Send 5 more bricks out to open it.",
 "file": "clips/g_say_42358c4e.mp3",
-"dur": 4.27,
-"mouth": "11255551111111111111555335511112211111111111333355444444333511155555555122111111111111",
-"h": "aec7a294db"
+"dur": 3.77,
+"mouth": "1222233551122111111112233555114333354333115555112233511553355551111111111111",
+"h": "9adb6ae9d7"
 },
 {
 "id": "y_say_42358c4e",
@@ -6195,9 +4890,9 @@
 "emo": "surprised",
 "text": "Shut! Send 5 more bricks out to open it.",
 "file": "clips/y_say_42358c4e.mp3",
-"dur": 3.14,
-"mouth": "111111533333344411111555333511111111113354333355555511111111111",
-"h": "fe179ed0b0"
+"dur": 3.36,
+"mouth": "11111122222331111111112333213335533453311115551255345555111111111111",
+"h": "597cb3740e"
 },
 {
 "id": "p_say_42358c4e",
@@ -6207,9 +4902,9 @@
 "emo": "surprised",
 "text": "Shut! Send 5 more bricks out to open it.",
 "file": "clips/p_say_42358c4e.mp3",
-"dur": 3.35,
-"mouth": "1111533335555111111153333511111111133355553333355115551111111111111",
-"h": "402b8f6c50"
+"dur": 3.67,
+"mouth": "11111112223311111111111111113333213333553335133122351255341555111111111111",
+"h": "9c05ebfd07"
 },
 {
 "id": "o_say_42358c4e",
@@ -6219,9 +4914,9 @@
 "emo": "surprised",
 "text": "Shut! Send 5 more bricks out to open it.",
 "file": "clips/o_say_42358c4e.mp3",
-"dur": 2.7,
-"mouth": "111153352111111111533511112335543335511255111111111111",
-"h": "3b4ce09a30"
+"dur": 2.86,
+"mouth": "1111122235111111111235511333553341335123555533111111111111",
+"h": "56feede514"
 },
 {
 "id": "r_say_ae3c7d36",
@@ -6231,9 +4926,9 @@
 "emo": "surprised",
 "text": "Shut! Send 6 more bricks out to open it.",
 "file": "clips/r_say_ae3c7d36.mp3",
-"dur": 5.14,
-"mouth": "1111111111111111333544511111111111111155333551111111111111111222235222244433333335111533511221111111111",
-"h": "d2f1db2780"
+"dur": 3.09,
+"mouth": "11111122233511111111111123332233225555552235555555551111111111",
+"h": "26457a52f9"
 },
 {
 "id": "b_say_ae3c7d36",
@@ -6243,9 +4938,9 @@
 "emo": "surprised",
 "text": "Shut! Send 6 more bricks out to open it.",
 "file": "clips/b_say_ae3c7d36.mp3",
-"dur": 5.05,
-"mouth": "111111111111111111111145333334455511143335111111111111122222143333222333221111111111111111111111111111",
-"h": "85d35e1f21"
+"dur": 4.2,
+"mouth": "1111111111112222335111111111111112223352233224335533123355555345555111111111111111111",
+"h": "666209c244"
 },
 {
 "id": "g_say_ae3c7d36",
@@ -6255,9 +4950,9 @@
 "emo": "surprised",
 "text": "Shut! Send 6 more bricks out to open it.",
 "file": "clips/g_say_ae3c7d36.mp3",
-"dur": 4.19,
-"mouth": "111555555551111111111155333551111111111122222222433335555335111533355522211111111111",
-"h": "9ccfcd562a"
+"dur": 3.86,
+"mouth": "122333335112211111122233345222231225433513351225551125553315551111221111111111",
+"h": "3031ec5203"
 },
 {
 "id": "y_say_ae3c7d36",
@@ -6268,8 +4963,8 @@
 "text": "Shut! Send 6 more bricks out to open it.",
 "file": "clips/y_say_ae3c7d36.mp3",
 "dur": 3.14,
-"mouth": "111111555533333333444445555553111222512455555115511111111111111",
-"h": "d928001967"
+"mouth": "111111222333511111111233422222433413312355555555555111111111111",
+"h": "ecf7b71966"
 },
 {
 "id": "p_say_ae3c7d36",
@@ -6279,9 +4974,9 @@
 "emo": "surprised",
 "text": "Shut! Send 6 more bricks out to open it.",
 "file": "clips/p_say_ae3c7d36.mp3",
-"dur": 3.67,
-"mouth": "11115333555511111111115333311111111111111112553333351123511111111111111111",
-"h": "6aceca05de"
+"dur": 3.83,
+"mouth": "11111112223311221111111111222335522222214533555551223512553315551111111111111",
+"h": "2e9f6fbf7f"
 },
 {
 "id": "o_say_ae3c7d36",
@@ -6292,8 +4987,8 @@
 "text": "Shut! Send 6 more bricks out to open it.",
 "file": "clips/o_say_ae3c7d36.mp3",
 "dur": 2.94,
-"mouth": "11115335111111111133351111111111125114333351133511111111111",
-"h": "bb9e42170f"
+"mouth": "11111222331111111112335222231255335133223511133555111111111",
+"h": "648a4d4959"
 },
 {
 "id": "r_say_c8fa1401",
@@ -6303,9 +4998,9 @@
 "emo": "surprised",
 "text": "Shut! Send 7 more bricks out to open it.",
 "file": "clips/r_say_c8fa1401.mp3",
-"dur": 4.03,
-"mouth": "111111111111553334451111111543333351222111111111122233344433355555552221111111111",
-"h": "b0ad66888b"
+"dur": 2.94,
+"mouth": "11111122233351111112233522233555555555225555555555111111111",
+"h": "e3d8232e02"
 },
 {
 "id": "b_say_c8fa1401",
@@ -6315,9 +5010,9 @@
 "emo": "surprised",
 "text": "Shut! Send 7 more bricks out to open it.",
 "file": "clips/b_say_c8fa1401.mp3",
-"dur": 5.14,
-"mouth": "1111111111111111111111111111111444444445543333511111111112223554444333351115555211111111111111111111111",
-"h": "3b610e186b"
+"dur": 4.2,
+"mouth": "1111111111111112222233511111111111122334222333444444351233555544155511111111111111111",
+"h": "4d464c64c8"
 },
 {
 "id": "g_say_c8fa1401",
@@ -6327,9 +5022,9 @@
 "emo": "surprised",
 "text": "Shut! Send 7 more bricks out to open it.",
 "file": "clips/g_say_c8fa1401.mp3",
-"dur": 4.02,
-"mouth": "155555555111111111555533551111111111112223355544444435555111155555522111111111111",
-"h": "2e0da13c01"
+"dur": 3.27,
+"mouth": "522223351122111111233542223334444415551225551154354155511111111111",
+"h": "b5f7e8f966"
 },
 {
 "id": "y_say_c8fa1401",
@@ -6339,9 +5034,9 @@
 "emo": "surprised",
 "text": "Shut! Send 7 more bricks out to open it.",
 "file": "clips/y_say_c8fa1401.mp3",
-"dur": 3.2,
-"mouth": "11111133544445511111153335111111112233333333333511551111111111111",
-"h": "7134f0c966"
+"dur": 3.36,
+"mouth": "11111122233351111111122333222333443333352233125534555511111111111111",
+"h": "c604a98e51"
 },
 {
 "id": "p_say_c8fa1401",
@@ -6351,9 +5046,9 @@
 "emo": "surprised",
 "text": "Shut! Send 7 more bricks out to open it.",
 "file": "clips/p_say_c8fa1401.mp3",
-"dur": 3.43,
-"mouth": "111153335555551111115333511111111111335555533333511255511111111111111",
-"h": "91c44ece1c"
+"dur": 3.35,
+"mouth": "1111111222335122111111223332223333443351335123512555555551111111111",
+"h": "6abe2b0539"
 },
 {
 "id": "o_say_c8fa1401",
@@ -6363,9 +5058,9 @@
 "emo": "surprised",
 "text": "Shut! Send 7 more bricks out to open it.",
 "file": "clips/o_say_c8fa1401.mp3",
-"dur": 3.18,
-"mouth": "1111335111111111533551111111111111333344333333111551111111111111",
-"h": "0ac0f593f7"
+"dur": 3.02,
+"mouth": "1111122233111111111113352223333333355335125555555555111111111",
+"h": "2325eafaba"
 },
 {
 "id": "r_say_8a98c278",
@@ -6375,9 +5070,9 @@
 "emo": "surprised",
 "text": "Shut! Send 8 more bricks out to open it.",
 "file": "clips/r_say_8a98c278.mp3",
-"dur": 4.9,
-"mouth": "111111111153334444111111111111111553225111111111111111111111133355444333335115551221111111111111111",
-"h": "5f3bcf1cba"
+"dur": 3.24,
+"mouth": "11111112333521111111111223355555544445551223555555555111111111111",
+"h": "bbe25866a8"
 },
 {
 "id": "b_say_8a98c278",
@@ -6387,9 +5082,9 @@
 "emo": "surprised",
 "text": "Shut! Send 8 more bricks out to open it.",
 "file": "clips/b_say_8a98c278.mp3",
-"dur": 4.03,
-"mouth": "111111111111115555533335544443333351112221111113355533333512333522222211111111111",
-"h": "1b5767626b"
+"dur": 4.91,
+"mouth": "111111111111111111111111111112233351111111111111222333453354334133522335555415555111111111111111111",
+"h": "afdd2729e3"
 },
 {
 "id": "g_say_8a98c278",
@@ -6400,8 +5095,8 @@
 "text": "Shut! Send 8 more bricks out to open it.",
 "file": "clips/g_say_8a98c278.mp3",
 "dur": 3.6,
-"mouth": "112555511111111555333551112221111113355444333355111533551122111111111111",
-"h": "7ce2515c70"
+"mouth": "1222233511111111111223335113351114444514355112255512555555551111111111111",
+"h": "f0ca7645ba"
 },
 {
 "id": "y_say_8a98c278",
@@ -6411,9 +5106,9 @@
 "emo": "surprised",
 "text": "Shut! Send 8 more bricks out to open it.",
 "file": "clips/y_say_8a98c278.mp3",
-"dur": 2.98,
-"mouth": "111111533333344441533333511115335544435522233522111111111111",
-"h": "a0285794a1"
+"dur": 2.99,
+"mouth": "111111223511111111123331533513334133522335555345555111111111",
+"h": "9d1f4e18ae"
 },
 {
 "id": "p_say_8a98c278",
@@ -6423,9 +5118,9 @@
 "emo": "surprised",
 "text": "Shut! Send 8 more bricks out to open it.",
 "file": "clips/p_say_8a98c278.mp3",
-"dur": 3.58,
-"mouth": "111133335555555111115333351111111111112221155333351113355111111111111111",
-"h": "15b8edb632"
+"dur": 3.83,
+"mouth": "11111111111112223335221111111111113355532555335533115555555415551111111111111",
+"h": "bfffd2607a"
 },
 {
 "id": "o_say_8a98c278",
@@ -6435,9 +5130,9 @@
 "emo": "surprised",
 "text": "Shut! Send 8 more bricks out to open it.",
 "file": "clips/o_say_8a98c278.mp3",
-"dur": 2.86,
-"mouth": "1111533511111114333511111111533555333333512335111111111111",
-"h": "4215692bba"
+"dur": 2.85,
+"mouth": "1111222335111111111235511555553355332223355533555111111111",
+"h": "a437334df1"
 },
 {
 "id": "r_say_85bb9a0a",
@@ -6447,9 +5142,9 @@
 "emo": "calm",
 "text": "Blockers never move. A hammer can break them.",
 "file": "clips/r_say_85bb9a0a.mp3",
-"dur": 5.38,
-"mouth": "111111111111111111111111111153333444553333333333333444444551111111111111111111111111111112333355511111111111",
-"h": "f77aa8df3b"
+"dur": 4.51,
+"mouth": "1111111111111115555555522433344444445111111111111111115555333335544555555555511111111111111",
+"h": "95d77e70b9"
 },
 {
 "id": "b_say_85bb9a0a",
@@ -6459,9 +5154,9 @@
 "emo": "calm",
 "text": "Blockers never move. A hammer can break them.",
 "file": "clips/b_say_85bb9a0a.mp3",
-"dur": 4.2,
-"mouth": "111111111111111445333344555533333425555444445111111111111111533333355551111111111111",
-"h": "545d83b433"
+"dur": 5.54,
+"mouth": "111111111111111111111111111111543351333224333334444444511111111111111111111115511533335134443311255551111111111",
+"h": "d6a013c6a9"
 },
 {
 "id": "g_say_85bb9a0a",
@@ -6471,9 +5166,9 @@
 "emo": "calm",
 "text": "Blockers never move. A hammer can break them.",
 "file": "clips/g_say_85bb9a0a.mp3",
-"dur": 4.6,
-"mouth": "11125333333355555511111115333355555555552144555534443333555111111111223333335551111111111111",
-"h": "0a2f6511aa"
+"dur": 3.43,
+"mouth": "133331555224455554433555111111111153333333555445533351115551111111111",
+"h": "b74976bc96"
 },
 {
 "id": "y_say_85bb9a0a",
@@ -6483,9 +5178,9 @@
 "emo": "calm",
 "text": "Blockers never move. A hammer can break them.",
 "file": "clips/y_say_85bb9a0a.mp3",
-"dur": 3.21,
-"mouth": "11111133511334431553335435422455554445511111111153344333345111111",
-"h": "8330f48f6f"
+"dur": 3.2,
+"mouth": "11111133355332433344444425533512223333351134411433111551111111111",
+"h": "9abf39246b"
 },
 {
 "id": "p_say_85bb9a0a",
@@ -6495,9 +5190,9 @@
 "emo": "calm",
 "text": "Blockers never move. A hammer can break them.",
 "file": "clips/p_say_85bb9a0a.mp3",
-"dur": 4.64,
-"mouth": "111111123333355533555511111111533555333522544555555555555511111111111555555555111111111111111",
-"h": "62ad2f8a3d"
+"dur": 3.99,
+"mouth": "11111111155333315555233333334433345111111111115521555533512555551115511111111111",
+"h": "a550bb5a84"
 },
 {
 "id": "o_say_85bb9a0a",
@@ -6507,9 +5202,9 @@
 "emo": "calm",
 "text": "Blockers never move. A hammer can break them.",
 "file": "clips/o_say_85bb9a0a.mp3",
-"dur": 3.09,
-"mouth": "11115335111111111533333444333443334511111111113333555511111111",
-"h": "8267565602"
+"dur": 3.49,
+"mouth": "1115333153332111111115533333333511111111115553345555415551111111111111",
+"h": "ec0d6a61a9"
 },
 {
 "id": "r_say_f6bba7ad",
@@ -6519,9 +5214,9 @@
 "emo": "happy",
 "text": "Nice! Clear every brick before the timer runs out.",
 "file": "clips/r_say_f6bba7ad.mp3",
-"dur": 4.66,
-"mouth": "1111111111153333335555555555555511111111111115555555335553355555555555555542555551111111111111",
-"h": "97f98d3984"
+"dur": 4.51,
+"mouth": "1111111111115443355533552111111111111153333354455555555555555445551255511111111111111111111",
+"h": "e9b66b355e"
 },
 {
 "id": "b_say_f6bba7ad",
@@ -6531,9 +5226,9 @@
 "emo": "happy",
 "text": "Nice! Clear every brick before the timer runs out.",
 "file": "clips/b_say_f6bba7ad.mp3",
-"dur": 5.3,
-"mouth": "11111111111114445554444455443333335222222111111143511143333334553441144451143314334233351111111111111111111",
-"h": "0801bac9ea"
+"dur": 5.14,
+"mouth": "1111111111114443555532222211111111111111111111333333334444351421435521534445542555511111111111111111111",
+"h": "4cef930703"
 },
 {
 "id": "g_say_f6bba7ad",
@@ -6543,9 +5238,9 @@
 "emo": "happy",
 "text": "Nice! Clear every brick before the timer runs out.",
 "file": "clips/g_say_f6bba7ad.mp3",
-"dur": 4.94,
-"mouth": "111555555511111111154333551222111111155333555533333555555555555554455555555334523555111111111111111",
-"h": "54526ec348"
+"dur": 4.09,
+"mouth": "1144333551122211111115333555335555554355111555445512533555555555555551111111111111",
+"h": "be2db7c1b4"
 },
 {
 "id": "y_say_f6bba7ad",
@@ -6555,9 +5250,9 @@
 "emo": "happy",
 "text": "Nice! Clear every brick before the timer runs out.",
 "file": "clips/y_say_f6bba7ad.mp3",
-"dur": 4.8,
-"mouth": "1111114445144444444444444444445555555222155555111144333555555555514555115551455425555111111111111",
-"h": "d1d39ae9d0"
+"dur": 3.21,
+"mouth": "11111144333522211111153333333333153333331533355555555511111111111",
+"h": "2fc535c259"
 },
 {
 "id": "p_say_f6bba7ad",
@@ -6567,9 +5262,9 @@
 "emo": "happy",
 "text": "Nice! Clear every brick before the timer runs out.",
 "file": "clips/p_say_f6bba7ad.mp3",
-"dur": 6.02,
-"mouth": "1111153333355511111111111111111111111543333521111111111111111111143331111555555555555555215555113351155555555111111111111",
-"h": "b2ebead227"
+"dur": 3.11,
+"mouth": "111533555111111115533333355555555555555555555555555555111111111",
+"h": "9369ca7a01"
 },
 {
 "id": "o_say_f6bba7ad",
@@ -6579,9 +5274,9 @@
 "emo": "happy",
 "text": "Nice! Clear every brick before the timer runs out.",
 "file": "clips/o_say_f6bba7ad.mp3",
-"dur": 4.28,
-"mouth": "11115333511111111543351111111115555111533333333355335555143351115551144455551111111111",
-"h": "22bbea6c3a"
+"dur": 3.41,
+"mouth": "111543355111111111133333511333333333315513355555544444255111111111111",
+"h": "f39bc0407f"
 },
 {
 "id": "r_say_d35950ce",
@@ -6591,9 +5286,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its circle plate to open it.",
 "file": "clips/r_say_d35950ce.mp3",
-"dur": 3.57,
-"mouth": "111111333444111111115333445111111122255225555554422555511551111111111111",
-"h": "c7da557ac6"
+"dur": 5.45,
+"mouth": "11111111111111111111111111111133523555533334522111111111111111133344433333322235541235125534133551111111111111",
+"h": "b0e76399c6"
 },
 {
 "id": "b_say_d35950ce",
@@ -6603,9 +5298,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its circle plate to open it.",
 "file": "clips/b_say_d35950ce.mp3",
-"dur": 3.56,
-"mouth": "111111111111111153333311153335555511112352255555522233551155551111111111",
-"h": "b432627de3"
+"dur": 4.2,
+"mouth": "1111111111111552231113333552111111111243354355335122335551155555555555111111111111111",
+"h": "4de1e322c5"
 },
 {
 "id": "g_say_d35950ce",
@@ -6615,9 +5310,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its circle plate to open it.",
 "file": "clips/g_say_d35950ce.mp3",
-"dur": 4.1,
-"mouth": "1115555551111111523333334511111111111222222333333555533322235514555551111111111111",
-"h": "c3c1b71a3b"
+"dur": 4.6,
+"mouth": "111115552223112533555122111111111133334153351115555122233514415555111153345551111111111111111",
+"h": "bc1f4767aa"
 },
 {
 "id": "y_say_d35950ce",
@@ -6627,9 +5322,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its circle plate to open it.",
 "file": "clips/y_say_d35950ce.mp3",
-"dur": 3.52,
-"mouth": "11111133355544441111553333334435521112331233555555125555555511111111111",
-"h": "71e0f79920"
+"dur": 3.66,
+"mouth": "11111135225123333321111133331144335555551222333411555512443315551111111111",
+"h": "d2bf969e2e"
 },
 {
 "id": "p_say_d35950ce",
@@ -6639,9 +5334,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its circle plate to open it.",
 "file": "clips/p_say_d35950ce.mp3",
-"dur": 4.08,
-"mouth": "1111533335555551111111553335511111111111125111155555555511255551155111111111111111",
-"h": "c2bb45a48b"
+"dur": 4.16,
+"mouth": "111533222311115333555111111111111251355533555555512223555512551155555555111111111111",
+"h": "00fc26568e"
 },
 {
 "id": "o_say_d35950ce",
@@ -6652,8 +5347,8 @@
 "text": "Exit closed! Keep a brick on its circle plate to open it.",
 "file": "clips/o_say_d35950ce.mp3",
 "dur": 3.49,
-"mouth": "1111333511111111153333551111111111135123455555521123555111111111111111",
-"h": "161e13102b"
+"mouth": "1111533123115335551111111111555345333153451113333115555553444511111111",
+"h": "90c1d8a88a"
 },
 {
 "id": "r_say_452e0c27",
@@ -6663,9 +5358,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its triangle plate to open it.",
 "file": "clips/r_say_452e0c27.mp3",
-"dur": 4.2,
-"mouth": "111111111111111533333341112333345522111111111112222222345555555555555555511111111111",
-"h": "4b3a380611"
+"dur": 4.67,
+"mouth": "1111111333523512533344521111111111111112355555433555555522155555541235555541555111111111111111",
+"h": "2b1872ec59"
 },
 {
 "id": "b_say_452e0c27",
@@ -6675,9 +5370,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its triangle plate to open it.",
 "file": "clips/b_say_452e0c27.mp3",
-"dur": 4.52,
-"mouth": "1111111111111111533333411153333344451111111112233112344455551155554445115551111111111111111",
-"h": "d7cbf6dab5"
+"dur": 4.59,
+"mouth": "11111111111113312231112333555111111111111112333443333334222533544411555555345555111111111111",
+"h": "4fdde6fcea"
 },
 {
 "id": "g_say_452e0c27",
@@ -6687,9 +5382,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its triangle plate to open it.",
 "file": "clips/g_say_452e0c27.mp3",
-"dur": 4.02,
-"mouth": "111533355551111122333335511111111111222222333355555125333555555555111111111111111",
-"h": "6c5d48d2b9"
+"dur": 5.02,
+"mouth": "11111555222355553335551111111111235134155555111113335222254335554115335511111111243331555511111111111",
+"h": "3ce3bd7735"
 },
 {
 "id": "y_say_452e0c27",
@@ -6699,9 +5394,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its triangle plate to open it.",
 "file": "clips/y_say_452e0c27.mp3",
-"dur": 3.67,
-"mouth": "11111133333553333311143333355211122331234444335511355555541155551111111111",
-"h": "f0d9529556"
+"dur": 3.82,
+"mouth": "11111133333153335111111113334133511345111153334555115551114331555111111111111",
+"h": "4d4c6a4a44"
 },
 {
 "id": "p_say_452e0c27",
@@ -6711,9 +5406,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its triangle plate to open it.",
 "file": "clips/p_say_452e0c27.mp3",
-"dur": 5.44,
-"mouth": "1111111111111111111125333355555111111111111115333335111111111111111251223555555551153355555115551111111111111",
-"h": "daa92c88f0"
+"dur": 4.56,
+"mouth": "11113312531111533335511111111111112355555533555555522225333555511555125555555511111111111111",
+"h": "038e2c2de3"
 },
 {
 "id": "o_say_452e0c27",
@@ -6723,9 +5418,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its triangle plate to open it.",
 "file": "clips/o_say_452e0c27.mp3",
-"dur": 3.73,
-"mouth": "111153335111111111123333355111111111111351233333555115333444115551111111111",
-"h": "7c879ef5b9"
+"dur": 3.56,
+"mouth": "111155512511133335511111111111355555335533321155555115551115315511111111",
+"h": "d5be4d2a85"
 },
 {
 "id": "r_say_1c372bc6",
@@ -6736,8 +5431,8 @@
 "text": "Exit closed! Keep a brick on its square plate to open it.",
 "file": "clips/r_say_1c372bc6.mp3",
 "dur": 4.28,
-"mouth": "11111111111111333334445111111111111111253333452111111111112222233333345555555555111111",
-"h": "4d1e8cf714"
+"mouth": "11111113355231523333452211111111111111133333453355533335221333555512555555111111111111",
+"h": "9d614a3131"
 },
 {
 "id": "b_say_1c372bc6",
@@ -6747,9 +5442,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its square plate to open it.",
 "file": "clips/b_say_1c372bc6.mp3",
-"dur": 5.38,
-"mouth": "111111111111111111154333444551111111111111111133345111111111111111111223122444445221143341555511111111111111",
-"h": "9174a0facb"
+"dur": 4.9,
+"mouth": "11111111111111111111531231114335555211111111113333443333551221433311555555554155551111111111111111",
+"h": "beb037b88d"
 },
 {
 "id": "g_say_1c372bc6",
@@ -6759,9 +5454,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its square plate to open it.",
 "file": "clips/g_say_1c372bc6.mp3",
-"dur": 4.18,
-"mouth": "111333355555511111111113333345222211111222335223345555522214335115551111221111111111",
-"h": "9b3620f11c"
+"dur": 4.86,
+"mouth": "11111533122233511553335555221111111233333514335111133512221433511533511122513331555511111111111111",
+"h": "2cc637004d"
 },
 {
 "id": "y_say_1c372bc6",
@@ -6771,9 +5466,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its square plate to open it.",
 "file": "clips/y_say_1c372bc6.mp3",
-"dur": 3.97,
-"mouth": "11111133334433355533335511133344452111122255125445555555522145511555111111111111",
-"h": "73036ca840"
+"dur": 3.59,
+"mouth": "111111335233155335112211111111333333333331113331155512554155511111111111",
+"h": "6c4f869aeb"
 },
 {
 "id": "p_say_1c372bc6",
@@ -6783,9 +5478,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its square plate to open it.",
 "file": "clips/p_say_1c372bc6.mp3",
-"dur": 4.07,
-"mouth": "1111111533333335551111111111153333355111111111155123555555551155551115511111111111",
-"h": "42c2c71616"
+"dur": 3.99,
+"mouth": "11155522311133335511111111111155335533333551221433351255511553315555111111111111",
+"h": "5472a7678d"
 },
 {
 "id": "o_say_1c372bc6",
@@ -6795,9 +5490,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its square plate to open it.",
 "file": "clips/o_say_1c372bc6.mp3",
-"dur": 3.57,
-"mouth": "111153333521111111153333551111111111231233333552111543351115511111111111",
-"h": "a49fc58d80"
+"dur": 3.41,
+"mouth": "111153312311233334111111111155541533555551111433315551255311111111111",
+"h": "2b87f8384e"
 },
 {
 "id": "r_say_68020349",
@@ -6807,9 +5502,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its star plate to open it.",
 "file": "clips/r_say_68020349.mp3",
-"dur": 3.81,
-"mouth": "11111111111555344444441115333444422111111233222544555552255555551111111111111",
-"h": "e0ce817a1d"
+"dur": 5.61,
+"mouth": "11111111111111111111111111111111335235513355122111111111111111111123333333333352223335555555555555551111111111111",
+"h": "52756d7182"
 },
 {
 "id": "b_say_68020349",
@@ -6819,9 +5514,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its star plate to open it.",
 "file": "clips/b_say_68020349.mp3",
-"dur": 4.2,
-"mouth": "111111111115333333444415555333333333551111112251224444452113335114555511111111111111",
-"h": "a7dab5257c"
+"dur": 4.43,
+"mouth": "11111111111111111111115312231153333552111155341335555512233351155555534445551111111111111",
+"h": "e1b996c6c5"
 },
 {
 "id": "g_say_68020349",
@@ -6831,9 +5526,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its star plate to open it.",
 "file": "clips/g_say_68020349.mp3",
-"dur": 4.52,
-"mouth": "1115333333333555111111153333333333552211111111222512235555555552221335511551111111111111111",
-"h": "3e98bf5bf5"
+"dur": 4.84,
+"mouth": "1111155552223115553355511111111111233555511443511111534512213333555551111112333355551111111111111",
+"h": "a68e139ae2"
 },
 {
 "id": "y_say_68020349",
@@ -6843,9 +5538,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its star plate to open it.",
 "file": "clips/y_say_68020349.mp3",
-"dur": 3.97,
-"mouth": "11111133334433355533344444451115333334455211125125555555522555511155511111111111",
-"h": "33996ab423"
+"dur": 3.36,
+"mouth": "11111133523311133344555113333543333451111333555555544415551111111111",
+"h": "ef97e50077"
 },
 {
 "id": "p_say_68020349",
@@ -6855,9 +5550,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its star plate to open it.",
 "file": "clips/p_say_68020349.mp3",
-"dur": 4.08,
-"mouth": "1111133333333551111111522553335551111111111125112555555551113333115555111111111111",
-"h": "60e2b7400b"
+"dur": 4.64,
+"mouth": "111115551125111533333355111111111111111255555533511555511221533511155111115555555111111111111",
+"h": "fad5e4739d"
 },
 {
 "id": "o_say_68020349",
@@ -6867,9 +5562,9 @@
 "emo": "surprised",
 "text": "Exit closed! Keep a brick on its star plate to open it.",
 "file": "clips/o_say_68020349.mp3",
-"dur": 3.57,
-"mouth": "111153352111111111153335511111111112511233335555551115333115511111111111",
-"h": "bcba5817a7"
+"dur": 3.49,
+"mouth": "1111555225111533334511111111113555553315555111333555555115415511111111",
+"h": "55577f5690"
 },
 {
 "id": "r_say_b3206048",
@@ -6879,9 +5574,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 1 more brick out to open it.",
 "file": "clips/r_say_b3206048.mp3",
-"dur": 4.75,
-"mouth": "11111111111533344511111111111111111115333551111111111111111111433333335115511111111111111111111",
-"h": "8fb9a5f3c6"
+"dur": 5.07,
+"mouth": "111111111111112222111111111111335223555533351111111111112233443344455555555125555555111111111111111111",
+"h": "a84c5a7c31"
 },
 {
 "id": "b_say_b3206048",
@@ -6891,9 +5586,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 1 more brick out to open it.",
 "file": "clips/b_say_b3206048.mp3",
-"dur": 5.53,
-"mouth": "111111111111111111111111111111333333334511111143333351122211111111111111111111544445333511133332222221111111111",
-"h": "36247b8391"
+"dur": 5.3,
+"mouth": "11111111111111111111111534553154333511111111111111111122344444433443355555555555444445511111111111111111111",
+"h": "5efe7de7de"
 },
 {
 "id": "g_say_b3206048",
@@ -6903,9 +5598,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 1 more brick out to open it.",
 "file": "clips/g_say_b3206048.mp3",
-"dur": 3.85,
-"mouth": "111555511111111115333511111111111543334444433335553331111333551111111111111111",
-"h": "af3e141fa6"
+"dur": 4.77,
+"mouth": "111115551222511333551111111111111122334555433354443341533511115335125435555551111111111111111111",
+"h": "bae601900a"
 },
 {
 "id": "y_say_b3206048",
@@ -6915,9 +5610,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 1 more brick out to open it.",
 "file": "clips/y_say_b3206048.mp3",
-"dur": 3.13,
-"mouth": "111111333333355333444153355111111111553444555511551111111111111",
-"h": "7860bba1d3"
+"dur": 2.91,
+"mouth": "11111135225555331111111112333334444555533125345543511111111",
+"h": "fb87a8f45b"
 },
 {
 "id": "p_say_b3206048",
@@ -6927,9 +5622,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 1 more brick out to open it.",
 "file": "clips/p_say_b3206048.mp3",
-"dur": 3.59,
-"mouth": "111115533355555511111111533331111111111133553333351155551111111111111111",
-"h": "9a629d4be8"
+"dur": 4.16,
+"mouth": "111115552235511333335111111111111133555143555555115555533555335555111111111111111111",
+"h": "b14a15423c"
 },
 {
 "id": "o_say_b3206048",
@@ -6939,9 +5634,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 1 more brick out to open it.",
 "file": "clips/o_say_b3206048.mp3",
-"dur": 2.7,
-"mouth": "1111333351111111333351111115335533333511555111111111111",
-"h": "9c98c6d3e4"
+"dur": 3.1,
+"mouth": "111155513355335111111111123335533543351435555555334551111111111",
+"h": "8e8b0e6e9f"
 },
 {
 "id": "r_say_c354e9a8",
@@ -6951,9 +5646,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 2 more bricks out to open it.",
 "file": "clips/r_say_c354e9a8.mp3",
-"dur": 3.96,
-"mouth": "11111111111111533444511115333555112222233333333555511235552211111111111111111111",
-"h": "b9df3fdb16"
+"dur": 3.09,
+"mouth": "11111111335225555551111111123333333345552235555345555111111111",
+"h": "b3d3cd2e02"
 },
 {
 "id": "b_say_c354e9a8",
@@ -6963,9 +5658,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 2 more bricks out to open it.",
 "file": "clips/b_say_c354e9a8.mp3",
-"dur": 4.2,
-"mouth": "111111111111111543333444555433351111111111122534444333351113333522211111111111111111",
-"h": "a718f3a984"
+"dur": 4.43,
+"mouth": "11111111111111111115335235553335111111111111122254452344444444355555555541555111111111111",
+"h": "26152e41b6"
 },
 {
 "id": "g_say_c354e9a8",
@@ -6975,9 +5670,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 2 more bricks out to open it.",
 "file": "clips/g_say_c354e9a8.mp3",
-"dur": 3.85,
-"mouth": "115555111111115533351111111111223555553333351153335111333355122211111111111111",
-"h": "97de9b7fb3"
+"dur": 4.27,
+"mouth": "11111333122511555551112211111122334412223554444415435112255512555335555511111111111111",
+"h": "d831b35922"
 },
 {
 "id": "y_say_c354e9a8",
@@ -6987,9 +5682,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 2 more bricks out to open it.",
 "file": "clips/y_say_c354e9a8.mp3",
-"dur": 3.36,
-"mouth": "11111133334445133443355511155555111111111234455551155551111111111111",
-"h": "196042b969"
+"dur": 3.05,
+"mouth": "11111155233153335111111122334233333332235555415511111111111111",
+"h": "0c3b583088"
 },
 {
 "id": "p_say_c354e9a8",
@@ -6999,9 +5694,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 2 more bricks out to open it.",
 "file": "clips/p_say_c354e9a8.mp3",
-"dur": 3.67,
-"mouth": "11115333555551111111111533351111111111225555533333511233511111111111111111",
-"h": "f0b2e1e476"
+"dur": 3.51,
+"mouth": "11111331255553333511111111112334255553355531123512555555511111111111111",
+"h": "5ad975dcfd"
 },
 {
 "id": "o_say_c354e9a8",
@@ -7011,9 +5706,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 2 more bricks out to open it.",
 "file": "clips/o_say_c354e9a8.mp3",
-"dur": 2.94,
-"mouth": "11113335111111153355111111112333333333333511333511111111111",
-"h": "614ce5fa80"
+"dur": 3.09,
+"mouth": "11111111534555533511111111112341133333333351233125331551111111",
+"h": "86d93a5116"
 },
 {
 "id": "r_say_04a48e10",
@@ -7023,9 +5718,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 3 more bricks out to open it.",
 "file": "clips/r_say_04a48e10.mp3",
-"dur": 5.22,
-"mouth": "111111111111111533444511111111111111111111111555555111111111111111111153334433555551115551111111111111111",
-"h": "a97b00d8d4"
+"dur": 4.12,
+"mouth": "11111111111133522335555333111111111111233455333333453352255555555555111111111111111",
+"h": "d4ded3d073"
 },
 {
 "id": "b_say_04a48e10",
@@ -7035,9 +5730,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 3 more bricks out to open it.",
 "file": "clips/b_say_04a48e10.mp3",
-"dur": 4.5,
-"mouth": "1111111111115553333355511111143333351112211111111111555555555333351113355111111111111111111",
-"h": "747a5db0ef"
+"dur": 4.67,
+"mouth": "1111111111111111111113345555555551112211111111111122344443333345331233125555555511111111111111",
+"h": "445f3cb36e"
 },
 {
 "id": "g_say_04a48e10",
@@ -7047,9 +5742,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 3 more bricks out to open it.",
 "file": "clips/g_say_04a48e10.mp3",
-"dur": 4.18,
-"mouth": "115555555555111111111111111153333511112211111111555543333333511155555122111111111111",
-"h": "b2f171b92e"
+"dur": 4.02,
+"mouth": "111113331122255511333551111221111112334412333333315551225551254334155511111111111",
+"h": "c26b69b66a"
 },
 {
 "id": "y_say_04a48e10",
@@ -7059,9 +5754,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 3 more bricks out to open it.",
 "file": "clips/y_say_04a48e10.mp3",
-"dur": 3.29,
-"mouth": "111111335113333333345553335551111111111453455555112551111111111111",
-"h": "35a1860724"
+"dur": 3.21,
+"mouth": "11111135223153335111111111235523333333312333415555533351111111111",
+"h": "c89049bc79"
 },
 {
 "id": "p_say_04a48e10",
@@ -7071,9 +5766,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 3 more bricks out to open it.",
 "file": "clips/p_say_04a48e10.mp3",
-"dur": 3.59,
-"mouth": "111153333555555111111153331111111111115555333333511153322211111111111111",
-"h": "7bcf23207c"
+"dur": 4.16,
+"mouth": "111111111111555115555333331111111111111354111555553341335225551155555555111111111111",
+"h": "208b5be64d"
 },
 {
 "id": "o_say_04a48e10",
@@ -7083,9 +5778,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 3 more bricks out to open it.",
 "file": "clips/o_say_04a48e10.mp3",
-"dur": 3.02,
-"mouth": "1111555521111111111533511111111111533333333351233321111111111",
-"h": "829ea98268"
+"dur": 3.49,
+"mouth": "1111111115555551113335111111111233415533333355533115555553455511111111",
+"h": "300563d015"
 },
 {
 "id": "r_say_c240ca1d",
@@ -7095,9 +5790,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 4 more bricks out to open it.",
 "file": "clips/r_say_c240ca1d.mp3",
-"dur": 4.59,
-"mouth": "11111111111553334455111111553355112211111111124443334444444335555341111255111111111111111111",
-"h": "0311db1ab3"
+"dur": 3.88,
+"mouth": "111111111111111113333333335511111111111112234514444444443522555555555551111111",
+"h": "4d6f702c23"
 },
 {
 "id": "b_say_c240ca1d",
@@ -7108,8 +5803,8 @@
 "text": "Exit blocked! Send 4 more bricks out to open it.",
 "file": "clips/b_say_c240ca1d.mp3",
 "dur": 3.88,
-"mouth": "111111111111111533333335544333331111111111111123344333511235551111111111111111",
-"h": "6df6f85c2d"
+"mouth": "111111111111155123514333511111112233421444444453352233555534445511111111111111",
+"h": "a1f1fc2102"
 },
 {
 "id": "g_say_c240ca1d",
@@ -7119,9 +5814,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 4 more bricks out to open it.",
 "file": "clips/g_say_c240ca1d.mp3",
-"dur": 4.19,
-"mouth": "155533333355511111111155333511111111111111153344443335555551112555555122111111111111",
-"h": "bdc895f84f"
+"dur": 4.26,
+"mouth": "11111555122251155555111111111111223355211344444334155551123551245555555111111111111111",
+"h": "51b0501b5a"
 },
 {
 "id": "y_say_c240ca1d",
@@ -7131,9 +5826,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 4 more bricks out to open it.",
 "file": "clips/y_say_c240ca1d.mp3",
-"dur": 3.13,
-"mouth": "111111333344513344441553333351111111144333333355115555111111111",
-"h": "8b5d753023"
+"dur": 3.14,
+"mouth": "111111352331533351111112335114444444555233555533555511111111111",
+"h": "a04694ede2"
 },
 {
 "id": "p_say_c240ca1d",
@@ -7143,9 +5838,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 4 more bricks out to open it.",
 "file": "clips/p_say_c240ca1d.mp3",
-"dur": 4.31,
-"mouth": "111111111111111111153335555555551111111333331111111111112533333333351155522111111111111",
-"h": "c111532f09"
+"dur": 3.99,
+"mouth": "11111135115511553333111111111111112555511253355335555112555555555555111111111111",
+"h": "496a03c5b6"
 },
 {
 "id": "o_say_c240ca1d",
@@ -7155,9 +5850,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 4 more bricks out to open it.",
 "file": "clips/o_say_c240ca1d.mp3",
-"dur": 3.41,
-"mouth": "111153351111111111533351111111111533333453335553351111352111111111111",
-"h": "3aaab0cc33"
+"dur": 3.1,
+"mouth": "11115551155115335111111111555123333455555551255115555511111111",
+"h": "48491ca967"
 },
 {
 "id": "r_say_32aeded5",
@@ -7167,9 +5862,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 5 more bricks out to open it.",
 "file": "clips/r_say_32aeded5.mp3",
-"dur": 4.35,
-"mouth": "111111111113333441111111111111553333351111111111111111333333333555311125552221111111111",
-"h": "7dc6e04965"
+"dur": 3.88,
+"mouth": "111111111111115333335115555111111111111111334553355555512555555555555111111111",
+"h": "9358e9610d"
 },
 {
 "id": "b_say_32aeded5",
@@ -7179,9 +5874,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 5 more bricks out to open it.",
 "file": "clips/b_say_32aeded5.mp3",
-"dur": 4.36,
-"mouth": "1111111111115555334554333351111111111111111133335443335112355221111111111111111111111111",
-"h": "e36a537183"
+"dur": 4.11,
+"mouth": "11111111111115312231145555111111111111223344133344333335233415555445511111111111111",
+"h": "8361cb0a87"
 },
 {
 "id": "g_say_32aeded5",
@@ -7191,9 +5886,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 5 more bricks out to open it.",
 "file": "clips/g_say_32aeded5.mp3",
-"dur": 3.77,
-"mouth": "1533333555111111111153333511111111111133355533333555551123335222211111111111",
-"h": "cdf6a537fc"
+"dur": 4.52,
+"mouth": "1111155512255555551111111111112233555113333554445555551222153351124533555551112211111111111",
+"h": "476debc97d"
 },
 {
 "id": "y_say_32aeded5",
@@ -7203,9 +5898,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 5 more bricks out to open it.",
 "file": "clips/y_say_32aeded5.mp3",
-"dur": 3.29,
-"mouth": "111111334444444444444441533355511111111533544333511355111111111111",
-"h": "26ac404c62"
+"dur": 2.99,
+"mouth": "111111552331433311112334133354334533123355555555551111111111",
+"h": "b34d56a82c"
 },
 {
 "id": "p_say_32aeded5",
@@ -7215,9 +5910,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 5 more bricks out to open it.",
 "file": "clips/p_say_32aeded5.mp3",
-"dur": 3.67,
-"mouth": "11115533555555511111115333511111111112333355333333511133351111111111111111",
-"h": "5d1deabb13"
+"dur": 4.08,
+"mouth": "1111111115551155115533331111111111113551123335533351331155555555555511111111111111",
+"h": "2005542ca9"
 },
 {
 "id": "o_say_32aeded5",
@@ -7227,9 +5922,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 5 more bricks out to open it.",
 "file": "clips/o_say_32aeded5.mp3",
-"dur": 2.78,
-"mouth": "11113351111115533511111111133344433351113351111111111111",
-"h": "69e47342d4"
+"dur": 3.56,
+"mouth": "111111115555523555333511111111111233422233333334133312335555315511111111",
+"h": "2c27d4657a"
 },
 {
 "id": "r_say_89903234",
@@ -7239,9 +5934,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 6 more bricks out to open it.",
 "file": "clips/r_say_89903234.mp3",
-"dur": 4.27,
-"mouth": "11111111111333344411111111111111555551111111111111112222233333351233552221111111111111",
-"h": "f897b18490"
+"dur": 4.28,
+"mouth": "11111111111111155522355533511111111111111111112333223322333555522551255555551111111111",
+"h": "3aa0f73b73"
 },
 {
 "id": "b_say_89903234",
@@ -7251,9 +5946,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 6 more bricks out to open it.",
 "file": "clips/b_say_89903234.mp3",
-"dur": 4.98,
-"mouth": "1111111111111111111444444555533351112211111122223322544433331111335522222211111111111111111111111111",
-"h": "80e87f3978"
+"dur": 5.14,
+"mouth": "1111111111111111111155512341543355111111111111111112233422223124444533223315554155551111111111111111111",
+"h": "11608b933c"
 },
 {
 "id": "g_say_89903234",
@@ -7263,9 +5958,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 6 more bricks out to open it.",
 "file": "clips/g_say_89903234.mp3",
-"dur": 4.09,
-"mouth": "1133333555111111111115333555511111111122223512244444433551115333555122111111111111",
-"h": "4bb105dc78"
+"dur": 4.69,
+"mouth": "1111133312225511115533551111111111111122335552222222244444153351225511244355555511111111111111",
+"h": "d3235c9bb9"
 },
 {
 "id": "y_say_89903234",
@@ -7275,9 +5970,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 6 more bricks out to open it.",
 "file": "clips/y_say_89903234.mp3",
-"dur": 2.6,
-"mouth": "11111133345333453335111111223124433355555111111111111",
-"h": "e02c4ac605"
+"dur": 3.52,
+"mouth": "11111135223115335511111111113342222224331533123341255555551111111111111",
+"h": "013fe9245e"
 },
 {
 "id": "p_say_89903234",
@@ -7287,9 +5982,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 6 more bricks out to open it.",
 "file": "clips/p_say_89903234.mp3",
-"dur": 3.35,
-"mouth": "1111533355555511111115333511111111111112511553333322235511111111111",
-"h": "adb24a4d9e"
+"dur": 4.16,
+"mouth": "111111111111335122511533333111111111111333222222253341335223312555415551111111111111",
+"h": "4944c737f4"
 },
 {
 "id": "o_say_89903234",
@@ -7299,9 +5994,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 6 more bricks out to open it.",
 "file": "clips/o_say_89903234.mp3",
-"dur": 3.18,
-"mouth": "1111333522111111111553351111111111133114333333511335511111111111",
-"h": "aa4a8aeea4"
+"dur": 3.25,
+"mouth": "11111111111135533511111111112332225123335533115555555411111111111",
+"h": "bff5f851b4"
 },
 {
 "id": "r_say_e9bcb211",
@@ -7311,9 +6006,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 7 more bricks out to open it.",
 "file": "clips/r_say_e9bcb211.mp3",
-"dur": 4.44,
-"mouth": "11111111111153333445111111111111533335111111111111111123333333355335115555222111111111111",
-"h": "7bdcf9d574"
+"dur": 3.8,
+"mouth": "1111111111133522315333511111111111223333333444453322551253415551111111111111",
+"h": "92e0070511"
 },
 {
 "id": "b_say_e9bcb211",
@@ -7323,9 +6018,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 7 more bricks out to open it.",
 "file": "clips/b_say_e9bcb211.mp3",
-"dur": 4.2,
-"mouth": "111111111111111543333444555433355111111111111111122233344433335113335522211111111111",
-"h": "5a2464044f"
+"dur": 4.82,
+"mouth": "1111111111111335233155335511111111111111111112342223355444553312233415514415555111111111111111111",
+"h": "d236b7ccbc"
 },
 {
 "id": "g_say_e9bcb211",
@@ -7335,9 +6030,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 7 more bricks out to open it.",
 "file": "clips/g_say_e9bcb211.mp3",
-"dur": 4.6,
-"mouth": "15555555555511111111111533351111122111111122223355344433333511333551113333555122211111111111",
-"h": "1bf5215acd"
+"dur": 4.52,
+"mouth": "1111133315225511555551111111111122233344512235554435415551122555115533555551111111111111111",
+"h": "ec2871c5cb"
 },
 {
 "id": "y_say_e9bcb211",
@@ -7347,9 +6042,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 7 more bricks out to open it.",
 "file": "clips/y_say_e9bcb211.mp3",
-"dur": 3.14,
-"mouth": "111111544444441143334455555511111112235554455551155111111111111",
-"h": "6aaeede6bd"
+"dur": 3.37,
+"mouth": "11111155125555555111111111234222233344444555125512554155511111111111",
+"h": "430dedb575"
 },
 {
 "id": "p_say_e9bcb211",
@@ -7359,9 +6054,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 7 more bricks out to open it.",
 "file": "clips/p_say_e9bcb211.mp3",
-"dur": 3.92,
-"mouth": "1111533333333555555415333335112211111112233333333333335111333522111111111111111",
-"h": "74f236afed"
+"dur": 3.59,
+"mouth": "111111533555115533351111111113342223555553355555125512555555511111111111",
+"h": "283b8fad94"
 },
 {
 "id": "o_say_e9bcb211",
@@ -7371,9 +6066,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 7 more bricks out to open it.",
 "file": "clips/o_say_e9bcb211.mp3",
-"dur": 3.1,
-"mouth": "111153335511111111533351111111111135544443335111333511111111111",
-"h": "59f840c2d2"
+"dur": 3.73,
+"mouth": "111111115333333555333511111111111233322233333335533112335115345551111111111",
+"h": "4444c32b4d"
 },
 {
 "id": "r_say_8bf5cdda",
@@ -7383,9 +6078,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 8 more bricks out to open it.",
 "file": "clips/r_say_8bf5cdda.mp3",
-"dur": 4.04,
-"mouth": "111111111111111333444451111111111554355511111111111333544443555551155111111111111",
-"h": "d41aeb381c"
+"dur": 3.96,
+"mouth": "11111111111111335225553331122111111122334555544445552235555445555111111111111111",
+"h": "42bc560fd1"
 },
 {
 "id": "b_say_8bf5cdda",
@@ -7395,9 +6090,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 8 more bricks out to open it.",
 "file": "clips/b_say_8bf5cdda.mp3",
-"dur": 5.37,
-"mouth": "111111111111111555553444455543335111111111111115335544333341113335522222221111111111111111111111111111111111",
-"h": "9a8002124f"
+"dur": 4.2,
+"mouth": "1111111111115345531543351111111111111111111123345553344444435223345553444551111111111",
+"h": "aa631a4f7f"
 },
 {
 "id": "g_say_8bf5cdda",
@@ -7407,9 +6102,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 8 more bricks out to open it.",
 "file": "clips/g_say_8bf5cdda.mp3",
-"dur": 4.02,
-"mouth": "115533333555111111115433355111111111153351124433344155555112335555111111111111111",
-"h": "b265fa4513"
+"dur": 4.27,
+"mouth": "11111533122255115555111111111122333511533512544441555112255112555555511111111111111111",
+"h": "573c8a865a"
 },
 {
 "id": "y_say_8bf5cdda",
@@ -7419,9 +6114,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 8 more bricks out to open it.",
 "file": "clips/y_say_8bf5cdda.mp3",
-"dur": 3.06,
-"mouth": "11111143553333445111153333511111153354433331123552111111111111",
-"h": "e1092a2d04"
+"dur": 2.83,
+"mouth": "111111552331433331111122345555544443352331555554433511111",
+"h": "d612a571fd"
 },
 {
 "id": "p_say_8bf5cdda",
@@ -7431,9 +6126,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 8 more bricks out to open it.",
 "file": "clips/p_say_8bf5cdda.mp3",
-"dur": 3.83,
-"mouth": "11115333555511111111112533335111111111555511553333333511153333211111111111111",
-"h": "c10f1f2c6e"
+"dur": 3.67,
+"mouth": "11111133125511533335111111111123355555555533415311233555555555511111111111",
+"h": "dc04a2f6b1"
 },
 {
 "id": "o_say_8bf5cdda",
@@ -7443,9 +6138,9 @@
 "emo": "surprised",
 "text": "Exit blocked! Send 8 more bricks out to open it.",
 "file": "clips/o_say_8bf5cdda.mp3",
-"dur": 2.86,
-"mouth": "1111333555111111533511111111115555553333511555111111111111",
-"h": "73e0bf3878"
+"dur": 3.25,
+"mouth": "11111111155555553351111111112335555544335133115551115345511111111",
+"h": "2f70ffc89a"
 },
 {
 "id": "r_say_905bd2fe",
@@ -7455,9 +6150,9 @@
 "emo": "happy",
 "text": "Bought 1 Magnet for 60 coins",
 "file": "clips/r_say_905bd2fe.mp3",
-"dur": 3.33,
-"mouth": "1111111153334511111111534444451111111153444555514551111111111111111",
-"h": "3dadfb0eb9"
+"dur": 3.65,
+"mouth": "1111111111111111111133354334443355551222222223554433555222111111111111111",
+"h": "ab0c2b4e3e"
 },
 {
 "id": "b_say_905bd2fe",
@@ -7467,9 +6162,9 @@
 "emo": "happy",
 "text": "Bought 1 Magnet for 60 coins",
 "file": "clips/b_say_905bd2fe.mp3",
-"dur": 3.57,
-"mouth": "111111111111115333333334444513333333334443333445551111111111111111111111",
-"h": "b39617e1c6"
+"dur": 3.49,
+"mouth": "1111111111133355554334443335511222222312235553335511222111111111111111",
+"h": "3dd4659dad"
 },
 {
 "id": "g_say_905bd2fe",
@@ -7479,9 +6174,9 @@
 "emo": "happy",
 "text": "Bought 1 Magnet for 60 coins",
 "file": "clips/g_say_905bd2fe.mp3",
-"dur": 3.09,
-"mouth": "11155555511111111111553334511111153354433355555111122111111111",
-"h": "56b50e8366"
+"dur": 3.44,
+"mouth": "111111533455433344445555555511115222551115555544551111111111111111111",
+"h": "19a20dc0e1"
 },
 {
 "id": "y_say_905bd2fe",
@@ -7491,9 +6186,9 @@
 "emo": "happy",
 "text": "Bought 1 Magnet for 60 coins",
 "file": "clips/y_say_905bd2fe.mp3",
-"dur": 2.99,
-"mouth": "111111333555543344444444444455511111153333355555111111111111",
-"h": "1dac2bfd44"
+"dur": 2.53,
+"mouth": "111111335555344355555511522231115514335511111111111",
+"h": "9c653fc683"
 },
 {
 "id": "p_say_905bd2fe",
@@ -7503,9 +6198,9 @@
 "emo": "happy",
 "text": "Bought 1 Magnet for 60 coins",
 "file": "clips/p_say_905bd2fe.mp3",
-"dur": 3.83,
-"mouth": "11111115333555555555551111111155333333444511111111111153443333445551111111111",
-"h": "461db68370"
+"dur": 3.27,
+"mouth": "111113335115554335555533355511115222155221555533555111111111111111",
+"h": "8b11b17484"
 },
 {
 "id": "o_say_905bd2fe",
@@ -7515,9 +6210,9 @@
 "emo": "happy",
 "text": "Bought 1 Magnet for 60 coins",
 "file": "clips/o_say_905bd2fe.mp3",
-"dur": 2.39,
-"mouth": "111153335111111154445111111154445555551111111111",
-"h": "aa64fb3787"
+"dur": 2.77,
+"mouth": "11115333555543333333555512511122211111133355111111111111",
+"h": "8dc353086b"
 },
 {
 "id": "r_say_56edea09",
@@ -7527,9 +6222,9 @@
 "emo": "happy",
 "text": "Bought 1 Hammer for 80 coins",
 "file": "clips/r_say_56edea09.mp3",
-"dur": 4.04,
-"mouth": "111111111111111111553334445111111111115555533333355551111111111253333551222221111",
-"h": "2611d0e314"
+"dur": 4.26,
+"mouth": "11111111111111111111111533355444334444441111111111533555555555555555555511111111111111",
+"h": "676620c953"
 },
 {
 "id": "b_say_56edea09",
@@ -7539,9 +6234,9 @@
 "emo": "happy",
 "text": "Bought 1 Hammer for 80 coins",
 "file": "clips/b_say_56edea09.mp3",
-"dur": 4.2,
-"mouth": "111111111111111111111111544444433555553333555111111111111111123333511222222111111111",
-"h": "7e9591c55c"
+"dur": 5.45,
+"mouth": "11111111111111111111111111111111111114335544433335553333312333333335554443334422221111111111111111111111111111",
+"h": "df71e5033b"
 },
 {
 "id": "g_say_56edea09",
@@ -7551,9 +6246,9 @@
 "emo": "happy",
 "text": "Bought 1 Hammer for 80 coins",
 "file": "clips/g_say_56edea09.mp3",
-"dur": 3.77,
-"mouth": "1155333333333551111115333335211533333333555111111553333551111222211111111111",
-"h": "dbf7670fe5"
+"dur": 3.26,
+"mouth": "111111144445555543555555555551115311155551111153355111111111111111",
+"h": "529e36ffa4"
 },
 {
 "id": "y_say_56edea09",
@@ -7563,9 +6258,9 @@
 "emo": "happy",
 "text": "Bought 1 Hammer for 80 coins",
 "file": "clips/y_say_56edea09.mp3",
-"dur": 2.61,
-"mouth": "11111133351115333333441111335555555511533351122111111",
-"h": "a7236c14e6"
+"dur": 2.3,
+"mouth": "11111133314334233335555553335553335511111111111",
+"h": "0ca17bede9"
 },
 {
 "id": "p_say_56edea09",
@@ -7575,9 +6270,9 @@
 "emo": "happy",
 "text": "Bought 1 Hammer for 80 coins",
 "file": "clips/p_say_56edea09.mp3",
-"dur": 3.18,
-"mouth": "1111123335555521111111111153321555555555111111533351111111111111",
-"h": "44e0c46818"
+"dur": 3.27,
+"mouth": "111111111111133355554335511533335112555555555553355551111111111111",
+"h": "c953560b5e"
 },
 {
 "id": "o_say_56edea09",
@@ -7587,9 +6282,9 @@
 "emo": "happy",
 "text": "Bought 1 Hammer for 80 coins",
 "file": "clips/o_say_56edea09.mp3",
-"dur": 2.39,
-"mouth": "111153351111111551333335111111533351122111111111",
-"h": "504859c889"
+"dur": 2.78,
+"mouth": "11115333154433333555553351251112333351153333511111111111",
+"h": "561e818cba"
 },
 {
 "id": "r_say_8053fbc5",
@@ -7599,9 +6294,9 @@
 "emo": "happy",
 "text": "Bought 1 Shuffle for 40 coins",
 "file": "clips/r_say_8053fbc5.mp3",
-"dur": 3.95,
-"mouth": "1111111133333551111111111223355533355555511111115443333333333333355511111111111",
-"h": "98090bfad8"
+"dur": 2.94,
+"mouth": "11111111111533554433442225555555551445555555111111111111111",
+"h": "cccb6b909a"
 },
 {
 "id": "b_say_8053fbc5",
@@ -7611,9 +6306,9 @@
 "emo": "happy",
 "text": "Bought 1 Shuffle for 40 coins",
 "file": "clips/b_say_8053fbc5.mp3",
-"dur": 4.03,
-"mouth": "111111111111543344451111111111111122233115555111111111554444333333335555411111111",
-"h": "0c259e68c8"
+"dur": 3.88,
+"mouth": "111111111111111111111155533344444522331145555114444444443555511111111111111111",
+"h": "6f935b802d"
 },
 {
 "id": "g_say_8053fbc5",
@@ -7623,9 +6318,9 @@
 "emo": "happy",
 "text": "Bought 1 Shuffle for 40 coins",
 "file": "clips/g_say_8053fbc5.mp3",
-"dur": 3.6,
-"mouth": "1153332222111111111111223511233445111111111155333333333355511111111111111",
-"h": "9d87d56ed1"
+"dur": 3.44,
+"mouth": "111111144435553334452235115551155511244412555555555111122111111111111",
+"h": "3f811b3463"
 },
 {
 "id": "y_say_8053fbc5",
@@ -7635,9 +6330,9 @@
 "emo": "happy",
 "text": "Bought 1 Shuffle for 40 coins",
 "file": "clips/y_say_8053fbc5.mp3",
-"dur": 3.05,
-"mouth": "11111133333333344511112233223355111111114333333333555551111111",
-"h": "8cfedc6868"
+"dur": 2.38,
+"mouth": "111111333143344223553315514455555555511111111111",
+"h": "d51647da0f"
 },
 {
 "id": "p_say_8053fbc5",
@@ -7647,9 +6342,9 @@
 "emo": "happy",
 "text": "Bought 1 Shuffle for 40 coins",
 "file": "clips/p_say_8053fbc5.mp3",
-"dur": 4.16,
-"mouth": "111533333555555511111122233125335555555555551111111115555555555555555555111111111111",
-"h": "17ea5f3ab9"
+"dur": 2.86,
+"mouth": "1111133355533552223312551111123355555555111111111111111111",
+"h": "9a88c534d1"
 },
 {
 "id": "o_say_8053fbc5",
@@ -7659,9 +6354,9 @@
 "emo": "happy",
 "text": "Bought 1 Shuffle for 40 coins",
 "file": "clips/o_say_8053fbc5.mp3",
-"dur": 2.31,
-"mouth": "11114335111111111133155111111533333335111111111",
-"h": "8bde8afad8"
+"dur": 2.54,
+"mouth": "111153351154333555555555511115444351155111111111111",
+"h": "f7cca36434"
 },
 {
 "id": "r_say_f6db25ab",
@@ -7671,9 +6366,9 @@
 "emo": "happy",
 "text": "Bought 1 Undo for 30 coins",
 "file": "clips/r_say_f6db25ab.mp3",
-"dur": 3.41,
-"mouth": "111111111113333355511111333333453333344511111115553335551111111111111",
-"h": "25af6c1658"
+"dur": 2.93,
+"mouth": "11111111113335433333334453444155555445114455511221111111111",
+"h": "eccf89d5ab"
 },
 {
 "id": "b_say_f6db25ab",
@@ -7683,9 +6378,9 @@
 "emo": "happy",
 "text": "Bought 1 Undo for 30 coins",
 "file": "clips/b_say_f6db25ab.mp3",
-"dur": 3.81,
-"mouth": "11111111111115533333333335555533333333334445555333332222211111111111111111111",
-"h": "5bf13921ee"
+"dur": 5.39,
+"mouth": "111111111111111111111111143335554443334555334445335444111544111111333335555514443555511111111111111111111111",
+"h": "010f3b5bf7"
 },
 {
 "id": "g_say_f6db25ab",
@@ -7695,9 +6390,9 @@
 "emo": "happy",
 "text": "Bought 1 Undo for 30 coins",
 "file": "clips/g_say_f6db25ab.mp3",
-"dur": 3.27,
-"mouth": "115533333555111111555335555133335551111111553333511122221111111111",
-"h": "d447fdc2f2"
+"dur": 3.77,
+"mouth": "1111115334555543335411155544413335555553211533351251114445555511111111111111",
+"h": "ce34f8c9bb"
 },
 {
 "id": "y_say_f6db25ab",
@@ -7707,9 +6402,9 @@
 "emo": "happy",
 "text": "Bought 1 Undo for 30 coins",
 "file": "clips/y_say_f6db25ab.mp3",
-"dur": 3.36,
-"mouth": "11111133445113333555511115541554455555511111111544333355111111111111",
-"h": "3ad3e794ff"
+"dur": 2.53,
+"mouth": "111111335544433455514511153333311533355551111111111",
+"h": "543d4217d8"
 },
 {
 "id": "p_say_f6db25ab",
@@ -7719,9 +6414,9 @@
 "emo": "happy",
 "text": "Bought 1 Undo for 30 coins",
 "file": "clips/p_say_f6db25ab.mp3",
-"dur": 3.51,
-"mouth": "11111123333333551111111155555333555555335551111154433333511111111111111",
-"h": "2f3cf59bbe"
+"dur": 3.02,
+"mouth": "1111153331115433555555555551155555555555555111111111111111111",
+"h": "d408f12f1d"
 },
 {
 "id": "o_say_f6db25ab",
@@ -7731,9 +6426,9 @@
 "emo": "happy",
 "text": "Bought 1 Undo for 30 coins",
 "file": "clips/o_say_f6db25ab.mp3",
-"dur": 2.38,
-"mouth": "111153335111115555533443335511114355111111111111",
-"h": "44ec95d1dd"
+"dur": 2.31,
+"mouth": "11115333155433333453355552333553335111111111111",
+"h": "f73ed5dd03"
 },
 {
 "id": "r_say_4dcb703d",
@@ -7743,9 +6438,9 @@
 "emo": "sad",
 "text": "Not enough coins. Magnet costs 60.",
 "file": "clips/r_say_4dcb703d.mp3",
-"dur": 4.9,
-"mouth": "111111111133333444444451111111111111115533344445111111111111111155555534215522251222551111111111111",
-"h": "d4fa32ca04"
+"dur": 4.28,
+"mouth": "11111111111111111443333355514433555221111111111111443333335553333335222251111111111111",
+"h": "4ed1c74b56"
 },
 {
 "id": "b_say_4dcb703d",
@@ -7755,9 +6450,9 @@
 "emo": "sad",
 "text": "Not enough coins. Magnet costs 60.",
 "file": "clips/b_say_4dcb703d.mp3",
-"dur": 5.07,
-"mouth": "111111111111444444444444444443333355555111111111154443333443551221553352222332221555511111111111111111",
-"h": "f686736979"
+"dur": 5.15,
+"mouth": "1111111111111544333333331111444433444452221111111111111443333351155522223122251111111111111111111111111",
+"h": "d598c0d6d1"
 },
 {
 "id": "g_say_4dcb703d",
@@ -7767,9 +6462,9 @@
 "emo": "sad",
 "text": "Not enough coins. Magnet costs 60.",
 "file": "clips/g_say_4dcb703d.mp3",
-"dur": 4.43,
-"mouth": "11155555555555555551111111153333333355511111111433355555511155552222551111155551111111111",
-"h": "8f5b3b0c01"
+"dur": 4.11,
+"mouth": "14433322333351153333555112221111111443331555511111533521122235122155511111111111111",
+"h": "0929ca01b3"
 },
 {
 "id": "y_say_4dcb703d",
@@ -7779,9 +6474,9 @@
 "emo": "sad",
 "text": "Not enough coins. Magnet costs 60.",
 "file": "clips/y_say_4dcb703d.mp3",
-"dur": 3.44,
-"mouth": "111111333334444111155555555551111114555435111552111111251111111111111",
-"h": "4f784cba4d"
+"dur": 3.28,
+"mouth": "111111533333215433342211433554351115335221111111223511155111111111",
+"h": "f97817031d"
 },
 {
 "id": "p_say_4dcb703d",
@@ -7791,9 +6486,9 @@
 "emo": "sad",
 "text": "Not enough coins. Magnet costs 60.",
 "file": "clips/p_say_4dcb703d.mp3",
-"dur": 4.64,
-"mouth": "111333333333335511111111111111115533333555551111111111145335543512555332222222155111111111111",
-"h": "8cbe586608"
+"dur": 3.19,
+"mouth": "1114433333331553335542111111553355555533211123522255111111111111",
+"h": "8b6d9f096c"
 },
 {
 "id": "o_say_4dcb703d",
@@ -7803,9 +6498,9 @@
 "emo": "sad",
 "text": "Not enough coins. Magnet costs 60.",
 "file": "clips/o_say_4dcb703d.mp3",
-"dur": 2.63,
-"mouth": "11115333355111111111111333443211333211133111111111111",
-"h": "70844a664a"
+"dur": 2.77,
+"mouth": "11154333332111433551111111143333311333211231111111111111",
+"h": "dcfd9151d1"
 },
 {
 "id": "r_say_152cda47",
@@ -7815,9 +6510,9 @@
 "emo": "sad",
 "text": "Not enough coins. Hammer costs 80.",
 "file": "clips/r_say_152cda47.mp3",
-"dur": 4.28,
-"mouth": "11111111333334444511111111111533555555555111111111111111333332253322233335511111111111",
-"h": "8c9e47d2b5"
+"dur": 3.32,
+"mouth": "1111111155555435555443555221111111115333553322111335551111111111111",
+"h": "e5bfbf5bdd"
 },
 {
 "id": "b_say_152cda47",
@@ -7827,9 +6522,9 @@
 "emo": "sad",
 "text": "Not enough coins. Hammer costs 80.",
 "file": "clips/b_say_152cda47.mp3",
-"dur": 4.59,
-"mouth": "11111111111111111115555334444443333335555111111111125555521533221115335555511111111111111111",
-"h": "5ffd5ad795"
+"dur": 4.2,
+"mouth": "111111111114443333332111443355552211111111111153333553332211115333555111111111111111",
+"h": "980a037d61"
 },
 {
 "id": "g_say_152cda47",
@@ -7839,9 +6534,9 @@
 "emo": "sad",
 "text": "Not enough coins. Hammer costs 80.",
 "file": "clips/g_say_152cda47.mp3",
-"dur": 3.27,
-"mouth": "333333355111111111111223334555522115555221113355122551111111111111",
-"h": "bdeba920e2"
+"dur": 3.35,
+"mouth": "14433123455111555555555221111233355511555111221133552255111111111111",
+"h": "bb7fbfe0c4"
 },
 {
 "id": "y_say_152cda47",
@@ -7851,9 +6546,9 @@
 "emo": "sad",
 "text": "Not enough coins. Hammer costs 80.",
 "file": "clips/y_say_152cda47.mp3",
-"dur": 3.14,
-"mouth": "111111334444444451155555555111111112555521155111155555511111111",
-"h": "9d7e5c0519"
+"dur": 2.75,
+"mouth": "11111143333311555511111111111153335533221155555511111111",
+"h": "218da80754"
 },
 {
 "id": "p_say_152cda47",
@@ -7863,9 +6558,9 @@
 "emo": "sad",
 "text": "Not enough coins. Hammer costs 80.",
 "file": "clips/p_say_152cda47.mp3",
-"dur": 4.16,
-"mouth": "111153333555533555555533333333335555111111111115555555211555111155555511111111111111",
-"h": "e5ba816e86"
+"dur": 4.4,
+"mouth": "1111111111111111111543333333333211153355551111111111153333511533211111533355551111111111",
+"h": "3b77878e21"
 },
 {
 "id": "o_say_152cda47",
@@ -7875,9 +6570,9 @@
 "emo": "sad",
 "text": "Not enough coins. Hammer costs 80.",
 "file": "clips/o_say_152cda47.mp3",
-"dur": 3.41,
-"mouth": "111153335111111111153355111111111112233444211552111111155555111111111",
-"h": "e3d82674e8"
+"dur": 3.02,
+"mouth": "1114433333321533335511111111153333511335111111153345111111111",
+"h": "bed4dccac7"
 },
 {
 "id": "r_say_a84ef650",
@@ -7887,9 +6582,9 @@
 "emo": "sad",
 "text": "Not enough coins. Shuffle costs 40.",
 "file": "clips/r_say_a84ef650.mp3",
-"dur": 3.17,
-"mouth": "1111111111115333334444445111111122235542255521144555551111111111",
-"h": "6f9e06f7ef"
+"dur": 4.99,
+"mouth": "1111111111111111111111111111543335443215445555222111111111111111111233334533322222144455511111111111",
+"h": "7031f52f4d"
 },
 {
 "id": "b_say_a84ef650",
@@ -7899,9 +6594,9 @@
 "emo": "sad",
 "text": "Not enough coins. Shuffle costs 40.",
 "file": "clips/b_say_a84ef650.mp3",
-"dur": 4.75,
-"mouth": "11111111111111111155333333444444455533333333555111111122331532153332111144444355511111111111111",
-"h": "acd65c2551"
+"dur": 4.91,
+"mouth": "111111111111111111145335433215511444333444522221111111122332234153331122211112443355111111111111111",
+"h": "3f790aaa1a"
 },
 {
 "id": "g_say_a84ef650",
@@ -7911,9 +6606,9 @@
 "emo": "sad",
 "text": "Not enough coins. Shuffle costs 40.",
 "file": "clips/g_say_a84ef650.mp3",
-"dur": 3.86,
-"mouth": "111111555551111111111111153333551111111122332244215552222444522555111111111111",
-"h": "83d314c220"
+"dur": 3.6,
+"mouth": "1443333333333111154335511122211111223351441155222221144442255111111111111",
+"h": "1718ce30bb"
 },
 {
 "id": "y_say_a84ef650",
@@ -7923,9 +6618,9 @@
 "emo": "sad",
 "text": "Not enough coins. Shuffle costs 40.",
 "file": "clips/y_say_a84ef650.mp3",
-"dur": 3.73,
-"mouth": "111111333333333351111555333335555511111111222223325555521111115444455551111",
-"h": "62273ad1f7"
+"dur": 2.38,
+"mouth": "111111433333511533555111125513415332114445551111",
+"h": "36fe6bb3b2"
 },
 {
 "id": "p_say_a84ef650",
@@ -7935,9 +6630,9 @@
 "emo": "sad",
 "text": "Not enough coins. Shuffle costs 40.",
 "file": "clips/p_say_a84ef650.mp3",
-"dur": 4.56,
-"mouth": "11111111123333355335555511111115333355555555111111112233333351155331111245551111111111111111",
-"h": "77ab63f4b9"
+"dur": 3.9,
+"mouth": "1111111543333555331155333551111111111112223555555553321122223355511111111111111",
+"h": "2c579b6fa5"
 },
 {
 "id": "o_say_a84ef650",
@@ -7947,9 +6642,9 @@
 "emo": "sad",
 "text": "Not enough coins. Shuffle costs 40.",
 "file": "clips/o_say_a84ef650.mp3",
-"dur": 3.33,
-"mouth": "1111533335111111111111111111111235555111533211111115443551111111111",
-"h": "fed164a389"
+"dur": 2.63,
+"mouth": "11143333332155435511111112222415335111144435111111111",
+"h": "e66b3a8cf7"
 },
 {
 "id": "r_say_87602162",
@@ -7959,9 +6654,9 @@
 "emo": "sad",
 "text": "Not enough coins. Undo costs 30.",
 "file": "clips/r_say_87602162.mp3",
-"dur": 3.09,
-"mouth": "11111111111533344444511111111533445333225322233333551111111111",
-"h": "9a13f5d9eb"
+"dur": 4.99,
+"mouth": "1111111111111111114433333335554443555522211111111111111111111133444444455522215445511111111111111111",
+"h": "773ca067cc"
 },
 {
 "id": "b_say_87602162",
@@ -7971,9 +6666,9 @@
 "emo": "sad",
 "text": "Not enough coins. Undo costs 30.",
 "file": "clips/b_say_87602162.mp3",
-"dur": 5.38,
-"mouth": "111111111111555554444444455555115555555555555555555551111111111153445333555533222223333355511111111111111111",
-"h": "0e3c64c5c1"
+"dur": 4.82,
+"mouth": "1111111111111111155533333211144333544222211111111111115333334555333222211533355555111111111111111",
+"h": "e6b71d08ce"
 },
 {
 "id": "g_say_87602162",
@@ -7983,9 +6678,9 @@
 "emo": "sad",
 "text": "Not enough coins. Undo costs 30.",
 "file": "clips/g_say_87602162.mp3",
-"dur": 3.27,
-"mouth": "111111115555555111111111333445533555111555211153335125111111111111",
-"h": "b1543871ec"
+"dur": 4.09,
+"mouth": "1543355511115345551155345551111111111133555533354115551111111553332255511111111111",
+"h": "9e3868547b"
 },
 {
 "id": "y_say_87602162",
@@ -7995,9 +6690,9 @@
 "emo": "sad",
 "text": "Not enough coins. Undo costs 30.",
 "file": "clips/y_say_87602162.mp3",
-"dur": 3.14,
-"mouth": "111111344433444445111111355555511111334533211555115555555111111",
-"h": "34dff736cb"
+"dur": 2.76,
+"mouth": "11111144433333355554355442115344335133221533455551111111",
+"h": "2e79eba836"
 },
 {
 "id": "p_say_87602162",
@@ -8007,9 +6702,9 @@
 "emo": "sad",
 "text": "Not enough coins. Undo costs 30.",
 "file": "clips/p_say_87602162.mp3",
-"dur": 4.32,
-"mouth": "111113333355555511111111111155553333333355111111115555555211533221155555551111111111111",
-"h": "603407ee4c"
+"dur": 3.83,
+"mouth": "11111111144333333332155333555551111111153344334553351112211533355511111111111",
+"h": "e2578dfb58"
 },
 {
 "id": "o_say_87602162",
@@ -8019,9 +6714,9 @@
 "emo": "sad",
 "text": "Not enough coins. Undo costs 30.",
 "file": "clips/o_say_87602162.mp3",
-"dur": 2.15,
-"mouth": "11115335111111113345333115551153355111111111",
-"h": "5b8ab4862a"
+"dur": 2.77,
+"mouth": "11155333333111555551111111115333331153331113345111111111",
+"h": "693357fa2b"
 },
 {
 "id": "r_say_75dcbeae",
@@ -8031,9 +6726,9 @@
 "emo": "excited",
 "text": "Tap any block to smash it",
 "file": "clips/r_say_75dcbeae.mp3",
-"dur": 4.67,
-"mouth": "1111115333444445111111111125311435555111111122533333511111111111111111111111333352111111111111",
-"h": "1c6495a9a0"
+"dur": 2.3,
+"mouth": "11111111111233553333335522223332235111111111111",
+"h": "0ebc3d61a4"
 },
 {
 "id": "b_say_75dcbeae",
@@ -8043,9 +6738,9 @@
 "emo": "excited",
 "text": "Tap any block to smash it",
 "file": "clips/b_say_75dcbeae.mp3",
-"dur": 4.51,
-"mouth": "1111111111115444411111111112555114551111111112224333355222211111112221111111255111111111111",
-"h": "e6f2f5bdaf"
+"dur": 2.22,
+"mouth": "111111111115335555533315522433352255511111111",
+"h": "8a0586df76"
 },
 {
 "id": "g_say_75dcbeae",
@@ -8055,9 +6750,9 @@
 "emo": "excited",
 "text": "Tap any block to smash it",
 "file": "clips/g_say_75dcbeae.mp3",
-"dur": 3.77,
-"mouth": "1153333221111111122333511543333555511111222224335552222111111155555111111111",
-"h": "aadc5e06be"
+"dur": 2.69,
+"mouth": "111112233311533334133555551222225335225551122111111111",
+"h": "359e6d9e7a"
 },
 {
 "id": "y_say_75dcbeae",
@@ -8067,9 +6762,9 @@
 "emo": "excited",
 "text": "Tap any block to smash it",
 "file": "clips/y_say_75dcbeae.mp3",
-"dur": 3.29,
-"mouth": "111111335533451111125333333551111122333352221111111112211111111111",
-"h": "d392c1e5ec"
+"dur": 2.15,
+"mouth": "1111112555333333335111222555555511111111111",
+"h": "7a9ed83c5b"
 },
 {
 "id": "p_say_75dcbeae",
@@ -8079,9 +6774,9 @@
 "emo": "excited",
 "text": "Tap any block to smash it",
 "file": "clips/p_say_75dcbeae.mp3",
-"dur": 4.16,
-"mouth": "111123335522551111111125331133551111111111155533335111111111111111533355111111111111",
-"h": "f2b4e5fd2a"
+"dur": 2.7,
+"mouth": "1111111253311111555531153335111222255552251111111111111",
+"h": "0c40cbe57d"
 },
 {
 "id": "o_say_75dcbeae",
@@ -8091,9 +6786,9 @@
 "emo": "excited",
 "text": "Tap any block to smash it",
 "file": "clips/o_say_75dcbeae.mp3",
-"dur": 2.86,
-"mouth": "1111533211111112335143355111111114335511111111335111111111",
-"h": "aec3f50dc3"
+"dur": 2.07,
+"mouth": "111113333115533453335111111533351111111111",
+"h": "fb951bf491"
 },
 {
 "id": "r_say_dd43ef48",
@@ -8103,9 +6798,9 @@
 "emo": "sad",
 "text": "Nothing to undo yet",
 "file": "clips/r_say_dd43ef48.mp3",
-"dur": 3.96,
-"mouth": "11111111113333344511111111154333333355344555555111111111111111111111355555111111",
-"h": "8924f0a607"
+"dur": 3.01,
+"mouth": "1111111111111111111143333333333344453444455511221111111111111",
+"h": "834a6b6ddc"
 },
 {
 "id": "b_say_dd43ef48",
@@ -8115,9 +6810,9 @@
 "emo": "sad",
 "text": "Nothing to undo yet",
 "file": "clips/b_say_dd43ef48.mp3",
-"dur": 4.51,
-"mouth": "1111111111111111331531114411111111111111114444433123445553344433333345111331111111111111111",
-"h": "b8739e7e47"
+"dur": 3.41,
+"mouth": "111111111111111111111144331244333334453333333511111111111111111111111",
+"h": "6cff233173"
 },
 {
 "id": "g_say_dd43ef48",
@@ -8127,9 +6822,9 @@
 "emo": "sad",
 "text": "Nothing to undo yet",
 "file": "clips/g_say_dd43ef48.mp3",
-"dur": 4.43,
-"mouth": "11111111111122333333552222222111111111111555533513555554334455335555111111111114511111111",
-"h": "acc72d9574"
+"dur": 2.02,
+"mouth": "14333333442544444453335533551111111111111",
+"h": "1af9394750"
 },
 {
 "id": "y_say_dd43ef48",
@@ -8139,9 +6834,9 @@
 "emo": "sad",
 "text": "Nothing to undo yet",
 "file": "clips/y_say_dd43ef48.mp3",
-"dur": 3.14,
-"mouth": "111111333445534444444445315345543344533344451133335555111111111",
-"h": "647305e3c8"
+"dur": 1.92,
+"mouth": "111111443553444444444444555511111111111",
+"h": "8e391f5009"
 },
 {
 "id": "p_say_dd43ef48",
@@ -8152,8 +6847,8 @@
 "text": "Nothing to undo yet",
 "file": "clips/p_say_dd43ef48.mp3",
 "dur": 3.26,
-"mouth": "111233335555544511111143315522533345555551111111111111111111111111",
-"h": "cf8da82985"
+"mouth": "111111111111111111111111115433223442543334453355555551111111111111",
+"h": "7204a13959"
 },
 {
 "id": "o_say_dd43ef48",
@@ -8163,9 +6858,9 @@
 "emo": "sad",
 "text": "Nothing to undo yet",
 "file": "clips/o_say_dd43ef48.mp3",
-"dur": 2.63,
-"mouth": "11115333321111111115333333333344355511111155111111111",
-"h": "2912e95f03"
+"dur": 1.53,
+"mouth": "1115555534553445335511111111111",
+"h": "a6d90bd633"
 },
 {
 "id": "r_say_782f279d",
@@ -8175,9 +6870,9 @@
 "emo": "sad",
 "text": "No room to shuffle",
 "file": "clips/r_say_782f279d.mp3",
-"dur": 3.42,
-"mouth": "111111333344451111143334444333344444111111112222222332255111111111111",
-"h": "643c6c4c00"
+"dur": 2.06,
+"mouth": "111111111111143333444552235555111111111111",
+"h": "e9e9308089"
 },
 {
 "id": "b_say_782f279d",
@@ -8187,9 +6882,9 @@
 "emo": "sad",
 "text": "No room to shuffle",
 "file": "clips/b_say_782f279d.mp3",
-"dur": 4.59,
-"mouth": "11111111111111111111333333445511111111543334554333344445511111111552221432225511111111111111",
-"h": "14c3ec1699"
+"dur": 2.94,
+"mouth": "11111111111111115443334444445322235144511111111111111111111",
+"h": "85c461d05b"
 },
 {
 "id": "g_say_782f279d",
@@ -8199,9 +6894,9 @@
 "emo": "sad",
 "text": "No room to shuffle",
 "file": "clips/g_say_782f279d.mp3",
-"dur": 3.52,
-"mouth": "11155551111111114433355533333444511111111233332221145322555511111111111",
-"h": "e6cbbca26a"
+"dur": 2.1,
+"mouth": "1544433335553335551222233512551111111111111",
+"h": "93853d33f2"
 },
 {
 "id": "y_say_782f279d",
@@ -8211,9 +6906,9 @@
 "emo": "sad",
 "text": "No room to shuffle",
 "file": "clips/y_say_782f279d.mp3",
-"dur": 2.68,
-"mouth": "111111445553333345555333453333541222155555555111111111",
-"h": "09e815a634"
+"dur": 1.77,
+"mouth": "111111433344334555555555541111111111",
+"h": "c30f417e52"
 },
 {
 "id": "p_say_782f279d",
@@ -8223,9 +6918,9 @@
 "emo": "sad",
 "text": "No room to shuffle",
 "file": "clips/p_say_782f279d.mp3",
-"dur": 3.59,
-"mouth": "111233355555555511111153333333333333555111122222211553222225551111111111",
-"h": "e280bb6be6"
+"dur": 2.46,
+"mouth": "11111111111444333555333355552223355555111111111111",
+"h": "33e8209675"
 },
 {
 "id": "o_say_782f279d",
@@ -8235,9 +6930,9 @@
 "emo": "sad",
 "text": "No room to shuffle",
 "file": "clips/o_say_782f279d.mp3",
-"dur": 2.77,
-"mouth": "11115335111111111553344533355111111533111155111111111111",
-"h": "08bd505e5b"
+"dur": 1.28,
+"mouth": "11143333334511331111111111",
+"h": "b05de1cb0d"
 },
 {
 "id": "r_say_d7ea5b3d",
@@ -8247,9 +6942,9 @@
 "emo": "smug",
 "text": "Ragebait on. Trust nothing.",
 "file": "clips/r_say_d7ea5b3d.mp3",
-"dur": 4.91,
-"mouth": "111111111111111111333344445115555511555551111453335555511111111111125322255334555511111111111111111",
-"h": "6ede13a912"
+"dur": 3.41,
+"mouth": "111111111433333333333555111111111111111111125332215543555555111111111",
+"h": "9bfc60a98b"
 },
 {
 "id": "b_say_d7ea5b3d",
@@ -8259,9 +6954,9 @@
 "emo": "smug",
 "text": "Ragebait on. Trust nothing.",
 "file": "clips/b_say_d7ea5b3d.mp3",
-"dur": 6.01,
-"mouth": "1111111111111111115333333344511135135555111111111555433333355533555111111111111111253321111111111154444455551111111111111",
-"h": "1d96ae1b21"
+"dur": 4.51,
+"mouth": "1111111111114333213333333444411111111111111111123332221544332155551111111111111111111111111",
+"h": "f530d6f940"
 },
 {
 "id": "g_say_d7ea5b3d",
@@ -8271,9 +6966,9 @@
 "emo": "smug",
 "text": "Ragebait on. Trust nothing.",
 "file": "clips/g_say_d7ea5b3d.mp3",
-"dur": 5.69,
-"mouth": "155555555555111111111111111111115333333333335551111111143333352155551111111112233522111154433334555555111111111111",
-"h": "0189dbe6f2"
+"dur": 2.94,
+"mouth": "11153333521335125555511111112333222244433215555111111111111",
+"h": "06ecd61507"
 },
 {
 "id": "y_say_d7ea5b3d",
@@ -8283,9 +6978,9 @@
 "emo": "smug",
 "text": "Ragebait on. Trust nothing.",
 "file": "clips/y_say_d7ea5b3d.mp3",
-"dur": 3.97,
-"mouth": "11111133333333445111111155113511111221114333215335111111332224433335555111111111",
-"h": "b6b103c86e"
+"dur": 2.83,
+"mouth": "111111433333333511555555511122332111114443555555111111111",
+"h": "94181599d4"
 },
 {
 "id": "p_say_d7ea5b3d",
@@ -8295,9 +6990,9 @@
 "emo": "smug",
 "text": "Ragebait on. Trust nothing.",
 "file": "clips/p_say_d7ea5b3d.mp3",
-"dur": 4.64,
-"mouth": "111533355551111111111111111551111111111111533552155511111111111153222144433355551111111111111",
-"h": "4662f60ff6"
+"dur": 3.09,
+"mouth": "11115333522333521333355511111111152233222211544331555511111111",
+"h": "9e246e8341"
 },
 {
 "id": "o_say_d7ea5b3d",
@@ -8307,9 +7002,9 @@
 "emo": "smug",
 "text": "Ragebait on. Trust nothing.",
 "file": "clips/o_say_d7ea5b3d.mp3",
-"dur": 3.73,
-"mouth": "111155555111111111111351111111553333354215335111111111133215433455111111111",
-"h": "e523e28777"
+"dur": 2.78,
+"mouth": "11154335555555533551111111113332111111144433211111111111",
+"h": "f17b2f31b3"
 },
 {
 "id": "r_say_dc58c1d0",
@@ -8319,9 +7014,9 @@
 "emo": "happy",
 "text": "Ragebait off. Phew.",
 "file": "clips/r_say_dc58c1d0.mp3",
-"dur": 6.32,
-"mouth": "1111111111333333355511111111111122211111111111111111111111111111111111111111111111111111111111553355533333355511111111111111111",
-"h": "67ec3ba265"
+"dur": 2.94,
+"mouth": "11111111143335533333355111111111111222211111111111111111111",
+"h": "8646e161a6"
 },
 {
 "id": "b_say_dc58c1d0",
@@ -8331,9 +7026,9 @@
 "emo": "happy",
 "text": "Ragebait off. Phew.",
 "file": "clips/b_say_dc58c1d0.mp3",
-"dur": 5.84,
-"mouth": "111111111111113333333334444451111533333355555555511111111111111111111111111111111111114433355333333511111111111111111",
-"h": "6de3c3a7d8"
+"dur": 3.01,
+"mouth": "1111111111111111533355533333351111111111233344551111111111111",
+"h": "dcc6894baa"
 },
 {
 "id": "g_say_dc58c1d0",
@@ -8343,9 +7038,9 @@
 "emo": "happy",
 "text": "Ragebait off. Phew.",
 "file": "clips/g_say_dc58c1d0.mp3",
-"dur": 5.18,
-"mouth": "11111111111111111111111111115555211111111111122233335511111111111111111154433332255555555551111111111111",
-"h": "399058b9d6"
+"dur": 2.36,
+"mouth": "111543355555551255111111111115333355111111111111",
+"h": "801b60eca1"
 },
 {
 "id": "y_say_dc58c1d0",
@@ -8355,9 +7050,9 @@
 "emo": "happy",
 "text": "Ragebait off. Phew.",
 "file": "clips/y_say_dc58c1d0.mp3",
-"dur": 4.57,
-"mouth": "11111144433443344445211111111112222111111111111111111115225555111111111333335555511111111111",
-"h": "4717f6a9db"
+"dur": 2.3,
+"mouth": "11111155333553333355111111111122233345111111111",
+"h": "44a951ad5f"
 },
 {
 "id": "p_say_dc58c1d0",
@@ -8367,9 +7062,9 @@
 "emo": "happy",
 "text": "Ragebait off. Phew.",
 "file": "clips/p_say_dc58c1d0.mp3",
-"dur": 5.21,
-"mouth": "111111111233333333555555511111111111115335211111111111111111111111111111155333521555555555511111111111111",
-"h": "dcc1ff5a93"
+"dur": 2.21,
+"mouth": "111153335553333335511111111111123351111111111",
+"h": "8268e67181"
 },
 {
 "id": "o_say_dc58c1d0",
@@ -8379,9 +7074,81 @@
 "emo": "happy",
 "text": "Ragebait off. Phew.",
 "file": "clips/o_say_dc58c1d0.mp3",
-"dur": 3.88,
-"mouth": "111115333352111111111155111111111111111111111111111111553345133333511111111111",
-"h": "845ec164d0"
+"dur": 2.15,
+"mouth": "11111111433511333355111111111534441111111111",
+"h": "c564c37f12"
+},
+{
+"id": "r_say_76718828",
+"who": "r",
+"tag": "say",
+"key": "plottwistitwaswhiteallalong",
+"emo": "smug",
+"text": "Plot twist: it was white all along",
+"file": "clips/r_say_76718828.mp3",
+"dur": 4.99,
+"mouth": "1111111111111111111123351223333222211111111111111111111111534555554333351333333333344451111111111111",
+"h": "91cac54469"
+},
+{
+"id": "b_say_3cf5fd98",
+"who": "b",
+"tag": "say",
+"key": "plottwistitwasblueallalong",
+"emo": "smug",
+"text": "Plot twist: it was blue all along",
+"file": "clips/b_say_3cf5fd98.mp3",
+"dur": 4.2,
+"mouth": "1111111111111153335111433522111111111111111111555511544334433333333555111111111111111",
+"h": "c3be3b6d0a"
+},
+{
+"id": "g_say_18df4790",
+"who": "g",
+"tag": "say",
+"key": "plottwistitwasgreenallalong",
+"emo": "smug",
+"text": "Plot twist: it was green all along",
+"file": "clips/g_say_18df4790.mp3",
+"dur": 3.44,
+"mouth": "111533511115511111111111331555115543335551144443333333555111111111111",
+"h": "d5224a4e8e"
+},
+{
+"id": "y_say_d24f429a",
+"who": "y",
+"tag": "say",
+"key": "plottwistitwasyellowallalong",
+"emo": "smug",
+"text": "Plot twist: it was yellow all along",
+"file": "clips/y_say_d24f429a.mp3",
+"dur": 2.91,
+"mouth": "11111113331233522111155533553333333553333344333544411111111",
+"h": "ce3f140c74"
+},
+{
+"id": "p_say_d7875d8d",
+"who": "p",
+"tag": "say",
+"key": "plottwistitwaspurpleallalong",
+"emo": "smug",
+"text": "Plot twist: it was purple all along",
+"file": "clips/p_say_d7875d8d.mp3",
+"dur": 3.67,
+"mouth": "11112333112555222111111111333211115555555553333355333335555511111111111111",
+"h": "5c274e0201"
+},
+{
+"id": "o_say_831eabaa",
+"who": "o",
+"tag": "say",
+"key": "plottwistitwasorangeallalong",
+"emo": "smug",
+"text": "Plot twist: it was orange all along",
+"file": "clips/o_say_831eabaa.mp3",
+"dur": 2.86,
+"mouth": "1111123335115555111111113551153333344115333333335111111111",
+"h": "42727e5f42"
 },
 {
 "id": "r_say_be4a0e8e",
@@ -8391,9 +7158,9 @@
 "emo": "smug",
 "text": "Cheap paint job. Sorry about that",
 "file": "clips/r_say_be4a0e8e.mp3",
-"dur": 4.44,
-"mouth": "11111111111111111111333334555552111355555511112233355112333355122112223333355111111111111",
-"h": "84c4953bcd"
+"dur": 3.1,
+"mouth": "11111122335533312555551111111111111122333333315335511111111111",
+"h": "4068f868d6"
 },
 {
 "id": "b_say_be4a0e8e",
@@ -8403,9 +7170,9 @@
 "emo": "smug",
 "text": "Cheap paint job. Sorry about that",
 "file": "clips/b_say_be4a0e8e.mp3",
-"dur": 5.61,
-"mouth": "11111111111111533334444511111111111111112222223555511111111111222551111155555111111111111223333555551111111111111",
-"h": "6c6075f389"
+"dur": 4.91,
+"mouth": "111111111122223355553335233333451111111111111111111111222233333553351133335111111111111111111111111",
+"h": "bfffd813a7"
 },
 {
 "id": "g_say_be4a0e8e",
@@ -8415,9 +7182,9 @@
 "emo": "smug",
 "text": "Cheap paint job. Sorry about that",
 "file": "clips/g_say_be4a0e8e.mp3",
-"dur": 3.26,
-"mouth": "111111111331533511111111223355111133555111111112233335551111111111",
-"h": "254a99084e"
+"dur": 3.11,
+"mouth": "111112233111555555555551111111111223333333555555555111111111111",
+"h": "dbe2e51a76"
 },
 {
 "id": "y_say_be4a0e8e",
@@ -8427,9 +7194,9 @@
 "emo": "smug",
 "text": "Cheap paint job. Sorry about that",
 "file": "clips/y_say_be4a0e8e.mp3",
-"dur": 3.73,
-"mouth": "111111333555333333411111122153333155111115512355333352112233333355511111111",
-"h": "9bacebe9eb"
+"dur": 2.53,
+"mouth": "111111223311553312555511111123333333553351111111111",
+"h": "a10c1a6eda"
 },
 {
 "id": "p_say_be4a0e8e",
@@ -8439,9 +7206,9 @@
 "emo": "smug",
 "text": "Cheap paint job. Sorry about that",
 "file": "clips/p_say_be4a0e8e.mp3",
-"dur": 4.24,
-"mouth": "1111123333555555552155555511111111111111112225551111555555111111111233335551111111111",
-"h": "a18b25b318"
+"dur": 3.11,
+"mouth": "111122255511113351253331111111111122333333355555511111111111111",
+"h": "438052feee"
 },
 {
 "id": "o_say_be4a0e8e",
@@ -8451,9 +7218,441 @@
 "emo": "smug",
 "text": "Cheap paint job. Sorry about that",
 "file": "clips/o_say_be4a0e8e.mp3",
-"dur": 3.17,
-"mouth": "1111233355111111111155511111111112335555555111111113335511111111",
-"h": "a88121e959"
+"dur": 1.99,
+"mouth": "1111133443555551111111233333513355111111",
+"h": "b3d909c99b"
+},
+{
+"id": "r_say_00445a71",
+"who": "r",
+"tag": "say",
+"key": "thatwasneverwhitegotcha",
+"emo": "smug",
+"text": "That was never white. Gotcha",
+"file": "clips/r_say_00445a71.mp3",
+"dur": 4.67,
+"mouth": "1111111111111111111111111111111153333333344333334443555111111111111111111133352255511111111111",
+"h": "2fb543a364"
+},
+{
+"id": "b_say_00445a71",
+"who": "b",
+"tag": "say",
+"key": "thatwasneverwhitegotcha",
+"emo": "smug",
+"text": "That was never white. Gotcha",
+"file": "clips/b_say_00445a71.mp3",
+"dur": 2.86,
+"mouth": "1111111155555555543333345543351111111111153332225111111111",
+"h": "a6b4f83ca5"
+},
+{
+"id": "g_say_00445a71",
+"who": "g",
+"tag": "say",
+"key": "thatwasneverwhitegotcha",
+"emo": "smug",
+"text": "That was never white. Gotcha",
+"file": "clips/g_say_00445a71.mp3",
+"dur": 3.1,
+"mouth": "11111155514354444333334444335511222111115335122355511111111111",
+"h": "088920a4b8"
+},
+{
+"id": "y_say_00445a71",
+"who": "y",
+"tag": "say",
+"key": "thatwasneverwhitegotcha",
+"emo": "smug",
+"text": "That was never white. Gotcha",
+"file": "clips/y_say_00445a71.mp3",
+"dur": 2.6,
+"mouth": "1111113335143224433333335554433511111111133312255111",
+"h": "ba2d27c5c6"
+},
+{
+"id": "p_say_00445a71",
+"who": "p",
+"tag": "say",
+"key": "thatwasneverwhitegotcha",
+"emo": "smug",
+"text": "That was never white. Gotcha",
+"file": "clips/p_say_00445a71.mp3",
+"dur": 2.38,
+"mouth": "111153315523555555555511111113335225511111111111",
+"h": "abe22ffd56"
+},
+{
+"id": "o_say_00445a71",
+"who": "o",
+"tag": "say",
+"key": "thatwasneverwhitegotcha",
+"emo": "smug",
+"text": "That was never white. Gotcha",
+"file": "clips/o_say_00445a71.mp3",
+"dur": 2.38,
+"mouth": "111153333544443333555555111111111333555551111111",
+"h": "3b7860b251"
+},
+{
+"id": "r_say_b71b74a2",
+"who": "r",
+"tag": "say",
+"key": "thatwasneverbluegotcha",
+"emo": "smug",
+"text": "That was never blue. Gotcha",
+"file": "clips/r_say_b71b74a2.mp3",
+"dur": 3.33,
+"mouth": "1111111111111155552233334553335551111111111111111333223551111111111",
+"h": "ccd6aa6b84"
+},
+{
+"id": "b_say_b71b74a2",
+"who": "b",
+"tag": "say",
+"key": "thatwasneverbluegotcha",
+"emo": "smug",
+"text": "That was never blue. Gotcha",
+"file": "clips/b_say_b71b74a2.mp3",
+"dur": 2.85,
+"mouth": "1111111155335543554433453455444444511111133331255551111111",
+"h": "dbb21f8338"
+},
+{
+"id": "g_say_b71b74a2",
+"who": "g",
+"tag": "say",
+"key": "thatwasneverbluegotcha",
+"emo": "smug",
+"text": "That was never blue. Gotcha",
+"file": "clips/g_say_b71b74a2.mp3",
+"dur": 2.77,
+"mouth": "11111153314554443333355555555111111533512235511111111111",
+"h": "83faf4ce5b"
+},
+{
+"id": "y_say_b71b74a2",
+"who": "y",
+"tag": "say",
+"key": "thatwasneverbluegotcha",
+"emo": "smug",
+"text": "That was never blue. Gotcha",
+"file": "clips/y_say_b71b74a2.mp3",
+"dur": 2.53,
+"mouth": "111111333333333333455444444111111155512555111111111",
+"h": "c308c2ff5f"
+},
+{
+"id": "p_say_b71b74a2",
+"who": "p",
+"tag": "say",
+"key": "thatwasneverbluegotcha",
+"emo": "smug",
+"text": "That was never blue. Gotcha",
+"file": "clips/p_say_b71b74a2.mp3",
+"dur": 2.62,
+"mouth": "11111533555244555555555511111111115335125511111111111",
+"h": "f838869c2d"
+},
+{
+"id": "o_say_b71b74a2",
+"who": "o",
+"tag": "say",
+"key": "thatwasneverbluegotcha",
+"emo": "smug",
+"text": "That was never blue. Gotcha",
+"file": "clips/o_say_b71b74a2.mp3",
+"dur": 2.94,
+"mouth": "11115533314335144433333355511155335511111111335125111111111",
+"h": "c8a7b2914a"
+},
+{
+"id": "r_say_f2e6b0f5",
+"who": "r",
+"tag": "say",
+"key": "thatwasnevergreengotcha",
+"emo": "smug",
+"text": "That was never green. Gotcha",
+"file": "clips/r_say_f2e6b0f5.mp3",
+"dur": 3.49,
+"mouth": "1111111111111111111155554333333333355555551111111111111335555111111111",
+"h": "257f5f9fb8"
+},
+{
+"id": "b_say_f2e6b0f5",
+"who": "b",
+"tag": "say",
+"key": "thatwasnevergreengotcha",
+"emo": "smug",
+"text": "That was never green. Gotcha",
+"file": "clips/b_say_f2e6b0f5.mp3",
+"dur": 5.3,
+"mouth": "11111111111111111111111111111111111115333325443333444555555511111111111111111153331225555111111111111111111",
+"h": "7100c75231"
+},
+{
+"id": "g_say_f2e6b0f5",
+"who": "g",
+"tag": "say",
+"key": "thatwasnevergreengotcha",
+"emo": "smug",
+"text": "That was never green. Gotcha",
+"file": "clips/g_say_f2e6b0f5.mp3",
+"dur": 3.02,
+"mouth": "1111115335532244443355555543355111111111533512255111111111111",
+"h": "a78bd49a77"
+},
+{
+"id": "y_say_f2e6b0f5",
+"who": "y",
+"tag": "say",
+"key": "thatwasnevergreengotcha",
+"emo": "smug",
+"text": "That was never green. Gotcha",
+"file": "clips/y_say_f2e6b0f5.mp3",
+"dur": 2.68,
+"mouth": "111111335432433335144444451111111133335553333511111111",
+"h": "0f6fa794f2"
+},
+{
+"id": "p_say_f2e6b0f5",
+"who": "p",
+"tag": "say",
+"key": "thatwasnevergreengotcha",
+"emo": "smug",
+"text": "That was never green. Gotcha",
+"file": "clips/p_say_f2e6b0f5.mp3",
+"dur": 4.3,
+"mouth": "111111111111111111111111111115335555554455555555555555551111111111111333122333511111111",
+"h": "d2bbf2263c"
+},
+{
+"id": "o_say_f2e6b0f5",
+"who": "o",
+"tag": "say",
+"key": "thatwasnevergreengotcha",
+"emo": "smug",
+"text": "That was never green. Gotcha",
+"file": "clips/o_say_f2e6b0f5.mp3",
+"dur": 2.77,
+"mouth": "11115335433544443335533514333555111111113351255111111111",
+"h": "568f2387ce"
+},
+{
+"id": "r_say_6acc1265",
+"who": "r",
+"tag": "say",
+"key": "thatwasneveryellowgotcha",
+"emo": "smug",
+"text": "That was never yellow. Gotcha",
+"file": "clips/r_say_6acc1265.mp3",
+"dur": 4.67,
+"mouth": "1111111111111111111111111111155555322344333553453345551111111111111111133332235511111111111111",
+"h": "0858960cc2"
+},
+{
+"id": "b_say_6acc1265",
+"who": "b",
+"tag": "say",
+"key": "thatwasneveryellowgotcha",
+"emo": "smug",
+"text": "That was never yellow. Gotcha",
+"file": "clips/b_say_6acc1265.mp3",
+"dur": 3.64,
+"mouth": "1111111115555554325444433333355553333355551111111111153335225555511111111",
+"h": "44984e41f7"
+},
+{
+"id": "g_say_6acc1265",
+"who": "g",
+"tag": "say",
+"key": "thatwasneveryellowgotcha",
+"emo": "smug",
+"text": "That was never yellow. Gotcha",
+"file": "clips/g_say_6acc1265.mp3",
+"dur": 2.77,
+"mouth": "11111153355552444335555333555111111115335122551111111111",
+"h": "6631aff5c0"
+},
+{
+"id": "y_say_6acc1265",
+"who": "y",
+"tag": "say",
+"key": "thatwasneveryellowgotcha",
+"emo": "smug",
+"text": "That was never yellow. Gotcha",
+"file": "clips/y_say_6acc1265.mp3",
+"dur": 3.37,
+"mouth": "11111133553224443333333333333345111111153312555554155555551111111111",
+"h": "ae4261bd6e"
+},
+{
+"id": "p_say_6acc1265",
+"who": "p",
+"tag": "say",
+"key": "thatwasneveryellowgotcha",
+"emo": "smug",
+"text": "That was never yellow. Gotcha",
+"file": "clips/p_say_6acc1265.mp3",
+"dur": 3.25,
+"mouth": "111111111555555544335555533555511111111111111111111533312251111111",
+"h": "bb1e36b4ba"
+},
+{
+"id": "o_say_6acc1265",
+"who": "o",
+"tag": "say",
+"key": "thatwasneveryellowgotcha",
+"emo": "smug",
+"text": "That was never yellow. Gotcha",
+"file": "clips/o_say_6acc1265.mp3",
+"dur": 2.77,
+"mouth": "11115335555554444333335555553335551111111533555511111111",
+"h": "d6fa491ccd"
+},
+{
+"id": "r_say_2731e318",
+"who": "r",
+"tag": "say",
+"key": "thatwasneverpurplegotcha",
+"emo": "smug",
+"text": "That was never purple. Gotcha",
+"file": "clips/r_say_2731e318.mp3",
+"dur": 3.81,
+"mouth": "11111111111115553334433333555415511111111111111111111113333222355511111111111",
+"h": "93c20e175f"
+},
+{
+"id": "b_say_2731e318",
+"who": "b",
+"tag": "say",
+"key": "thatwasneverpurplegotcha",
+"emo": "smug",
+"text": "That was never purple. Gotcha",
+"file": "clips/b_say_2731e318.mp3",
+"dur": 4.2,
+"mouth": "111111111111111111111111111111153333355433331133544451111111153331223555111111111111",
+"h": "0d3b9efb4c"
+},
+{
+"id": "g_say_2731e318",
+"who": "g",
+"tag": "say",
+"key": "thatwasneverpurplegotcha",
+"emo": "smug",
+"text": "That was never purple. Gotcha",
+"file": "clips/g_say_2731e318.mp3",
+"dur": 3.02,
+"mouth": "1111115335552244433555115333514441111111533351223551111111111",
+"h": "9218cc7273"
+},
+{
+"id": "y_say_2731e318",
+"who": "y",
+"tag": "say",
+"key": "thatwasneverpurplegotcha",
+"emo": "smug",
+"text": "That was never purple. Gotcha",
+"file": "clips/y_say_2731e318.mp3",
+"dur": 2.6,
+"mouth": "11111133332444433334155444451111111533555551111111111",
+"h": "6ba4e4b785"
+},
+{
+"id": "p_say_2731e318",
+"who": "p",
+"tag": "say",
+"key": "thatwasneverpurplegotcha",
+"emo": "smug",
+"text": "That was never purple. Gotcha",
+"file": "clips/p_say_2731e318.mp3",
+"dur": 2.86,
+"mouth": "1111115533315555544335555115555551111111113335125551111111",
+"h": "dab71c6ce6"
+},
+{
+"id": "o_say_2731e318",
+"who": "o",
+"tag": "say",
+"key": "thatwasneverpurplegotcha",
+"emo": "smug",
+"text": "That was never purple. Gotcha",
+"file": "clips/o_say_2731e318.mp3",
+"dur": 2.54,
+"mouth": "111155555514444433333555553451111111153351251111111",
+"h": "28b7d3635b"
+},
+{
+"id": "r_say_90f16bb6",
+"who": "r",
+"tag": "say",
+"key": "thatwasneverorangegotcha",
+"emo": "smug",
+"text": "That was never orange. Gotcha",
+"file": "clips/r_say_90f16bb6.mp3",
+"dur": 4.51,
+"mouth": "1111111111111111111111133333333335554444455511111111111111111111111111133352255111111111111",
+"h": "15a682d9f2"
+},
+{
+"id": "b_say_90f16bb6",
+"who": "b",
+"tag": "say",
+"key": "thatwasneverorangegotcha",
+"emo": "smug",
+"text": "That was never orange. Gotcha",
+"file": "clips/b_say_90f16bb6.mp3",
+"dur": 3.32,
+"mouth": "1111111111155333335433555544555555211111111111533352255511111111111",
+"h": "5ca3bdb370"
+},
+{
+"id": "g_say_90f16bb6",
+"who": "g",
+"tag": "say",
+"key": "thatwasneverorangegotcha",
+"emo": "smug",
+"text": "That was never orange. Gotcha",
+"file": "clips/g_say_90f16bb6.mp3",
+"dur": 3.44,
+"mouth": "111111555513524444533333513335555511221111111533512255511111111111111",
+"h": "7eab0005fa"
+},
+{
+"id": "y_say_90f16bb6",
+"who": "y",
+"tag": "say",
+"key": "thatwasneverorangegotcha",
+"emo": "smug",
+"text": "That was never orange. Gotcha",
+"file": "clips/y_say_90f16bb6.mp3",
+"dur": 2.3,
+"mouth": "11111133355243354444435442111113331255111111111",
+"h": "e47895752d"
+},
+{
+"id": "p_say_90f16bb6",
+"who": "p",
+"tag": "say",
+"key": "thatwasneverorangegotcha",
+"emo": "smug",
+"text": "That was never orange. Gotcha",
+"file": "clips/p_say_90f16bb6.mp3",
+"dur": 3.43,
+"mouth": "111115333552244433555555551111111111111111111133312235511111111111111",
+"h": "57a8c79905"
+},
+{
+"id": "o_say_90f16bb6",
+"who": "o",
+"tag": "say",
+"key": "thatwasneverorangegotcha",
+"emo": "smug",
+"text": "That was never orange. Gotcha",
+"file": "clips/o_say_90f16bb6.mp3",
+"dur": 2.86,
+"mouth": "1111533333111153325443333335544455511111111135511111111111",
+"h": "3ed8335835"
 },
 {
 "id": "r_say_d027dfdc",
@@ -8463,9 +7662,9 @@
 "emo": "smug",
 "text": "Fresh paint, fresh lies",
 "file": "clips/r_say_d027dfdc.mp3",
-"dur": 4.35,
-"mouth": "111111533334445111111111111155111111122211123332225335522111111333225335555222111111111",
-"h": "200bc0567f"
+"dur": 3.25,
+"mouth": "111111111111111133222533355211111111111133322333355122211111111111",
+"h": "e478b86a58"
 },
 {
 "id": "b_say_d027dfdc",
@@ -8475,9 +7674,9 @@
 "emo": "smug",
 "text": "Fresh paint, fresh lies",
 "file": "clips/b_say_d027dfdc.mp3",
-"dur": 5.37,
-"mouth": "111111111111134444445555111111111115551111111111111233222111333354111111111233222433333355522222111111111111",
-"h": "01868a09aa"
+"dur": 3.49,
+"mouth": "1111111111111111111333522153333411111111112333225433333552222111111111",
+"h": "abf7498f5a"
 },
 {
 "id": "g_say_d027dfdc",
@@ -8487,9 +7686,9 @@
 "emo": "smug",
 "text": "Fresh paint, fresh lies",
 "file": "clips/g_say_d027dfdc.mp3",
-"dur": 3.93,
-"mouth": "1111133511555115311111111111112333221153355511111111555522555555551221111111111",
-"h": "be86ea4648"
+"dur": 2.19,
+"mouth": "11233521123355511111235225333555122211111111",
+"h": "c48ea0f62a"
 },
 {
 "id": "y_say_d027dfdc",
@@ -8499,9 +7698,9 @@
 "emo": "smug",
 "text": "Fresh paint, fresh lies",
 "file": "clips/y_say_d027dfdc.mp3",
-"dur": 3.67,
-"mouth": "11111144444444443332111135551111111113322153335111135225335555521111111111",
-"h": "4b612ef79d"
+"dur": 2.38,
+"mouth": "111111332215333311111143322111543355552211111111",
+"h": "c5ecc60365"
 },
 {
 "id": "p_say_d027dfdc",
@@ -8511,9 +7710,9 @@
 "emo": "smug",
 "text": "Fresh paint, fresh lies",
 "file": "clips/p_say_d027dfdc.mp3",
-"dur": 4.08,
-"mouth": "1112333355555111111255223111111111133322153355111111113352255335551111111111111111",
-"h": "e47937f0d6"
+"dur": 2.54,
+"mouth": "111113322155555211111111111332223333555211111111111",
+"h": "bc014ca155"
 },
 {
 "id": "o_say_d027dfdc",
@@ -8523,9 +7722,441 @@
 "emo": "smug",
 "text": "Fresh paint, fresh lies",
 "file": "clips/o_say_d027dfdc.mp3",
-"dur": 3.49,
-"mouth": "1111533333511111111111111111111113332155335511111113322255551111111111",
-"h": "30f9f52401"
+"dur": 2.47,
+"mouth": "11111233321153333511111111123321143355511111111111",
+"h": "eb660ee063"
+},
+{
+"id": "r_say_a1539389",
+"who": "r",
+"tag": "say",
+"key": "psstthatwaswhiteunderthebluepaint",
+"emo": "smug",
+"text": "Psst, that was white under the blue paint",
+"file": "clips/r_say_a1539389.mp3",
+"dur": 3.73,
+"mouth": "111111111123333111111111155532235533335222233355544415555111111111111111111",
+"h": "a82a4a5c2f"
+},
+{
+"id": "r_say_c51c31f1",
+"who": "r",
+"tag": "say",
+"key": "psstthatwaswhiteunderthegreenpaint",
+"emo": "smug",
+"text": "Psst, that was white under the green paint",
+"file": "clips/r_say_c51c31f1.mp3",
+"dur": 3.96,
+"mouth": "11111111115221111111111111111133333544433335223333355444452333411111111111111111",
+"h": "db221b6b41"
+},
+{
+"id": "r_say_7d9c269f",
+"who": "r",
+"tag": "say",
+"key": "psstthatwaswhiteundertheyellowpaint",
+"emo": "smug",
+"text": "Psst, that was white under the yellow paint",
+"file": "clips/r_say_7d9c269f.mp3",
+"dur": 2.94,
+"mouth": "11111111111111111555432554333355555543543555551111111111111",
+"h": "c62cc9c5ef"
+},
+{
+"id": "r_say_ee6f7015",
+"who": "r",
+"tag": "say",
+"key": "psstthatwaswhiteunderthepurplepaint",
+"emo": "smug",
+"text": "Psst, that was white under the purple paint",
+"file": "clips/r_say_ee6f7015.mp3",
+"dur": 3.97,
+"mouth": "11111111111111111111111111111555553254333335553333355555555335111111111111111111",
+"h": "d156cc0631"
+},
+{
+"id": "r_say_94a74523",
+"who": "r",
+"tag": "say",
+"key": "psstthatwaswhiteundertheorangepaint",
+"emo": "smug",
+"text": "Psst, that was white under the orange paint",
+"file": "clips/r_say_94a74523.mp3",
+"dur": 3.1,
+"mouth": "11111111221111115553355553335115333333333352225335111111111111",
+"h": "72e693429f"
+},
+{
+"id": "b_say_cc9c80dd",
+"who": "b",
+"tag": "say",
+"key": "psstthatwasblueunderthewhitepaint",
+"emo": "smug",
+"text": "Psst, that was blue under the white paint",
+"file": "clips/b_say_cc9c80dd.mp3",
+"dur": 5.06,
+"mouth": "111111111111111111112222221122111111111111111111115333335554443334444444443351155555511111111111111111",
+"h": "972fb7d224"
+},
+{
+"id": "b_say_00d3290b",
+"who": "b",
+"tag": "say",
+"key": "psstthatwasblueunderthegreenpaint",
+"emo": "smug",
+"text": "Psst, that was blue under the green paint",
+"file": "clips/b_say_00d3290b.mp3",
+"dur": 4.44,
+"mouth": "11111111111111111111111111122222111111111111113333255533333335543344155544511111111111111",
+"h": "f5772a3569"
+},
+{
+"id": "b_say_f4304b8f",
+"who": "b",
+"tag": "say",
+"key": "psstthatwasblueundertheyellowpaint",
+"emo": "smug",
+"text": "Psst, that was blue under the yellow paint",
+"file": "clips/b_say_f4304b8f.mp3",
+"dur": 6.33,
+"mouth": "1111111111111111111111111111222222222222211111111111111111111111111111133333255543333333333333335553451111111111111111111111111",
+"h": "b3a016b8cc"
+},
+{
+"id": "b_say_e813eff0",
+"who": "b",
+"tag": "say",
+"key": "psstthatwasblueunderthepurplepaint",
+"emo": "smug",
+"text": "Psst, that was blue under the purple paint",
+"file": "clips/b_say_e813eff0.mp3",
+"dur": 5.38,
+"mouth": "111111111111111111111111112222221111111111111111115333255444444333331534445551233351122211111111111111111111",
+"h": "2f7f123aad"
+},
+{
+"id": "b_say_70a1a5e4",
+"who": "b",
+"tag": "say",
+"key": "psstthatwasblueundertheorangepaint",
+"emo": "smug",
+"text": "Psst, that was blue under the orange paint",
+"file": "clips/b_say_70a1a5e4.mp3",
+"dur": 4.99,
+"mouth": "1111111111111111111111111122111111111111111111111153354355144433333333354332215555111111111111111111",
+"h": "8277549231"
+},
+{
+"id": "g_say_2f56ef59",
+"who": "g",
+"tag": "say",
+"key": "psstthatwasgreenunderthewhitepaint",
+"emo": "smug",
+"text": "Psst, that was green under the white paint",
+"file": "clips/g_say_2f56ef59.mp3",
+"dur": 3.44,
+"mouth": "111111522211111155553211533333341333333334433555555555111111111111111",
+"h": "3f63def620"
+},
+{
+"id": "g_say_2e759367",
+"who": "g",
+"tag": "say",
+"key": "psstthatwasgreenunderthebluepaint",
+"emo": "smug",
+"text": "Psst, that was green under the blue paint",
+"file": "clips/g_say_2e759367.mp3",
+"dur": 3.44,
+"mouth": "111111521111111155553215555333355555345553153333415555551122111111111",
+"h": "7dc39a6f7f"
+},
+{
+"id": "g_say_3d6e1da6",
+"who": "g",
+"tag": "say",
+"key": "psstthatwasgreenundertheyellowpaint",
+"emo": "smug",
+"text": "Psst, that was green under the yellow paint",
+"file": "clips/g_say_3d6e1da6.mp3",
+"dur": 3.52,
+"mouth": "11111115555512221111155555215333333455553333333555112555511221111111111",
+"h": "2dd8f4beaf"
+},
+{
+"id": "g_say_a48f466a",
+"who": "g",
+"tag": "say",
+"key": "psstthatwasgreenunderthepurplepaint",
+"emo": "smug",
+"text": "Psst, that was green under the purple paint",
+"file": "clips/g_say_a48f466a.mp3",
+"dur": 3.52,
+"mouth": "11111111111111115551452115333333345133443335553355441135551111111111111",
+"h": "4c72a5af90"
+},
+{
+"id": "g_say_79c4aa25",
+"who": "g",
+"tag": "say",
+"key": "psstthatwasgreenundertheorangepaint",
+"emo": "smug",
+"text": "Psst, that was green under the orange paint",
+"file": "clips/g_say_79c4aa25.mp3",
+"dur": 3.69,
+"mouth": "11111111111111111135553215553335551345555513333344521555555112211111111111",
+"h": "0fcb326d2f"
+},
+{
+"id": "y_say_e686824b",
+"who": "y",
+"tag": "say",
+"key": "psstthatwasyellowunderthewhitepaint",
+"emo": "smug",
+"text": "Psst, that was yellow under the white paint",
+"file": "clips/y_say_e686824b.mp3",
+"dur": 3.36,
+"mouth": "11111122221111111111354325553333333351333354445551111555111111111111",
+"h": "6aa5237141"
+},
+{
+"id": "y_say_45dad4e0",
+"who": "y",
+"tag": "say",
+"key": "psstthatwasyellowunderthebluepaint",
+"emo": "smug",
+"text": "Psst, that was yellow under the blue paint",
+"file": "clips/y_say_45dad4e0.mp3",
+"dur": 2.68,
+"mouth": "111111222211111111555553333333333555555555555551111111",
+"h": "d3d72b83af"
+},
+{
+"id": "y_say_99a98b3d",
+"who": "y",
+"tag": "say",
+"key": "psstthatwasyellowunderthegreenpaint",
+"emo": "smug",
+"text": "Psst, that was yellow under the green paint",
+"file": "clips/y_say_99a98b3d.mp3",
+"dur": 3.06,
+"mouth": "11111122222211111113333555333334534555554444455533451111111111",
+"h": "dc258b4728"
+},
+{
+"id": "y_say_0f0af488",
+"who": "y",
+"tag": "say",
+"key": "psstthatwasyellowunderthepurplepaint",
+"emo": "smug",
+"text": "Psst, that was yellow under the purple paint",
+"file": "clips/y_say_0f0af488.mp3",
+"dur": 3.37,
+"mouth": "11111122222221111115554333333333333333333111445345555541111111111111",
+"h": "a6a4e5ed9a"
+},
+{
+"id": "y_say_347869b5",
+"who": "y",
+"tag": "say",
+"key": "psstthatwasyellowundertheorangepaint",
+"emo": "smug",
+"text": "Psst, that was yellow under the orange paint",
+"file": "clips/y_say_347869b5.mp3",
+"dur": 2.83,
+"mouth": "111111222222251111533333333333333333555542255334111111111",
+"h": "5056fe97d9"
+},
+{
+"id": "p_say_f3a30f89",
+"who": "p",
+"tag": "say",
+"key": "psstthatwaspurpleunderthewhitepaint",
+"emo": "smug",
+"text": "Psst, that was purple under the white paint",
+"file": "clips/p_say_f3a30f89.mp3",
+"dur": 2.62,
+"mouth": "11111111135132111113333333555533333511233355211111111",
+"h": "cfa8385680"
+},
+{
+"id": "p_say_4a3c4b4b",
+"who": "p",
+"tag": "say",
+"key": "psstthatwaspurpleunderthebluepaint",
+"emo": "smug",
+"text": "Psst, that was purple under the blue paint",
+"file": "clips/p_say_4a3c4b4b.mp3",
+"dur": 3.75,
+"mouth": "1115322111111111111111111111533332115335555553333355551255555511111111111111",
+"h": "b4b18f4aa9"
+},
+{
+"id": "p_say_cb308888",
+"who": "p",
+"tag": "say",
+"key": "psstthatwaspurpleunderthegreenpaint",
+"emo": "smug",
+"text": "Psst, that was purple under the green paint",
+"file": "clips/p_say_cb308888.mp3",
+"dur": 3.99,
+"mouth": "11111111122222221111111111533333211111153355555133455555533345555551111111111111",
+"h": "7398015223"
+},
+{
+"id": "p_say_3a567161",
+"who": "p",
+"tag": "say",
+"key": "psstthatwaspurpleundertheyellowpaint",
+"emo": "smug",
+"text": "Psst, that was purple under the yellow paint",
+"file": "clips/p_say_3a567161.mp3",
+"dur": 3.74,
+"mouth": "111111152222222211111111113333332111533333333333553333512335551111111111111",
+"h": "3038e551a6"
+},
+{
+"id": "p_say_0b39dd91",
+"who": "p",
+"tag": "say",
+"key": "psstthatwaspurpleundertheorangepaint",
+"emo": "smug",
+"text": "Psst, that was purple under the orange paint",
+"file": "clips/p_say_0b39dd91.mp3",
+"dur": 2.94,
+"mouth": "11111112221111133332111351333355555533321153335211111111111",
+"h": "4716d9aba4"
+},
+{
+"id": "o_say_1dc0e91c",
+"who": "o",
+"tag": "say",
+"key": "psstthatwasorangeunderthewhitepaint",
+"emo": "smug",
+"text": "Psst, that was orange under the white paint",
+"file": "clips/o_say_1dc0e91c.mp3",
+"dur": 2.55,
+"mouth": "111122211111555435554333333333344555555551111111111",
+"h": "535f551d6e"
+},
+{
+"id": "o_say_f1c5bccd",
+"who": "o",
+"tag": "say",
+"key": "psstthatwasorangeunderthebluepaint",
+"emo": "smug",
+"text": "Psst, that was orange under the blue paint",
+"file": "clips/o_say_f1c5bccd.mp3",
+"dur": 3.02,
+"mouth": "1111111111111111534432114443334511544455145341555511111111111",
+"h": "f1766a3d56"
+},
+{
+"id": "o_say_f0e70848",
+"who": "o",
+"tag": "say",
+"key": "psstthatwasorangeunderthegreenpaint",
+"emo": "smug",
+"text": "Psst, that was orange under the green paint",
+"file": "clips/o_say_f0e70848.mp3",
+"dur": 2.87,
+"mouth": "1111122111111111155555511533333425333345333455555111111111",
+"h": "cdd3167687"
+},
+{
+"id": "o_say_7843f5cd",
+"who": "o",
+"tag": "say",
+"key": "psstthatwasorangeundertheyellowpaint",
+"emo": "smug",
+"text": "Psst, that was orange under the yellow paint",
+"file": "clips/o_say_7843f5cd.mp3",
+"dur": 2.86,
+"mouth": "1111222111111111125553211443333333345333555555551111111111",
+"h": "6db904e214"
+},
+{
+"id": "o_say_87652669",
+"who": "o",
+"tag": "say",
+"key": "psstthatwasorangeunderthepurplepaint",
+"emo": "smug",
+"text": "Psst, that was orange under the purple paint",
+"file": "clips/o_say_87652669.mp3",
+"dur": 2.78,
+"mouth": "11112211111115333321153333425444511531455555551111111111",
+"h": "c63d057901"
+},
+{
+"id": "r_say_96f57b58",
+"who": "r",
+"tag": "say",
+"key": "itwaswhitethewholetimenobodynoticed",
+"emo": "smug",
+"text": "It was white the whole time. Nobody noticed",
+"file": "clips/r_say_96f57b58.mp3",
+"dur": 4.9,
+"mouth": "111111111111111111111111111133544234433451111111133544555555551111111111111544444455555111111111111",
+"h": "180908b91a"
+},
+{
+"id": "b_say_b15e44e2",
+"who": "b",
+"tag": "say",
+"key": "itwasbluethewholetimenobodynoticed",
+"emo": "smug",
+"text": "It was blue the whole time. Nobody noticed",
+"file": "clips/b_say_b15e44e2.mp3",
+"dur": 5.38,
+"mouth": "111111111111111111111155543555444444444441555544451111111111111111111111111114444433333335111111111111111111",
+"h": "da3e94e350"
+},
+{
+"id": "g_say_e3d99fc4",
+"who": "g",
+"tag": "say",
+"key": "itwasgreenthewholetimenobodynoticed",
+"emo": "smug",
+"text": "It was green the whole time. Nobody noticed",
+"file": "clips/g_say_e3d99fc4.mp3",
+"dur": 3.44,
+"mouth": "115553215333555555345225555551111111114333355533332255122111111111111",
+"h": "cb739e9957"
+},
+{
+"id": "y_say_b949737c",
+"who": "y",
+"tag": "say",
+"key": "itwasyellowthewholetimenobodynoticed",
+"emo": "smug",
+"text": "It was yellow the whole time. Nobody noticed",
+"file": "clips/y_say_b949737c.mp3",
+"dur": 2.91,
+"mouth": "11111134533333333335435115555551111153333344445522111111111",
+"h": "740928850e"
+},
+{
+"id": "p_say_d7a635bc",
+"who": "p",
+"tag": "say",
+"key": "itwaspurplethewholetimenobodynoticed",
+"emo": "smug",
+"text": "It was purple the whole time. Nobody noticed",
+"file": "clips/p_say_d7a635bc.mp3",
+"dur": 3.67,
+"mouth": "11111555551111351333331533225555551111111114453333333443355511221111111111",
+"h": "2fc45c5d3f"
+},
+{
+"id": "o_say_adb9a98d",
+"who": "o",
+"tag": "say",
+"key": "itwasorangethewholetimenobodynoticed",
+"emo": "smug",
+"text": "It was orange the whole time. Nobody noticed",
+"file": "clips/o_say_adb9a98d.mp3",
+"dur": 2.78,
+"mouth": "11115432153333455555441155551111115555554334111111111111",
+"h": "d4374af536"
 },
 {
 "id": "r_say_ee47a25e",
@@ -8535,9 +8166,9 @@
 "emo": "smug",
 "text": "Nope!",
 "file": "clips/r_say_ee47a25e.mp3",
-"dur": 3.88,
-"mouth": "111111111533345511111111144443333511111111111111111111555533511111111111111111",
-"h": "397bfea7d6"
+"dur": 1.44,
+"mouth": "11111111111144334551111111111",
+"h": "0b3528d8e2"
 },
 {
 "id": "b_say_ee47a25e",
@@ -8547,9 +8178,9 @@
 "emo": "smug",
 "text": "Nope!",
 "file": "clips/b_say_ee47a25e.mp3",
-"dur": 3.34,
-"mouth": "1111111111114444333445555553335511111111111111111531551111111111111",
-"h": "1727e3cea2"
+"dur": 1.67,
+"mouth": "1111111111144333311111111111111111",
+"h": "03d89a33f0"
 },
 {
 "id": "g_say_ee47a25e",
@@ -8559,9 +8190,9 @@
 "emo": "smug",
 "text": "Nope!",
 "file": "clips/g_say_ee47a25e.mp3",
-"dur": 2.43,
-"mouth": "1533511111111111111115443333511111111111111111111",
-"h": "6ead8a3b21"
+"dur": 1.02,
+"mouth": "115553335511111111111",
+"h": "4b34be207d"
 },
 {
 "id": "y_say_ee47a25e",
@@ -8571,9 +8202,9 @@
 "emo": "smug",
 "text": "Nope!",
 "file": "clips/y_say_ee47a25e.mp3",
-"dur": 2.99,
-"mouth": "111111341533333335544444444444445555111111111111235111111111",
-"h": "4cc59175b1"
+"dur": 0.94,
+"mouth": "1111114334111111111",
+"h": "bf405115a3"
 },
 {
 "id": "p_say_ee47a25e",
@@ -8583,9 +8214,9 @@
 "emo": "smug",
 "text": "Nope!",
 "file": "clips/p_say_ee47a25e.mp3",
-"dur": 3.43,
-"mouth": "111115333333355555111111111111115543333551111111155111111111111111111",
-"h": "0737b9698e"
+"dur": 1.32,
+"mouth": "111111111553335111111111111",
+"h": "499d2d0785"
 },
 {
 "id": "o_say_ee47a25e",
@@ -8595,9 +8226,9 @@
 "emo": "smug",
 "text": "Nope!",
 "file": "clips/o_say_ee47a25e.mp3",
-"dur": 2.46,
-"mouth": "11115333111111115433341111111111111111111111111111",
-"h": "89eace071e"
+"dur": 0.89,
+"mouth": "111544333511111111",
+"h": "c9a7fc53ce"
 },
 {
 "id": "r_say_574b0151",
@@ -8607,9 +8238,9 @@
 "emo": "smug",
 "text": "The gate got shy",
 "file": "clips/r_say_574b0151.mp3",
-"dur": 3.17,
-"mouth": "1111111111155333333555511111552335555522255553335511111111111111",
-"h": "d787fd2620"
+"dur": 2.0,
+"mouth": "1111111111133333333322233555111111111111",
+"h": "8bbc04e939"
 },
 {
 "id": "b_say_574b0151",
@@ -8619,9 +8250,9 @@
 "emo": "smug",
 "text": "The gate got shy",
 "file": "clips/b_say_574b0151.mp3",
-"dur": 4.91,
-"mouth": "111111111111111111444444444444445555511111111155553333333333513352233333555511111111111111111111111",
-"h": "7225ae024c"
+"dur": 2.7,
+"mouth": "1111111111111111115345333113335222333355551111111111111",
+"h": "02bbdc2a66"
 },
 {
 "id": "g_say_574b0151",
@@ -8631,9 +8262,9 @@
 "emo": "smug",
 "text": "The gate got shy",
 "file": "clips/g_say_574b0151.mp3",
-"dur": 3.11,
-"mouth": "111222211111111333333555111111115315333115551222555511111111111",
-"h": "1f36586bdf"
+"dur": 1.85,
+"mouth": "11111333333511115555225553355111111111",
+"h": "e14f08db40"
 },
 {
 "id": "y_say_574b0151",
@@ -8643,9 +8274,9 @@
 "emo": "smug",
 "text": "The gate got shy",
 "file": "clips/y_say_574b0151.mp3",
-"dur": 2.45,
-"mouth": "11111133334444333355555331555225555555511111111111",
-"h": "debc17d973"
+"dur": 1.55,
+"mouth": "1111113333513512253355551111111",
+"h": "50d20cedea"
 },
 {
 "id": "p_say_574b0151",
@@ -8655,9 +8286,9 @@
 "emo": "smug",
 "text": "The gate got shy",
 "file": "clips/p_say_574b0151.mp3",
-"dur": 3.59,
-"mouth": "111133333355555555555115333333333555555555133522233333555111111111111111",
-"h": "3f66447c0d"
+"dur": 1.81,
+"mouth": "1111155553351333222533555111111111111",
+"h": "19f8376b2e"
 },
 {
 "id": "o_say_574b0151",
@@ -8667,9 +8298,9 @@
 "emo": "smug",
 "text": "The gate got shy",
 "file": "clips/o_say_574b0151.mp3",
-"dur": 3.02,
-"mouth": "1111233333335511111111551111111111155555511111111111111111111",
-"h": "a5182de795"
+"dur": 1.53,
+"mouth": "1113333551155511113555111111111",
+"h": "d89807379b"
 },
 {
 "id": "r_say_80beddf3",
@@ -8679,9 +8310,9 @@
 "emo": "smug",
 "text": "Not today",
 "file": "clips/r_say_80beddf3.mp3",
-"dur": 4.12,
-"mouth": "11111111113333455111115555111111114355125555555111111552335551111111111111111111111",
-"h": "b97de1244b"
+"dur": 2.7,
+"mouth": "1111111111111111111111111111443355553355551111111111111",
+"h": "db60929004"
 },
 {
 "id": "b_say_80beddf3",
@@ -8691,9 +8322,9 @@
 "emo": "smug",
 "text": "Not today",
 "file": "clips/b_say_80beddf3.mp3",
-"dur": 5.23,
-"mouth": "111111111111111111115553333333334444444444443333512234453333355555111111111111111111111111111111111111111",
-"h": "4055b82d19"
+"dur": 3.32,
+"mouth": "1111111111111111111111443333111233333355551111111111111111111111111",
+"h": "e618860f6c"
 },
 {
 "id": "g_say_80beddf3",
@@ -8703,9 +8334,9 @@
 "emo": "smug",
 "text": "Not today",
 "file": "clips/g_say_80beddf3.mp3",
-"dur": 3.35,
-"mouth": "11523333552111111144331125553355111111115533115551155511555111111111",
-"h": "80d6b0652d"
+"dur": 1.52,
+"mouth": "1154443311225555511111111111111",
+"h": "c694a955d1"
 },
 {
 "id": "y_say_80beddf3",
@@ -8715,9 +8346,9 @@
 "emo": "smug",
 "text": "Not today",
 "file": "clips/y_say_80beddf3.mp3",
-"dur": 4.35,
-"mouth": "1111113334444115333344444444511114444433351122333333555551111111115511111111111111111111",
-"h": "85a690ea85"
+"dur": 1.32,
+"mouth": "111111433552333555111111111",
+"h": "f36d8db73f"
 },
 {
 "id": "p_say_80beddf3",
@@ -8727,9 +8358,9 @@
 "emo": "smug",
 "text": "Not today",
 "file": "clips/p_say_80beddf3.mp3",
-"dur": 3.09,
-"mouth": "11153355555555511111555335125533335555111111111111111155111111",
-"h": "3a54f1fe03"
+"dur": 1.32,
+"mouth": "111143331255335551111111111",
+"h": "ba7098cc1b"
 },
 {
 "id": "o_say_80beddf3",
@@ -8739,9 +8370,9 @@
 "emo": "smug",
 "text": "Not today",
 "file": "clips/o_say_80beddf3.mp3",
-"dur": 2.45,
-"mouth": "11113335111111111153355553335511111111113511111111",
-"h": "1607aac672"
+"dur": 1.04,
+"mouth": "111533311533551111111",
+"h": "aa305ffd8e"
 },
 {
 "id": "r_say_68637bff",
@@ -8751,9 +8382,9 @@
 "emo": "smug",
 "text": "Gates have feelings too",
 "file": "clips/r_say_68637bff.mp3",
-"dur": 3.57,
-"mouth": "111111111111111133333445111111111233522555553333422225544511111111111111",
-"h": "b47e313320"
+"dur": 2.15,
+"mouth": "1111111111153352335553334422233544511111111",
+"h": "918de524c7"
 },
 {
 "id": "b_say_68637bff",
@@ -8763,9 +8394,9 @@
 "emo": "smug",
 "text": "Gates have feelings too",
 "file": "clips/b_say_68637bff.mp3",
-"dur": 3.57,
-"mouth": "111111111111544444444444455333223351123333422223344511111111111111111111",
-"h": "bfc625322e"
+"dur": 3.65,
+"mouth": "1111111111111111111111111111133312333111333333421123334451111111111111111",
+"h": "4b7562dba0"
 },
 {
 "id": "g_say_68637bff",
@@ -8775,9 +8406,9 @@
 "emo": "smug",
 "text": "Gates have feelings too",
 "file": "clips/g_say_68637bff.mp3",
-"dur": 3.35,
-"mouth": "11153333335555211111111111133351123511233355555222233355511111111111",
-"h": "e70d4afcdf"
+"dur": 2.27,
+"mouth": "1133355112211155113335555222223355551111111111",
+"h": "485385e181"
 },
 {
 "id": "y_say_68637bff",
@@ -8787,9 +8418,9 @@
 "emo": "smug",
 "text": "Gates have feelings too",
 "file": "clips/y_say_68637bff.mp3",
-"dur": 2.98,
-"mouth": "111111533344444154444451115335223555533542111555551111111111",
-"h": "a1d7b83d27"
+"dur": 1.77,
+"mouth": "111111333333513333342223334511111111",
+"h": "1f2ac8d3c9"
 },
 {
 "id": "p_say_68637bff",
@@ -8799,9 +8430,9 @@
 "emo": "smug",
 "text": "Gates have feelings too",
 "file": "clips/p_say_68637bff.mp3",
-"dur": 3.27,
-"mouth": "111111113333333555555511111123512351155555522225555511111111111111",
-"h": "89db3f8aa4"
+"dur": 2.05,
+"mouth": "111111333222351233333222223355111111111111",
+"h": "ac32345e51"
 },
 {
 "id": "o_say_68637bff",
@@ -8811,9 +8442,9 @@
 "emo": "smug",
 "text": "Gates have feelings too",
 "file": "clips/o_say_68637bff.mp3",
-"dur": 2.46,
-"mouth": "11115335551111111155521555115533331123335111111111",
-"h": "7ffb88a0a1"
+"dur": 1.76,
+"mouth": "111115335113351123333411135511111111",
+"h": "86bb068387"
 },
 {
 "id": "r_say_a82f82bc",
@@ -8823,9 +8454,9 @@
 "emo": "smug",
 "text": "Missed me",
 "file": "clips/r_say_a82f82bc.mp3",
-"dur": 3.18,
-"mouth": "1111111111111115333444444443221335511111111111155551112221111111",
-"h": "b8497c405a"
+"dur": 1.75,
+"mouth": "111111111111143322333351111111111111",
+"h": "6ab54b6734"
 },
 {
 "id": "b_say_a82f82bc",
@@ -8835,9 +8466,9 @@
 "emo": "smug",
 "text": "Missed me",
 "file": "clips/b_say_a82f82bc.mp3",
-"dur": 3.88,
-"mouth": "111111111111155555533334433222455555111111111111111123511435114511111111111111",
-"h": "7e1cad2ede"
+"dur": 2.79,
+"mouth": "11111111111111111111111111111544433322543335511111111111",
+"h": "0023f3d1c2"
 },
 {
 "id": "g_say_a82f82bc",
@@ -8847,9 +8478,9 @@
 "emo": "smug",
 "text": "Missed me",
 "file": "clips/g_say_a82f82bc.mp3",
-"dur": 3.85,
-"mouth": "111111111122222222111111111111433221555551111111113511331135115511111111111111",
-"h": "791f6138be"
+"dur": 1.6,
+"mouth": "11111111444332225555551111111111",
+"h": "ea8149ef58"
 },
 {
 "id": "y_say_a82f82bc",
@@ -8859,9 +8490,9 @@
 "emo": "smug",
 "text": "Missed me",
 "file": "clips/y_say_a82f82bc.mp3",
-"dur": 3.21,
-"mouth": "11111133333333415334443344444443221143555551111111152213555511111",
-"h": "97ada94245"
+"dur": 1.09,
+"mouth": "1111114322555111111111",
+"h": "87f3733b63"
 },
 {
 "id": "p_say_a82f82bc",
@@ -8871,9 +8502,9 @@
 "emo": "smug",
 "text": "Missed me",
 "file": "clips/p_say_a82f82bc.mp3",
-"dur": 2.94,
-"mouth": "11113333333555551111155553322155555555511111111111111111111",
-"h": "70def46974"
+"dur": 1.24,
+"mouth": "1111443221143555111111111",
+"h": "094a788fcc"
 },
 {
 "id": "o_say_a82f82bc",
@@ -8883,9 +8514,9 @@
 "emo": "smug",
 "text": "Missed me",
 "file": "clips/o_say_a82f82bc.mp3",
-"dur": 2.7,
-"mouth": "1111533355111111111443321551111111551111111111111111111",
-"h": "898a099ffb"
+"dur": 0.96,
+"mouth": "11144331155111111111",
+"h": "0938996731"
 },
 {
 "id": "r_say_0f00ff3a",
@@ -8895,9 +8526,9 @@
 "emo": "smug",
 "text": "Psych! It's back",
 "file": "clips/r_say_0f00ff3a.mp3",
-"dur": 3.56,
-"mouth": "111111111111115333344445111122333351112221335111111111521111111111111111",
-"h": "952b2c4dab"
+"dur": 3.17,
+"mouth": "1111111111122333351111111111111111111111115211335555111111111111",
+"h": "8d72c393f4"
 },
 {
 "id": "b_say_0f00ff3a",
@@ -8907,9 +8538,9 @@
 "emo": "smug",
 "text": "Psych! It's back",
 "file": "clips/b_say_0f00ff3a.mp3",
-"dur": 5.14,
-"mouth": "1111111111115333333333344422222333351111111111111111111111111111111533333355555111111111111111111111111",
-"h": "7ea10aa1eb"
+"dur": 2.69,
+"mouth": "111111111111223335511111111155115335511111111111111111",
+"h": "1c6036343a"
 },
 {
 "id": "g_say_0f00ff3a",
@@ -8919,9 +8550,9 @@
 "emo": "smug",
 "text": "Psych! It's back",
 "file": "clips/g_say_0f00ff3a.mp3",
-"dur": 3.6,
-"mouth": "1555211111111111221111111111222233335511111111113551331155511111111111111",
-"h": "5c1e202796"
+"dur": 1.93,
+"mouth": "222233351111111111111113355111111111111",
+"h": "ad68ec8457"
 },
 {
 "id": "y_say_0f00ff3a",
@@ -8931,9 +8562,9 @@
 "emo": "smug",
 "text": "Psych! It's back",
 "file": "clips/y_say_0f00ff3a.mp3",
-"dur": 2.61,
-"mouth": "11111133553333333322235555111111111222115311111111111",
-"h": "c319d2e552"
+"dur": 1.77,
+"mouth": "111111222331111111133111335111111111",
+"h": "ec6177c4ac"
 },
 {
 "id": "p_say_0f00ff3a",
@@ -8943,9 +8574,9 @@
 "emo": "smug",
 "text": "Psych! It's back",
 "file": "clips/p_say_0f00ff3a.mp3",
-"dur": 3.35,
-"mouth": "1111111111115333355555555511111112223335111111111111155111111111111",
-"h": "39871a8b10"
+"dur": 2.21,
+"mouth": "111111113333351111111111115333511111111111111",
+"h": "ae5648b176"
 },
 {
 "id": "o_say_0f00ff3a",
@@ -8955,9 +8586,9 @@
 "emo": "smug",
 "text": "Psych! It's back",
 "file": "clips/o_say_0f00ff3a.mp3",
-"dur": 2.15,
-"mouth": "11115335111111111335111111115511351111111111",
-"h": "3e6d5325dc"
+"dur": 1.68,
+"mouth": "1111111233351111111133511111111111",
+"h": "b3884e4832"
 },
 {
 "id": "r_say_82cd0dec",
@@ -8967,9 +8598,9 @@
 "emo": "happy",
 "text": "Just kidding, go ahead",
 "file": "clips/r_say_82cd0dec.mp3",
-"dur": 3.33,
-"mouth": "1111111111153334444511111111122221333344411553345333544511111111111",
-"h": "c920614cb5"
+"dur": 2.3,
+"mouth": "11111111112332222355555111115333333555111111111",
+"h": "10589e303d"
 },
 {
 "id": "b_say_82cd0dec",
@@ -8979,9 +8610,9 @@
 "emo": "happy",
 "text": "Just kidding, go ahead",
 "file": "clips/b_say_82cd0dec.mp3",
-"dur": 3.56,
-"mouth": "111111111111544444444551111112352222335555511111115333453355511111111111",
-"h": "259531709c"
+"dur": 4.19,
+"mouth": "111111111111111233221333344411111111111111113333355333444111111111111111111111111111",
+"h": "6dd526fee5"
 },
 {
 "id": "g_say_82cd0dec",
@@ -8991,9 +8622,9 @@
 "emo": "happy",
 "text": "Just kidding, go ahead",
 "file": "clips/g_say_82cd0dec.mp3",
-"dur": 4.18,
-"mouth": "111225521111111111111111233352222211115335555511111111111115333455555544511111111111",
-"h": "fd923f7b66"
+"dur": 2.44,
+"mouth": "1111112332211123555551111115333355555511111111111",
+"h": "6cda53bcc1"
 },
 {
 "id": "y_say_82cd0dec",
@@ -9003,9 +8634,9 @@
 "emo": "happy",
 "text": "Just kidding, go ahead",
 "file": "clips/y_say_82cd0dec.mp3",
-"dur": 2.75,
-"mouth": "11111133513333335111112222223333441111133355333334441111",
-"h": "68308f3dcf"
+"dur": 1.77,
+"mouth": "111111222253333344533355555511111111",
+"h": "96e51dcf7a"
 },
 {
 "id": "p_say_82cd0dec",
@@ -9015,9 +8646,9 @@
 "emo": "happy",
 "text": "Just kidding, go ahead",
 "file": "clips/p_say_82cd0dec.mp3",
-"dur": 3.43,
-"mouth": "111111233335533255511111112222233335551111111333413333355111111111111",
-"h": "d0ebf4ced4"
+"dur": 1.88,
+"mouth": "11111233211555511111153335533511111111",
+"h": "080c29dc8d"
 },
 {
 "id": "o_say_82cd0dec",
@@ -9027,9 +8658,81 @@
 "emo": "happy",
 "text": "Just kidding, go ahead",
 "file": "clips/o_say_82cd0dec.mp3",
-"dur": 2.54,
-"mouth": "111153355111111111321123555111111333453335111111111",
-"h": "44beac7915"
+"dur": 1.92,
+"mouth": "111113321133335441111153335511111111111",
+"h": "faf9b06063"
+},
+{
+"id": "r_say_9e0dfc95",
+"who": "r",
+"tag": "say",
+"key": "5coinsrefund",
+"emo": "happy",
+"text": "+5 coins refund",
+"file": "clips/r_say_9e0dfc95.mp3",
+"dur": 2.62,
+"mouth": "11111111111111133222333554333335555551111111111111111",
+"h": "640a00c677"
+},
+{
+"id": "b_say_9e0dfc95",
+"who": "b",
+"tag": "say",
+"key": "5coinsrefund",
+"emo": "happy",
+"text": "+5 coins refund",
+"file": "clips/b_say_9e0dfc95.mp3",
+"dur": 3.1,
+"mouth": "11111111111111111133221133331113333355432133555511111111111111",
+"h": "abfd2fdf23"
+},
+{
+"id": "g_say_9e0dfc95",
+"who": "g",
+"tag": "say",
+"key": "5coinsrefund",
+"emo": "happy",
+"text": "+5 coins refund",
+"file": "clips/g_say_9e0dfc95.mp3",
+"dur": 2.77,
+"mouth": "11111115332221123333555333355552215551155551111111111111",
+"h": "9e53efd2b9"
+},
+{
+"id": "y_say_9e0dfc95",
+"who": "y",
+"tag": "say",
+"key": "5coinsrefund",
+"emo": "happy",
+"text": "+5 coins refund",
+"file": "clips/y_say_9e0dfc95.mp3",
+"dur": 2.07,
+"mouth": "111111533211333511433342255555555411111111",
+"h": "f8c169fede"
+},
+{
+"id": "p_say_9e0dfc95",
+"who": "p",
+"tag": "say",
+"key": "5coinsrefund",
+"emo": "happy",
+"text": "+5 coins refund",
+"file": "clips/p_say_9e0dfc95.mp3",
+"dur": 3.11,
+"mouth": "111111111533211111111333333555553335552111555125551111111111111",
+"h": "91da1ba97b"
+},
+{
+"id": "o_say_9e0dfc95",
+"who": "o",
+"tag": "say",
+"key": "5coinsrefund",
+"emo": "happy",
+"text": "+5 coins refund",
+"file": "clips/o_say_9e0dfc95.mp3",
+"dur": 2.07,
+"mouth": "111153211133355511333335533155551111111111",
+"h": "8cf9d1728d"
 },
 {
 "id": "r_say_2f16852b",
@@ -9039,9 +8742,9 @@
 "emo": "excited",
 "text": "Boosters unlocked! Magnet, Hammer, Shuffle and Undo are under the board.",
 "file": "clips/r_say_2f16852b.mp3",
-"dur": 7.89,
-"mouth": "11111133334455111111115333334445111554433552221534555551444455111111111111111455555555111111155555555111111225555555511111111111111111333444253344511111111111",
-"h": "b22237d25e"
+"dur": 5.22,
+"mouth": "111111111153322333334433551111111111143335433355553333555223355555555534444443554455544555111111111111111",
+"h": "b05c2be846"
 },
 {
 "id": "b_say_2f16852b",
@@ -9051,9 +8754,9 @@
 "emo": "excited",
 "text": "Boosters unlocked! Magnet, Hammer, Shuffle and Undo are under the board.",
 "file": "clips/b_say_2f16852b.mp3",
-"dur": 8.68,
-"mouth": "111111111111113355333344445511111111111155553444451115533333355552221111111113333334114443355511111115433555551111553335551111111112331555511111111111153344333555511111111111",
-"h": "02fe7501f7"
+"dur": 7.58,
+"mouth": "11111111111111111111445223333333335111111111111111111111111143333351111155333354111111112331533333334453344433555333444444444555111111111111111111111111",
+"h": "74757a0cb6"
 },
 {
 "id": "g_say_2f16852b",
@@ -9063,9 +8766,9 @@
 "emo": "excited",
 "text": "Boosters unlocked! Magnet, Hammer, Shuffle and Undo are under the board.",
 "file": "clips/g_say_2f16852b.mp3",
-"dur": 7.51,
-"mouth": "1115555555111111111111333333444551111114443355511221111113334445555551334444511111111115433355555511115333555122233511555111533344453335555111111111111",
-"h": "8211faf316"
+"dur": 5.19,
+"mouth": "11133352155555445555111111111543331155511111115334551111112233514445534451335555555555555555511111111111",
+"h": "866ee9d041"
 },
 {
 "id": "y_say_2f16852b",
@@ -9075,9 +8778,9 @@
 "emo": "excited",
 "text": "Boosters unlocked! Magnet, Hammer, Shuffle and Undo are under the board.",
 "file": "clips/y_say_2f16852b.mp3",
-"dur": 5.25,
-"mouth": "1111114444441133344511115332111153333333333511111115335555111111153455111235555511111153345334511111111111",
-"h": "786c05e894"
+"dur": 5.03,
+"mouth": "11111143322223344333511111111143335555115334555111112333335534115344553455555555555555444511111111111",
+"h": "d7ff41fa3a"
 },
 {
 "id": "p_say_2f16852b",
@@ -9087,9 +8790,9 @@
 "emo": "excited",
 "text": "Boosters unlocked! Magnet, Hammer, Shuffle and Undo are under the board.",
 "file": "clips/p_say_2f16852b.mp3",
-"dur": 6.59,
-"mouth": "111133355555555551113355533555111153333351111111555555555333335511111111553355555111112225555551111233155551111155555335551111111111",
-"h": "faf1efbd71"
+"dur": 5.05,
+"mouth": "11153322333333333511111111111115555543511111555555551223555555555555425555555555555555443551111111111",
+"h": "10ebe0ef1b"
 },
 {
 "id": "o_say_2f16852b",
@@ -9099,9 +8802,9 @@
 "emo": "excited",
 "text": "Boosters unlocked! Magnet, Hammer, Shuffle and Undo are under the board.",
 "file": "clips/o_say_2f16852b.mp3",
-"dur": 5.93,
-"mouth": "11115555551111111153334511153335111111111533333555344311111115533555511111155553341111112331233411115333333351111111111",
-"h": "1c1f52ae48"
+"dur": 4.67,
+"mouth": "1113322233333333511111111115335555115333335511111112331533415333333333113333355554445111111111",
+"h": "8fbc6119f2"
 },
 {
 "id": "r_say_13ab0e32",
@@ -9111,9 +8814,9 @@
 "emo": "excited",
 "text": "Feeling brave? Tap for Ragebait mode: painted bricks and shy gates.",
 "file": "clips/r_say_13ab0e32.mp3",
-"dur": 3.79,
-"mouth": "1111115334444555554455555511111111122211112333351111233555533335111111111111",
-"h": "fc926e4ab7"
+"dur": 7.19,
+"mouth": "111111111112333445333333511111111111225555555233334555443555555555551111111111111111111111111534255514335112225555511111112555555511111111111111",
+"h": "72ab307c40"
 },
 {
 "id": "b_say_13ab0e32",
@@ -9123,9 +8826,9 @@
 "emo": "excited",
 "text": "Feeling brave? Tap for Ragebait mode: painted bricks and shy gates.",
 "file": "clips/b_say_13ab0e32.mp3",
-"dur": 5.93,
-"mouth": "11111111111155555534445511533344333335511111111111111331154111111111111115333311111115555533355541111111111111111111111",
-"h": "d9c51262f1"
+"dur": 7.12,
+"mouth": "11111111111111233334444333355111111111111111255311345533544421344443335553354433344511111111111111111153335553322442233333355112221111111111111",
+"h": "6cba66cda8"
 },
 {
 "id": "g_say_13ab0e32",
@@ -9135,9 +8838,9 @@
 "emo": "excited",
 "text": "Feeling brave? Tap for Ragebait mode: painted bricks and shy gates.",
 "file": "clips/g_say_13ab0e32.mp3",
-"dur": 4.86,
-"mouth": "11111111135111111111111123335555553355111111111111153115551111111111122331155553355555111111111111",
-"h": "b99146f29c"
+"dur": 5.85,
+"mouth": "123333544433555111111111235113413335555113453355521555115511111111111533555511555511221155522333555551111122111111111",
+"h": "340e112c77"
 },
 {
 "id": "y_say_13ab0e32",
@@ -9147,9 +8850,9 @@
 "emo": "excited",
 "text": "Feeling brave? Tap for Ragebait mode: painted bricks and shy gates.",
 "file": "clips/y_say_13ab0e32.mp3",
-"dur": 3.37,
-"mouth": "11111133513344111133334443335111551331531111115555555533444511111111",
-"h": "61101d1b50"
+"dur": 4.87,
+"mouth": "11111153333453335511111111233333333351444533352135514554411111133423555555555225555335111111111111",
+"h": "d586133a35"
 },
 {
 "id": "p_say_13ab0e32",
@@ -9159,9 +8862,9 @@
 "emo": "excited",
 "text": "Feeling brave? Tap for Ragebait mode: painted bricks and shy gates.",
 "file": "clips/p_say_13ab0e32.mp3",
-"dur": 5.29,
-"mouth": "1111111123333355555511111111111255555555555555511111111155111111111111111111115331155555555551111111111111",
-"h": "c9123f53fb"
+"dur": 6.02,
+"mouth": "1111233334533355111111111112533155123333321555533352155555555511111111111111155555511155511111555222555555511111111111111",
+"h": "d9af8cc706"
 },
 {
 "id": "o_say_13ab0e32",
@@ -9171,9 +8874,9 @@
 "emo": "excited",
 "text": "Feeling brave? Tap for Ragebait mode: painted bricks and shy gates.",
 "file": "clips/o_say_13ab0e32.mp3",
-"dur": 4.28,
-"mouth": "11153335111111111533344154333521111111133111111111111112335111111334111555541111111111",
-"h": "f12596ff4d"
+"dur": 4.99,
+"mouth": "1111233555533352111111155555555533335555511533351155115551111111153334443351155511155555511111111111",
+"h": "bf0294020d"
 },
 {
 "id": "r_say_65549a69",
@@ -9183,9 +8886,9 @@
 "emo": "excited",
 "text": "New: shelled bricks. Send the shell out through its colour first.",
 "file": "clips/r_say_65549a69.mp3",
-"dur": 5.38,
-"mouth": "111111111111153333444511111111133333344111111111111112255555522211111111222333333555511155511111111111111111",
-"h": "ef0b4dd81d"
+"dur": 4.99,
+"mouth": "1111111111154433334445111111125555553351122211111111223442233335555445222555555555522111111111111111",
+"h": "d450645bee"
 },
 {
 "id": "b_say_65549a69",
@@ -9195,9 +8898,9 @@
 "emo": "excited",
 "text": "New: shelled bricks. Send the shell out through its colour first.",
 "file": "clips/b_say_65549a69.mp3",
-"dur": 5.62,
-"mouth": "11111111111111111111443333344444554444444444522222233333555111111111111222253344332555111333551111111111111111111",
-"h": "696e52d7ae"
+"dur": 6.08,
+"mouth": "11111111111111115444333334444555111111111111122333345554351111222211111111234452233333554452115555211555122111111111111111",
+"h": "bd66d04709"
 },
 {
 "id": "g_say_65549a69",
@@ -9207,9 +8910,9 @@
 "emo": "excited",
 "text": "New: shelled bricks. Send the shell out through its colour first.",
 "file": "clips/g_say_65549a69.mp3",
-"dur": 5.19,
-"mouth": "11115555551111111111153333333335555511111111111225335555111111111111223334555555511155555221111111111111",
-"h": "ba28bb82d5"
+"dur": 4.76,
+"mouth": "115555533355511111222333451155551122211111122333453223334555335115551115555512335511221111111111",
+"h": "c75620776b"
 },
 {
 "id": "y_say_65549a69",
@@ -9219,9 +8922,9 @@
 "emo": "excited",
 "text": "New: shelled bricks. Send the shell out through its colour first.",
 "file": "clips/y_say_65549a69.mp3",
-"dur": 4.73,
-"mouth": "11111133355533444511115333333333333333444551112222355555555111111222335555235115551111111111111",
-"h": "345a92b3fd"
+"dur": 4.2,
+"mouth": "111111433333344444444444511222335511455112211111333322333335143551135555135111111111",
+"h": "103f96d8ad"
 },
 {
 "id": "p_say_65549a69",
@@ -9231,9 +8934,9 @@
 "emo": "excited",
 "text": "New: shelled bricks. Send the shell out through its colour first.",
 "file": "clips/p_say_65549a69.mp3",
-"dur": 4.97,
-"mouth": "1111333355555555111111111555333355555111111112225333555511111122253335555555551111255111111111111111",
-"h": "53c1ad474d"
+"dur": 4.88,
+"mouth": "11144433355551111111122233355555551111111111112233333322233333551115333111555551125511111111111111",
+"h": "2b4cdca96c"
 },
 {
 "id": "o_say_65549a69",
@@ -9243,9 +8946,9 @@
 "emo": "excited",
 "text": "New: shelled bricks. Send the shell out through its colour first.",
 "file": "clips/o_say_65549a69.mp3",
-"dur": 4.04,
-"mouth": "111153351111115333451111111112233335511111111112333355333333351113351111111111111",
-"h": "5c40ede3bc"
+"dur": 3.97,
+"mouth": "11145333334451111111233355555111111111111333322333335553321153351155111111111111",
+"h": "6d0d59700d"
 },
 {
 "id": "r_say_3356bc18",
@@ -9255,9 +8958,9 @@
 "emo": "excited",
 "text": "New: shutters. The number drops each time a brick leaves.",
 "file": "clips/r_say_3356bc18.mp3",
-"dur": 4.75,
-"mouth": "111111533344445111111222333342221111111111111111111111115335555553322511555522235555511111111111",
-"h": "bb05a7f130"
+"dur": 4.99,
+"mouth": "1111111154333345111111111111122335551221111111111111111544455555522552155555551155111111111111111111",
+"h": "24d6efafd5"
 },
 {
 "id": "b_say_3356bc18",
@@ -9267,9 +8970,9 @@
 "emo": "excited",
 "text": "New: shutters. The number drops each time a brick leaves.",
 "file": "clips/b_say_3356bc18.mp3",
-"dur": 5.07,
-"mouth": "111111111111533333333222233333555221111111111111111111111111115555555555551155411555544451111111111111",
-"h": "41e6d63823"
+"dur": 6.09,
+"mouth": "11111111111154444333333333334534444444445511111111111223355552221111111111115444333351255225445555145551221111111111111111",
+"h": "7d39d9f0bd"
 },
 {
 "id": "g_say_3356bc18",
@@ -9279,9 +8982,9 @@
 "emo": "excited",
 "text": "New: shutters. The number drops each time a brick leaves.",
 "file": "clips/g_say_3356bc18.mp3",
-"dur": 4.52,
-"mouth": "1115333333551111111123333312555522221111111335533511555522235552355122153355555111111111111",
-"h": "9b42915041"
+"dur": 4.86,
+"mouth": "11544333551111111222351255112211111344334555511435111115555222255555555514351155555111122111111111",
+"h": "f811037748"
 },
 {
 "id": "y_say_3356bc18",
@@ -9291,9 +8994,9 @@
 "emo": "excited",
 "text": "New: shutters. The number drops each time a brick leaves.",
 "file": "clips/y_say_3356bc18.mp3",
-"dur": 3.21,
-"mouth": "11111144444444111522333352211155555531231155552113555555111111111",
-"h": "a981f15eed"
+"dur": 4.04,
+"mouth": "111111444333334451112235555211111154445555331115552211555554445514455551111111111",
+"h": "e89bcae711"
 },
 {
 "id": "p_say_3356bc18",
@@ -9303,9 +9006,9 @@
 "emo": "excited",
 "text": "New: shutters. The number drops each time a brick leaves.",
 "file": "clips/p_say_3356bc18.mp3",
-"dur": 3.92,
-"mouth": "1111233333333355551111111112233333551111555555555555112555511125555511111111111",
-"h": "2c14e35d53"
+"dur": 5.61,
+"mouth": "11111111111111111111444333355511111111111111223335551111111111113333335533311155522253333415551155511111111111111",
+"h": "3141357933"
 },
 {
 "id": "o_say_3356bc18",
@@ -9315,9 +9018,9 @@
 "emo": "excited",
 "text": "New: shutters. The number drops each time a brick leaves.",
 "file": "clips/o_say_3356bc18.mp3",
-"dur": 3.41,
-"mouth": "111153322211111111113335511111111111555555115511555411153335511111111",
-"h": "c545c23c45"
+"dur": 4.04,
+"mouth": "111443335111111112335511111111154333341333351111115551115555555435555511111111111",
+"h": "bb670a9e27"
 },
 {
 "id": "r_say_34425684",
@@ -9327,9 +9030,9 @@
 "emo": "excited",
 "text": "New: grey blockers never move. Work around them.",
 "file": "clips/r_say_34425684.mp3",
-"dur": 5.22,
-"mouth": "111111111115533445111115553334435552222111111155344335534444445511111111111111555334555335111111111111111",
-"h": "752ebd1ad6"
+"dur": 6.56,
+"mouth": "111111111111111111111111111111544333333444451111111115333335555543334455555111111111111111111111111111111114355443334555551111111111",
+"h": "9edadf8b4b"
 },
 {
 "id": "b_say_34425684",
@@ -9339,9 +9042,9 @@
 "emo": "excited",
 "text": "New: grey blockers never move. Work around them.",
 "file": "clips/b_say_34425684.mp3",
-"dur": 5.21,
-"mouth": "111111111111111114333333334455433335433555555222111111111111155534433555111111111115433333335551111111111",
-"h": "fb24df6cce"
+"dur": 5.69,
+"mouth": "111111111111544333344451111111111111111114433333355555444444444455111111111111444445554455551111111111111111111111",
+"h": "2b4de37d2e"
 },
 {
 "id": "g_say_34425684",
@@ -9351,9 +9054,9 @@
 "emo": "excited",
 "text": "New: grey blockers never move. Work around them.",
 "file": "clips/g_say_34425684.mp3",
-"dur": 5.44,
-"mouth": "1115333355551111111111155433335533355551222211111113354453333544533555111111111533333333333555111111111111111",
-"h": "29ca8c92ce"
+"dur": 4.52,
+"mouth": "1154433333355111111533355553355555115445555544333551111111111543331555555555511111111111111",
+"h": "bf3ffd4ec8"
 },
 {
 "id": "y_say_34425684",
@@ -9363,9 +9066,9 @@
 "emo": "excited",
 "text": "New: grey blockers never move. Work around them.",
 "file": "clips/y_say_34425684.mp3",
-"dur": 3.59,
-"mouth": "111111333153444415333335552211333333444444451111111533345555544111111111",
-"h": "4165030293"
+"dur": 3.52,
+"mouth": "11111144334445111115333335533245555444551111111144444555445555111111111",
+"h": "7d4766be6d"
 },
 {
 "id": "p_say_34425684",
@@ -9375,9 +9078,9 @@
 "emo": "excited",
 "text": "New: grey blockers never move. Work around them.",
 "file": "clips/p_say_34425684.mp3",
-"dur": 5.05,
-"mouth": "11111113333355555511111111533333555551111111111155444555555553344511111111153333333335555511111111111",
-"h": "a76a6a6d53"
+"dur": 4.16,
+"mouth": "111155553355511111111153331533555555533555555511111111155555555333555555511111111111",
+"h": "27dbe377a7"
 },
 {
 "id": "o_say_34425684",
@@ -9387,9 +9090,9 @@
 "emo": "excited",
 "text": "New: grey blockers never move. Work around them.",
 "file": "clips/o_say_34425684.mp3",
-"dur": 3.73,
-"mouth": "111153351111111154333355555111111115344333333333511111111333333555111111111",
-"h": "4dc42f8c8f"
+"dur": 3.65,
+"mouth": "1114443333345111111115333553351335145553444451111111114331553335111111111",
+"h": "4b411092a6"
 },
 {
 "id": "r_say_8630466e",
@@ -9399,9 +9102,9 @@
 "emo": "excited",
 "text": "New: blocked exits open once enough bricks have left.",
 "file": "clips/r_say_8630466e.mp3",
-"dur": 4.43,
-"mouth": "11111111111333344451111111111533512255522551122111111233333355533555551445551111111111111",
-"h": "ccccfb0c52"
+"dur": 4.28,
+"mouth": "11111111111444333344511111111111533352155552352213453445225551155522555551111111111111",
+"h": "ac301d4ab3"
 },
 {
 "id": "b_say_8630466e",
@@ -9411,9 +9114,9 @@
 "emo": "excited",
 "text": "New: blocked exits open once enough bricks have left.",
 "file": "clips/b_say_8630466e.mp3",
-"dur": 4.2,
-"mouth": "111111111111111111154444444443355533455551111111113333333335555555555511111111111111",
-"h": "e9a924acd1"
+"dur": 5.61,
+"mouth": "11111111111443333344511111111111111111114333111534555553453443322432113312244455111111111111111111111111111111111",
+"h": "f8fade6b90"
 },
 {
 "id": "g_say_8630466e",
@@ -9423,9 +9126,9 @@
 "emo": "excited",
 "text": "New: blocked exits open once enough bricks have left.",
 "file": "clips/g_say_8630466e.mp3",
-"dur": 4.84,
-"mouth": "1112533335511111111155551111155522225511222111111122233455553351111533512553334155551111111111111",
-"h": "6f8894d7d6"
+"dur": 4.6,
+"mouth": "115444335551111111111533511111155122551115334155555551255551115551122555555111111111111111111",
+"h": "8db118af05"
 },
 {
 "id": "y_say_8630466e",
@@ -9435,9 +9138,9 @@
 "emo": "excited",
 "text": "New: blocked exits open once enough bricks have left.",
 "file": "clips/y_say_8630466e.mp3",
-"dur": 3.37,
-"mouth": "11111144351114444455533555512351111122344455235555555445551111111111",
-"h": "845fb80289"
+"dur": 3.67,
+"mouth": "11111143334451111113331115512351153455445512555114551255555511111111111111",
+"h": "eb7222cfcd"
 },
 {
 "id": "p_say_8630466e",
@@ -9448,8 +9151,8 @@
 "text": "New: blocked exits open once enough bricks have left.",
 "file": "clips/p_say_8630466e.mp3",
 "dur": 4.16,
-"mouth": "111112333553355511111153331111555225111111111122333333333335555555555555111111111111",
-"h": "cbab893c8c"
+"mouth": "111114433335551111111153331555512552153315544433422333311155512255555511111111111111",
+"h": "917cabff0b"
 },
 {
 "id": "o_say_8630466e",
@@ -9460,8 +9163,8 @@
 "text": "New: blocked exits open once enough bricks have left.",
 "file": "clips/o_say_8630466e.mp3",
 "dur": 3.65,
-"mouth": "1111533351111111115333111555551111111111235553311533511115345555111111111",
-"h": "d698acc879"
+"mouth": "1115443333511111115333511235225115345555533225435115331125553311111111111",
+"h": "14b7cbab72"
 },
 {
 "id": "r_say_8bae69d3",
@@ -9471,9 +9174,9 @@
 "emo": "excited",
 "text": "New: vending machines push in a brick whenever their square is free.",
 "file": "clips/r_say_8bae69d3.mp3",
-"dur": 4.12,
-"mouth": "11111111111533334444411111115333334432255111111111111555532255555554255551111111111",
-"h": "739edfa5bb"
+"dur": 4.04,
+"mouth": "111111114334441111115333344322555521422555555555555555552155555115555111111111111",
+"h": "a876de9757"
 },
 {
 "id": "b_say_8bae69d3",
@@ -9483,9 +9186,9 @@
 "emo": "excited",
 "text": "New: vending machines push in a brick whenever their square is free.",
 "file": "clips/b_say_8bae69d3.mp3",
-"dur": 5.14,
-"mouth": "1111111111111111154444444445555333333332225555552221111111111133154322444112333455554445111111111111111",
-"h": "578785af13"
+"dur": 5.29,
+"mouth": "1111111111111111544333334455111111111111115333345223421133333344433144333352143333322233555111111111111111",
+"h": "3e302d5bf9"
 },
 {
 "id": "g_say_8bae69d3",
@@ -9496,8 +9199,8 @@
 "text": "New: vending machines push in a brick whenever their square is free.",
 "file": "clips/g_say_8bae69d3.mp3",
 "dur": 4.94,
-"mouth": "111111111111111111111111153344435444522555551111221111111333113352254333215555555555511111111111111",
-"h": "837151f829"
+"mouth": "115443333355111111111333444445222555551155555555553351111555555555522214335555511115555111111111111",
+"h": "67ad7f4164"
 },
 {
 "id": "y_say_8bae69d3",
@@ -9507,9 +9210,9 @@
 "emo": "excited",
 "text": "New: vending machines push in a brick whenever their square is free.",
 "file": "clips/y_say_8bae69d3.mp3",
-"dur": 3.36,
-"mouth": "11111133333344445553333333522555441155115555332255342555441111111111",
-"h": "b611ae06f4"
+"dur": 4.27,
+"mouth": "11111144333334451115533333442255541115555555555111555555555552215555552115511111111111",
+"h": "2cc2d4908e"
 },
 {
 "id": "p_say_8bae69d3",
@@ -9519,9 +9222,9 @@
 "emo": "excited",
 "text": "New: vending machines push in a brick whenever their square is free.",
 "file": "clips/p_say_8bae69d3.mp3",
-"dur": 4.48,
-"mouth": "111113333333335551111115335555552225555551111111111111555552255511335552355551111111111111",
-"h": "ece3735937"
+"dur": 4.64,
+"mouth": "115443333334451111553335555522555211133225555555551155555555522155555552111555551111111111111",
+"h": "f28611e4b0"
 },
 {
 "id": "o_say_8bae69d3",
@@ -9531,9 +9234,9 @@
 "emo": "excited",
 "text": "New: vending machines push in a brick whenever their square is free.",
 "file": "clips/o_say_8bae69d3.mp3",
-"dur": 3.33,
-"mouth": "1111533551111111133333344215555111111111551332133513333555511111111",
-"h": "bf8e0157e8"
+"dur": 3.71,
+"mouth": "111544333511111115533333332153341135233333351455533332114555511155551111111",
+"h": "3e0ae20676"
 },
 {
 "id": "r_say_dc5d0499",
@@ -9543,9 +9246,9 @@
 "emo": "excited",
 "text": "New: pressure plates. Keep a brick on the plate to hold its exit open.",
 "file": "clips/r_say_dc5d0499.mp3",
-"dur": 4.67,
-"mouth": "1111115333333333511111111155333335512221111111225555554355551111155555225555555111111111111111",
-"h": "26b644291f"
+"dur": 5.22,
+"mouth": "111111144333451111111111111111111113325555551111111111111111333553355445555555555555552255511111111111111",
+"h": "e2f66553c3"
 },
 {
 "id": "b_say_dc5d0499",
@@ -9555,9 +9258,9 @@
 "emo": "excited",
 "text": "New: pressure plates. Keep a brick on the plate to hold its exit open.",
 "file": "clips/b_say_dc5d0499.mp3",
-"dur": 6.88,
-"mouth": "111111111114444444444451111111111111111111544433333355112222111111111122233333444445544451111111155555335233345555555111111111111111111111",
-"h": "758b2799b4"
+"dur": 5.61,
+"mouth": "11111111111111111544433333333444451111332223411555551122211111111154444435534411555551445512355555555511111111111",
+"h": "0a0d33cd5b"
 },
 {
 "id": "g_say_dc5d0499",
@@ -9567,9 +9270,9 @@
 "emo": "excited",
 "text": "New: pressure plates. Keep a brick on the plate to hold its exit open.",
 "file": "clips/g_say_dc5d0499.mp3",
-"dur": 4.85,
-"mouth": "11533555111111111122533355122222111112233335554445555511111332153352233553345135551112211111111111",
-"h": "7026ed5db2"
+"dur": 5.76,
+"mouth": "11555533333451111111335555555111112211111111333351153355111534451153355111115512344555511155122555335555111111111111",
+"h": "0dd78d1efc"
 },
 {
 "id": "y_say_dc5d0499",
@@ -9579,9 +9282,9 @@
 "emo": "excited",
 "text": "New: pressure plates. Keep a brick on the plate to hold its exit open.",
 "file": "clips/y_say_dc5d0499.mp3",
-"dur": 3.73,
-"mouth": "111111333553344111233551111111112233354433334455555555511555551111111111111",
-"h": "27a2b57beb"
+"dur": 4.28,
+"mouth": "11111144433335111111153225115555111112555555555551155555555555115511111541555511111111",
+"h": "8380aaf63a"
 },
 {
 "id": "p_say_dc5d0499",
@@ -9591,9 +9294,9 @@
 "emo": "excited",
 "text": "New: pressure plates. Keep a brick on the plate to hold its exit open.",
 "file": "clips/p_say_dc5d0499.mp3",
-"dur": 4.16,
-"mouth": "111153335555555551235551111111111125533555333555111152135122533355555551111111111111",
-"h": "d79afce146"
+"dur": 4.88,
+"mouth": "11144333554111111532235555511111111111155533153355533551155511111555555111155122555511551111111111",
+"h": "27b11b945e"
 },
 {
 "id": "o_say_dc5d0499",
@@ -9603,9 +9306,9 @@
 "emo": "excited",
 "text": "New: pressure plates. Keep a brick on the plate to hold its exit open.",
 "file": "clips/o_say_dc5d0499.mp3",
-"dur": 3.49,
-"mouth": "1111533221111111133511111111111113333344433555555555555551111111111111",
-"h": "3d3dc97020"
+"dur": 4.43,
+"mouth": "11144443335511111113325555551111111112333451333333351233555115443111555551153411111111111",
+"h": "11af6a7490"
 },
 {
 "id": "r_say_4563c8ca",
@@ -9615,9 +9318,9 @@
 "emo": "nervous",
 "text": "Super Hard level \u00b7 3\u00d7 coins",
 "file": "clips/r_say_4563c8ca.mp3",
-"dur": 5.38,
-"mouth": "111111111111111533333444445111111111112222211111111122223333335533555511111111122233555533333442221111111111",
-"h": "efe7f5c12c"
+"dur": 3.17,
+"mouth": "1111122233335233333355511111111111233345544355122211111111111111",
+"h": "ff243c4ce0"
 },
 {
 "id": "b_say_4563c8ca",
@@ -9627,9 +9330,9 @@
 "emo": "nervous",
 "text": "Super Hard level \u00b7 3\u00d7 coins",
 "file": "clips/b_say_4563c8ca.mp3",
-"dur": 5.29,
-"mouth": "1111111111111111555555555511111111111111111111111222222255543555555555511111122345345544333355122211111111",
-"h": "d2b339b891"
+"dur": 4.2,
+"mouth": "1111111111111111111222223345333553335433455555111111122331435554455555111111111111111",
+"h": "0827fb9bfe"
 },
 {
 "id": "g_say_4563c8ca",
@@ -9639,9 +9342,9 @@
 "emo": "nervous",
 "text": "Super Hard level \u00b7 3\u00d7 coins",
 "file": "clips/g_say_4563c8ca.mp3",
-"dur": 4.52,
-"mouth": "1155555211111111111112222233335533553333555511111111111122533314441533335555112221111111111",
-"h": "55bdb00fa5"
+"dur": 3.35,
+"mouth": "12222335135555555555555551111111111223355441554333551112221111111111",
+"h": "13e4a8a83e"
 },
 {
 "id": "y_say_4563c8ca",
@@ -9651,9 +9354,9 @@
 "emo": "nervous",
 "text": "Super Hard level \u00b7 3\u00d7 coins",
 "file": "clips/y_say_4563c8ca.mp3",
-"dur": 4.5,
-"mouth": "111111433333333333451111111111222111111112222333352335555111111111155555555551111111111111",
-"h": "f74b9e4dea"
+"dur": 2.53,
+"mouth": "111111222333333335555551112333315333555552111111111",
+"h": "b69b3ed88d"
 },
 {
 "id": "p_say_4563c8ca",
@@ -9663,9 +9366,9 @@
 "emo": "nervous",
 "text": "Super Hard level \u00b7 3\u00d7 coins",
 "file": "clips/p_say_4563c8ca.mp3",
-"dur": 4.88,
-"mouth": "11123333333355555111111111111155111111122222355555113333355111111111111555555555555551111111111111",
-"h": "8ac224bb3e"
+"dur": 3.19,
+"mouth": "1111112223555553355335555111111122135133555335551111111111111111",
+"h": "3e5bdb875c"
 },
 {
 "id": "o_say_4563c8ca",
@@ -9675,9 +9378,9 @@
 "emo": "nervous",
 "text": "Super Hard level \u00b7 3\u00d7 coins",
 "file": "clips/o_say_4563c8ca.mp3",
-"dur": 3.02,
-"mouth": "1111533352111111112233333553355111111155533555445551111111111",
-"h": "5e4ad7b2ea"
+"dur": 2.62,
+"mouth": "11111125533553355555555111111111355555555111111111111",
+"h": "a057009d29"
 },
 {
 "id": "r_say_b01c5e43",
@@ -9687,9 +9390,9 @@
 "emo": "nervous",
 "text": "Hard level \u00b7 2\u00d7 coins",
 "file": "clips/r_say_b01c5e43.mp3",
-"dur": 4.2,
-"mouth": "111111111115333344451111111111115555544555555511111111111555555533333344522111111111",
-"h": "13d1fcb6dc"
+"dur": 3.09,
+"mouth": "11111111111153355533333555111111133333522543355512211111111111",
+"h": "d219faed93"
 },
 {
 "id": "b_say_b01c5e43",
@@ -9699,9 +9402,9 @@
 "emo": "nervous",
 "text": "Hard level \u00b7 2\u00d7 coins",
 "file": "clips/b_say_b01c5e43.mp3",
-"dur": 4.9,
-"mouth": "111111111111111444554445114444445551111111111153335445511111111113333451445555112211111111111111111",
-"h": "66ccb6e2f8"
+"dur": 3.18,
+"mouth": "1111111111111113333553335555511111153344355445555511111111111111",
+"h": "a1a3e251b3"
 },
 {
 "id": "g_say_b01c5e43",
@@ -9711,9 +9414,9 @@
 "emo": "nervous",
 "text": "Hard level \u00b7 2\u00d7 coins",
 "file": "clips/g_say_b01c5e43.mp3",
-"dur": 4.26,
-"mouth": "15555225551111133333333334444512533333115555511111111111334445114335511111221111111111",
-"h": "89d5b35507"
+"dur": 2.77,
+"mouth": "15333315555555511111111133333415533355511221111111111111",
+"h": "c1690ca8db"
 },
 {
 "id": "y_say_b01c5e43",
@@ -9723,9 +9426,9 @@
 "emo": "nervous",
 "text": "Hard level \u00b7 2\u00d7 coins",
 "file": "clips/y_say_b01c5e43.mp3",
-"dur": 4.2,
-"mouth": "111111333444444555334444444455111111533555555555111111115335555115555555551111111111",
-"h": "2dc74625e0"
+"dur": 2.15,
+"mouth": "11111112335533555111155555123355511111111111",
+"h": "7926686dcc"
 },
 {
 "id": "p_say_b01c5e43",
@@ -9735,9 +9438,9 @@
 "emo": "nervous",
 "text": "Hard level \u00b7 2\u00d7 coins",
 "file": "clips/p_say_b01c5e43.mp3",
-"dur": 4.32,
-"mouth": "111553333333335555511111153333551111111153335555551111111111555551155555551111111111111",
-"h": "d3c9aa941e"
+"dur": 2.86,
+"mouth": "1111113333553333551111111111133333555333555551111111111111",
+"h": "f619706f3e"
 },
 {
 "id": "o_say_b01c5e43",
@@ -9747,9 +9450,9 @@
 "emo": "nervous",
 "text": "Hard level \u00b7 2\u00d7 coins",
 "file": "clips/o_say_b01c5e43.mp3",
-"dur": 3.41,
-"mouth": "111155551111111111533445111111111233555111111115333555335111111111111",
-"h": "ed28a224d7"
+"dur": 2.55,
+"mouth": "1111153335511111155551111111533355553355111111111111",
+"h": "3f2f7a03ee"
 }
 ]
 }
