@@ -1,5 +1,5 @@
 {
-"version": "9d712eb9",
+"version": "03cf58f9",
 "frame": 0.05,
 "personas": {
 "r": {
@@ -2541,6 +2541,2526 @@
 "dur": 0.74,
 "mouth": "153333335511111",
 "h": "85760fda73"
+},
+{
+"id": "r_start_new_01",
+"who": "r",
+"tag": "start_new",
+"text": "New board. Deep breath. You've got this.",
+"file": "clips/r_start_new_01.mp3",
+"dur": 2.52,
+"mouth": "153333333333555555511533351115555335555522211111111",
+"h": "92923f2375"
+},
+{
+"id": "r_start_new_02",
+"who": "r",
+"tag": "start_new",
+"text": "Hello again, friend. Shall we?",
+"file": "clips/r_start_new_02.mp3",
+"dur": 2.3,
+"mouth": "1333333335555555511233555112233355555511111111",
+"h": "b172eb05d1"
+},
+{
+"id": "b_start_new_01",
+"who": "b",
+"tag": "start_new",
+"text": "New level. I've already started calculating.",
+"file": "clips/b_start_new_01.mp3",
+"dur": 2.23,
+"mouth": "143333333355555333522255125512555555111111111",
+"h": "c1f4a274e8"
+},
+{
+"id": "b_start_new_02",
+"who": "b",
+"tag": "start_new",
+"text": "Fresh puzzle! My favourite kind.",
+"file": "clips/b_start_new_02.mp3",
+"dur": 1.68,
+"mouth": "1133213333335213333555555511111111",
+"h": "d7baf036b0"
+},
+{
+"id": "g_start_new_01",
+"who": "g",
+"tag": "start_new",
+"text": "Oh. We're doing another one.",
+"file": "clips/g_start_new_01.mp3",
+"dur": 2.46,
+"mouth": "11223344451154451254444555445555555555111111111111",
+"h": "8578c0a146"
+},
+{
+"id": "g_start_new_02",
+"who": "g",
+"tag": "start_new",
+"text": "New level. Cool. Wake me at the end.",
+"file": "clips/g_start_new_02.mp3",
+"dur": 3.13,
+"mouth": "144444445333255511155444455511154351145555555555551111111111111",
+"h": "d146422743"
+},
+{
+"id": "y_start_new_01",
+"who": "y",
+"tag": "start_new",
+"text": "New level! New level! Let's go!",
+"file": "clips/y_start_new_01.mp3",
+"dur": 2.03,
+"mouth": "15433333555544433555551113355511111111111",
+"h": "ab0570f3b6"
+},
+{
+"id": "y_start_new_02",
+"who": "y",
+"tag": "start_new",
+"text": "Ooh, this one looks fun!",
+"file": "clips/y_start_new_02.mp3",
+"dur": 1.73,
+"mouth": "13444445321444441113335551111111111",
+"h": "810e0df63a"
+},
+{
+"id": "p_start_new_01",
+"who": "p",
+"tag": "start_new",
+"text": "Ah, a new court to rule. Proceed.",
+"file": "clips/p_start_new_01.mp3",
+"dur": 2.3,
+"mouth": "1223333333335555522555555511115222355552111111",
+"h": "734b259be1"
+},
+{
+"id": "p_start_new_02",
+"who": "p",
+"tag": "start_new",
+"text": "Do try to impress me this time.",
+"file": "clips/p_start_new_02.mp3",
+"dur": 2.06,
+"mouth": "155333523335553355332225553222355555511111",
+"h": "8734d86c60"
+},
+{
+"id": "o_start_new_01",
+"who": "o",
+"tag": "start_new",
+"text": "New board, same walls. Let's get this over with.",
+"file": "clips/o_start_new_01.mp3",
+"dur": 2.59,
+"mouth": "1533333333522333553355511111555213513225555555111111",
+"h": "bb34f72b24"
+},
+{
+"id": "o_start_new_02",
+"who": "o",
+"tag": "start_new",
+"text": "Alright. Don't mess this one up.",
+"file": "clips/o_start_new_02.mp3",
+"dur": 1.46,
+"mouth": "153333355555332152255555111111",
+"h": "a167f74123"
+},
+{
+"id": "r_start_retry_01",
+"who": "r",
+"tag": "start_retry",
+"text": "Back again. That's the spirit.",
+"file": "clips/r_start_retry_01.mp3",
+"dur": 2.17,
+"mouth": "15533333333333555553352152215555555111111111",
+"h": "8bf79e53f1"
+},
+{
+"id": "r_start_retry_02",
+"who": "r",
+"tag": "start_retry",
+"text": "Second tries are where the magic is.",
+"file": "clips/r_start_retry_02.mp3",
+"dur": 2.56,
+"mouth": "1333335555523333355553355555555555555555522111111111",
+"h": "6a964b3586"
+},
+{
+"id": "b_start_retry_01",
+"who": "b",
+"tag": "start_retry",
+"text": "Round two. You know the board now. Advantage, you.",
+"file": "clips/b_start_retry_01.mp3",
+"dur": 2.44,
+"mouth": "1533523333333554335555555115553355522555511111111",
+"h": "d19761c155"
+},
+{
+"id": "b_start_retry_02",
+"who": "b",
+"tag": "start_retry",
+"text": "Retry detected. Learning curve engaged.",
+"file": "clips/b_start_retry_02.mp3",
+"dur": 2.21,
+"mouth": "143223333223555511533345533555555551111111111",
+"h": "d7fbf1a75c"
+},
+{
+"id": "g_start_retry_01",
+"who": "g",
+"tag": "start_retry",
+"text": "Oh, this one again. Hi again.",
+"file": "clips/g_start_retry_01.mp3",
+"dur": 2.79,
+"mouth": "15534444553221444555555551111115335555555555111111111111",
+"h": "9506da09d3"
+},
+{
+"id": "g_start_retry_02",
+"who": "g",
+"tag": "start_retry",
+"text": "We meet again. Still tired.",
+"file": "clips/g_start_retry_02.mp3",
+"dur": 2.79,
+"mouth": "15444444335115513355511122222344511113335555111111111111",
+"h": "e1271f4cfc"
+},
+{
+"id": "y_start_retry_01",
+"who": "y",
+"tag": "start_retry",
+"text": "Again! Again! This time for sure!",
+"file": "clips/y_start_retry_01.mp3",
+"dur": 2.13,
+"mouth": "1543334555533344522555544422444511111111111",
+"h": "eb7cf5d260"
+},
+{
+"id": "y_start_retry_02",
+"who": "y",
+"tag": "start_retry",
+"text": "Comeback time! Woo!",
+"file": "clips/y_start_retry_02.mp3",
+"dur": 1.65,
+"mouth": "1153333112533555554444551111111111",
+"h": "ec51b57fcb"
+},
+{
+"id": "p_start_retry_01",
+"who": "p",
+"tag": "start_retry",
+"text": "A rematch. How dramatic. I approve.",
+"file": "clips/p_start_retry_01.mp3",
+"dur": 2.46,
+"mouth": "12333333355222233523333512551111555512335551111111",
+"h": "aef5c16640"
+},
+{
+"id": "p_start_retry_02",
+"who": "p",
+"tag": "start_retry",
+"text": "Try again, darling. With feeling.",
+"file": "clips/p_start_retry_02.mp3",
+"dur": 2.1,
+"mouth": "122233335233555233335555552222333355511111",
+"h": "3b24fee6cb"
+},
+{
+"id": "o_start_retry_01",
+"who": "o",
+"tag": "start_retry",
+"text": "This level again? Ugh. Fine. Beat it this time.",
+"file": "clips/o_start_retry_01.mp3",
+"dur": 2.44,
+"mouth": "1532233333333355113335112333341533315222555511111",
+"h": "e0ed549321"
+},
+{
+"id": "o_start_retry_02",
+"who": "o",
+"tag": "start_retry",
+"text": "Okay. Revenge. Let's go.",
+"file": "clips/o_start_retry_02.mp3",
+"dur": 1.54,
+"mouth": "1555133333333322555225335511111",
+"h": "073fd5eda3"
+},
+{
+"id": "r_start_hard_01",
+"who": "r",
+"tag": "start_hard",
+"text": "This one's tricky. Stay calm and we'll be fine.",
+"file": "clips/r_start_hard_01.mp3",
+"dur": 3.13,
+"mouth": "155332233322223512555511113335553333355555555123555555511111111",
+"h": "c14d034de6"
+},
+{
+"id": "r_start_hard_02",
+"who": "r",
+"tag": "start_hard",
+"text": "A hard one. Slow and steady, friend.",
+"file": "clips/r_start_hard_02.mp3",
+"dur": 2.63,
+"mouth": "13335233335555551222533335552223555512355555211111111",
+"h": "097e094c7d"
+},
+{
+"id": "b_start_hard_01",
+"who": "b",
+"tag": "start_hard",
+"text": "Hard level. Double the coins, triple the thinking.",
+"file": "clips/b_start_hard_01.mp3",
+"dur": 2.44,
+"mouth": "1133333333513333355335542223555522254155511111111",
+"h": "9c0510c4c3"
+},
+{
+"id": "b_start_hard_02",
+"who": "b",
+"tag": "start_hard",
+"text": "Ooh, complex. I love complex.",
+"file": "clips/b_start_hard_02.mp3",
+"dur": 1.73,
+"mouth": "15345333335553333155555551122111111",
+"h": "2871e13025"
+},
+{
+"id": "g_start_hard_01",
+"who": "g",
+"tag": "start_hard",
+"text": "Hard level? I'm just gonna lie here.",
+"file": "clips/g_start_hard_01.mp3",
+"dur": 3.02,
+"mouth": "1111333344443355511115544523521153444445555551145111111111111",
+"h": "9e1fcbd2b2"
+},
+{
+"id": "g_start_hard_02",
+"who": "g",
+"tag": "start_hard",
+"text": "Too hard for me. Good luck, though.",
+"file": "clips/g_start_hard_02.mp3",
+"dur": 3.0,
+"mouth": "1113244452333345115444555111113344443351111554445111111111111",
+"h": "bca73951ff"
+},
+{
+"id": "y_start_hard_01",
+"who": "y",
+"tag": "start_hard",
+"text": "A hard one! This is gonna be epic!",
+"file": "clips/y_start_hard_01.mp3",
+"dur": 2.23,
+"mouth": "133333334444445322221333555135551111111111111",
+"h": "8fcb2c953a"
+},
+{
+"id": "y_start_hard_02",
+"who": "y",
+"tag": "start_hard",
+"text": "Big level! Big coins! Big fun!",
+"file": "clips/y_start_hard_02.mp3",
+"dur": 2.14,
+"mouth": "1133543333553111333542115511355551111111111",
+"h": "b455e41536"
+},
+{
+"id": "p_start_hard_01",
+"who": "p",
+"tag": "start_hard",
+"text": "Finally, a challenge worthy of me.",
+"file": "clips/p_start_hard_01.mp3",
+"dur": 2.23,
+"mouth": "112233333335555122533355555333155312555511111",
+"h": "2de7b87de1"
+},
+{
+"id": "p_start_hard_02",
+"who": "p",
+"tag": "start_hard",
+"text": "A difficult one. How very royal.",
+"file": "clips/p_start_hard_02.mp3",
+"dur": 1.99,
+"mouth": "1233332222253355223352333553333355221111",
+"h": "b30b1a4ba3"
+},
+{
+"id": "o_start_hard_01",
+"who": "o",
+"tag": "start_hard",
+"text": "Hard level. Great. Just great.",
+"file": "clips/o_start_hard_01.mp3",
+"dur": 1.7,
+"mouth": "11333333335555335112222155551111111",
+"h": "bcae5d7f25"
+},
+{
+"id": "o_start_hard_02",
+"who": "o",
+"tag": "start_hard",
+"text": "Don't panic. I'm panicking enough for both of us.",
+"file": "clips/o_start_hard_02.mp3",
+"dur": 2.35,
+"mouth": "15331533351113331253333333332224533555555222111",
+"h": "060d2bd238"
+},
+{
+"id": "r_win_fast_01",
+"who": "r",
+"tag": "win_fast",
+"text": "So smooth. That was beautiful.",
+"file": "clips/r_win_fast_01.mp3",
+"dur": 2.19,
+"mouth": "13223332225335551113355555555511555551111111",
+"h": "405ef5d086"
+},
+{
+"id": "r_win_fast_02",
+"who": "r",
+"tag": "win_fast",
+"text": "Wow. Like water. Lovely.",
+"file": "clips/r_win_fast_02.mp3",
+"dur": 2.13,
+"mouth": "1533333335133115333555555533555555221111111",
+"h": "4dd40feea2"
+},
+{
+"id": "b_win_fast_01",
+"who": "b",
+"tag": "win_fast",
+"text": "New personal best, probably. Impressive.",
+"file": "clips/b_win_fast_01.mp3",
+"dur": 2.31,
+"mouth": "14333332233333211334555551115555552255111111111",
+"h": "7379dae7fe"
+},
+{
+"id": "b_win_fast_02",
+"who": "b",
+"tag": "win_fast",
+"text": "That was incredibly efficient. I'm taking notes.",
+"file": "clips/b_win_fast_02.mp3",
+"dur": 2.48,
+"mouth": "15333333553333335132255111133523555555551221111111",
+"h": "b04829d504"
+},
+{
+"id": "g_win_fast_01",
+"who": "g",
+"tag": "win_fast",
+"text": "Whoa. That was fast. Too fast. I'm dizzy.",
+"file": "clips/g_win_fast_01.mp3",
+"dur": 3.56,
+"mouth": "154444444453354221135551111111125551133555122111554451455555511111111111",
+"h": "24dd69cdcb"
+},
+{
+"id": "g_win_fast_02",
+"who": "g",
+"tag": "win_fast",
+"text": "Done already? Nice. Nap time.",
+"file": "clips/g_win_fast_02.mp3",
+"dur": 3.08,
+"mouth": "15553334444444355555443335512221115435551111155555111111111111",
+"h": "0513f84829"
+},
+{
+"id": "y_win_fast_01",
+"who": "y",
+"tag": "win_fast",
+"text": "That was SO fast! You're a rocket!",
+"file": "clips/y_win_fast_01.mp3",
+"dur": 2.05,
+"mouth": "15333322341233552115444435555511111111111",
+"h": "a77b858bb2"
+},
+{
+"id": "y_win_fast_02",
+"who": "y",
+"tag": "win_fast",
+"text": "Zoom zoom! Speed champion!",
+"file": "clips/y_win_fast_02.mp3",
+"dur": 1.93,
+"mouth": "155333333334411533522334555551111111111",
+"h": "fd3970197a"
+},
+{
+"id": "p_win_fast_01",
+"who": "p",
+"tag": "win_fast",
+"text": "Splendid. Simply splendid.",
+"file": "clips/p_win_fast_01.mp3",
+"dur": 2.01,
+"mouth": "12221333333332222235552215335555555111111",
+"h": "32f763a6e7"
+},
+{
+"id": "p_win_fast_02",
+"who": "p",
+"tag": "win_fast",
+"text": "Swift and elegant. Just like me.",
+"file": "clips/p_win_fast_02.mp3",
+"dur": 2.12,
+"mouth": "1222233222333333333552213322335533555511111",
+"h": "49a418eeba"
+},
+{
+"id": "o_win_fast_01",
+"who": "o",
+"tag": "win_fast",
+"text": "Okay. That was actually fast. Don't let it go to your head.",
+"file": "clips/o_win_fast_01.mp3",
+"dur": 2.94,
+"mouth": "15335233333333325552253213355221111335533553322555555511111",
+"h": "e2e2edc6c9"
+},
+{
+"id": "o_win_fast_02",
+"who": "o",
+"tag": "win_fast",
+"text": "Hmph. Not bad. Not bad at all.",
+"file": "clips/o_win_fast_02.mp3",
+"dur": 2.19,
+"mouth": "15552335553352255513355555331533335555511111",
+"h": "15ee3af212"
+},
+{
+"id": "r_win_close_01",
+"who": "r",
+"tag": "win_close",
+"text": "Phew. Just in time. Breathe.",
+"file": "clips/r_win_close_01.mp3",
+"dur": 2.32,
+"mouth": "15315333335233215555533335551133555511111111111",
+"h": "053d2e08d3"
+},
+{
+"id": "r_win_close_02",
+"who": "r",
+"tag": "win_close",
+"text": "That was close. But you made it.",
+"file": "clips/r_win_close_02.mp3",
+"dur": 2.08,
+"mouth": "155333332225333552113555555555555111111111",
+"h": "644840078e"
+},
+{
+"id": "b_win_close_01",
+"who": "b",
+"tag": "win_close",
+"text": "Seconds to spare? That's statistically wild.",
+"file": "clips/b_win_close_01.mp3",
+"dur": 2.16,
+"mouth": "11333322213333555521112311134433555111111111",
+"h": "d16602cb23"
+},
+{
+"id": "b_win_close_02",
+"who": "b",
+"tag": "win_close",
+"text": "Cutting it close. But a win is a win.",
+"file": "clips/b_win_close_02.mp3",
+"dur": 1.96,
+"mouth": "1133335533322115333334522445555111111111",
+"h": "f81b7330e0"
+},
+{
+"id": "g_win_close_01",
+"who": "g",
+"tag": "win_close",
+"text": "My heart. I need a nap after that.",
+"file": "clips/g_win_close_01.mp3",
+"dur": 3.17,
+"mouth": "1544333351233451111155544445344455555111551114555551112211111111",
+"h": "f0eec92b69"
+},
+{
+"id": "g_win_close_02",
+"who": "g",
+"tag": "win_close",
+"text": "Close one. Too much excitement for me.",
+"file": "clips/g_win_close_02.mp3",
+"dur": 3.27,
+"mouth": "155533344225443555112254444444111112223335144511144455511111111111",
+"h": "a188ce6658"
+},
+{
+"id": "y_win_close_01",
+"who": "y",
+"tag": "win_close",
+"text": "Whoa! Last second! That was amazing!",
+"file": "clips/y_win_close_01.mp3",
+"dur": 2.18,
+"mouth": "15433443332115555555555244555555511111111111",
+"h": "c2fa663112"
+},
+{
+"id": "y_win_close_02",
+"who": "y",
+"tag": "win_close",
+"text": "Ahh! So close! But we did it!",
+"file": "clips/y_win_close_02.mp3",
+"dur": 1.9,
+"mouth": "13333322455533451154445555111111111111",
+"h": "5b81b868e3"
+},
+{
+"id": "p_win_close_01",
+"who": "p",
+"tag": "win_close",
+"text": "Dramatic finish, darling. Very theatrical.",
+"file": "clips/p_win_close_01.mp3",
+"dur": 2.75,
+"mouth": "1523333225113335222223335555511533335115555125555551111",
+"h": "de7c05da3a"
+},
+{
+"id": "p_win_close_02",
+"who": "p",
+"tag": "win_close",
+"text": "Leaving it to the last moment? How fashionable.",
+"file": "clips/p_win_close_02.mp3",
+"dur": 2.73,
+"mouth": "1233333333125333335222333355511111233213322255133551111",
+"h": "f5d05aabc4"
+},
+{
+"id": "o_win_close_01",
+"who": "o",
+"tag": "win_close",
+"text": "Way too close! My nerves!",
+"file": "clips/o_win_close_01.mp3",
+"dur": 1.42,
+"mouth": "14335235533521333333551111111",
+"h": "b766493fac"
+},
+{
+"id": "o_win_close_02",
+"who": "o",
+"tag": "win_close",
+"text": "You nearly gave me a meltdown!",
+"file": "clips/o_win_close_02.mp3",
+"dur": 1.53,
+"mouth": "1253333352332533333512355111111",
+"h": "8a94c49c10"
+},
+{
+"id": "r_win_ok_01",
+"who": "r",
+"tag": "win_ok",
+"text": "Well done, friend. Nice and steady.",
+"file": "clips/r_win_ok_01.mp3",
+"dur": 2.65,
+"mouth": "153333335233555112335555115533552255221335555511111111",
+"h": "2cd6e82c31"
+},
+{
+"id": "r_win_ok_02",
+"who": "r",
+"tag": "win_ok",
+"text": "All out. That felt nice.",
+"file": "clips/r_win_ok_02.mp3",
+"dur": 2.02,
+"mouth": "15333333333551153311335555555522211111111",
+"h": "268a6d5e05"
+},
+{
+"id": "b_win_ok_01",
+"who": "b",
+"tag": "win_ok",
+"text": "Solved! Exactly as I predicted.",
+"file": "clips/b_win_ok_01.mp3",
+"dur": 1.83,
+"mouth": "1233335552233153322555555555511111111",
+"h": "a027a32750"
+},
+{
+"id": "b_win_ok_02",
+"who": "b",
+"tag": "win_ok",
+"text": "Puzzle complete. Very satisfying.",
+"file": "clips/b_win_ok_02.mp3",
+"dur": 1.83,
+"mouth": "1533344445551133322335222555511111111",
+"h": "7079e6f0fd"
+},
+{
+"id": "g_win_ok_01",
+"who": "g",
+"tag": "win_ok",
+"text": "We're out? Cool.",
+"file": "clips/g_win_ok_01.mp3",
+"dur": 1.81,
+"mouth": "1444333333355111111544455511111111111",
+"h": "90734c350f"
+},
+{
+"id": "g_win_ok_02",
+"who": "g",
+"tag": "win_ok",
+"text": "Nice. Good job. I didn't help.",
+"file": "clips/g_win_ok_02.mp3",
+"dur": 2.82,
+"mouth": "144433335222153455222333555111155554441155555111111111111",
+"h": "e069c4f801"
+},
+{
+"id": "y_win_ok_01",
+"who": "y",
+"tag": "win_ok",
+"text": "We did it! We did it!",
+"file": "clips/y_win_ok_01.mp3",
+"dur": 1.64,
+"mouth": "144445333355544455555111111111111",
+"h": "4ee7cf1cc9"
+},
+{
+"id": "y_win_ok_02",
+"who": "y",
+"tag": "win_ok",
+"text": "Yay! Winner winner!",
+"file": "clips/y_win_ok_02.mp3",
+"dur": 1.49,
+"mouth": "115333351433544445511111111111",
+"h": "a52a149ea6"
+},
+{
+"id": "p_win_ok_01",
+"who": "p",
+"tag": "win_ok",
+"text": "Acceptable work. You may continue.",
+"file": "clips/p_win_ok_01.mp3",
+"dur": 2.26,
+"mouth": "1235222355555553335511153333125522335555111111",
+"h": "e4ca07d71f"
+},
+{
+"id": "p_win_ok_02",
+"who": "p",
+"tag": "win_ok",
+"text": "Well done. You have pleased the court.",
+"file": "clips/p_win_ok_02.mp3",
+"dur": 1.99,
+"mouth": "1553335233555125522235222225555122111111",
+"h": "e6207ebaa4"
+},
+{
+"id": "o_win_ok_01",
+"who": "o",
+"tag": "win_ok",
+"text": "Finally out. Good.",
+"file": "clips/o_win_ok_01.mp3",
+"dur": 1.21,
+"mouth": "1133333333351113355111111",
+"h": "16a719fb8d"
+},
+{
+"id": "o_win_ok_02",
+"who": "o",
+"tag": "win_ok",
+"text": "About time. Nice work, though.",
+"file": "clips/o_win_ok_02.mp3",
+"dur": 1.54,
+"mouth": "1533312333333333253311235551111",
+"h": "562f237bd0"
+},
+{
+"id": "r_lose_close_01",
+"who": "r",
+"tag": "lose_close",
+"text": "So close. Next time, it's yours.",
+"file": "clips/r_lose_close_01.mp3",
+"dur": 2.48,
+"mouth": "13523351233355211555522253355511555555552111111111",
+"h": "bb1cfd5807"
+},
+{
+"id": "r_lose_close_02",
+"who": "r",
+"tag": "lose_close",
+"text": "Almost there. Don't be sad.",
+"file": "clips/r_lose_close_02.mp3",
+"dur": 2.08,
+"mouth": "153333333322533355555555223335555111111111",
+"h": "e283b96edd"
+},
+{
+"id": "b_lose_close_01",
+"who": "b",
+"tag": "lose_close",
+"text": "Just one more move. So annoying.",
+"file": "clips/b_lose_close_01.mp3",
+"dur": 1.69,
+"mouth": "1222333333335122233333355511111111",
+"h": "0cfb806ed9"
+},
+{
+"id": "b_lose_close_02",
+"who": "b",
+"tag": "lose_close",
+"text": "You were nearly there. The math was on your side.",
+"file": "clips/b_lose_close_02.mp3",
+"dur": 2.18,
+"mouth": "15444333333335511543331555552223555111111111",
+"h": "93a367ebc9"
+},
+{
+"id": "g_lose_close_01",
+"who": "g",
+"tag": "lose_close",
+"text": "Ah. Almost. Oh well.",
+"file": "clips/g_lose_close_01.mp3",
+"dur": 2.42,
+"mouth": "1553333351153444445512211155444445555511111111111",
+"h": "fb6b43e8c5"
+},
+{
+"id": "g_lose_close_02",
+"who": "g",
+"tag": "lose_close",
+"text": "So close. Wanna try again? Or nap?",
+"file": "clips/g_lose_close_02.mp3",
+"dur": 3.56,
+"mouth": "112223441112344551111154433335125335555555555111115444445555111111111111",
+"h": "a57dac7899"
+},
+{
+"id": "y_lose_close_01",
+"who": "y",
+"tag": "lose_close",
+"text": "Noooo! We were SO close!",
+"file": "clips/y_lose_close_01.mp3",
+"dur": 1.75,
+"mouth": "144333344445213415533451111111111111",
+"h": "47d483109d"
+},
+{
+"id": "y_lose_close_02",
+"who": "y",
+"tag": "lose_close",
+"text": "Aww! One more second and we had it!",
+"file": "clips/y_lose_close_02.mp3",
+"dur": 2.14,
+"mouth": "1333333444444352235555544555555111111111111",
+"h": "c4889ded33"
+},
+{
+"id": "p_lose_close_01",
+"who": "p",
+"tag": "lose_close",
+"text": "How tragic. So very close.",
+"file": "clips/p_lose_close_01.mp3",
+"dur": 2.12,
+"mouth": "1253352233355555111223355335123335222111111",
+"h": "8740539e83"
+},
+{
+"id": "p_lose_close_02",
+"who": "p",
+"tag": "lose_close",
+"text": "Nearly, darling. Nearly.",
+"file": "clips/p_lose_close_02.mp3",
+"dur": 1.74,
+"mouth": "15533335555133335555553355551221111",
+"h": "939e0fd64f"
+},
+{
+"id": "o_lose_close_01",
+"who": "o",
+"tag": "lose_close",
+"text": "Argh! We were right there!",
+"file": "clips/o_lose_close_01.mp3",
+"dur": 1.19,
+"mouth": "153335533333555555111111",
+"h": "6cfb1274f0"
+},
+{
+"id": "o_lose_close_02",
+"who": "o",
+"tag": "lose_close",
+"text": "One more! We needed one more!",
+"file": "clips/o_lose_close_02.mp3",
+"dur": 1.53,
+"mouth": "1133333333155555553355555511111",
+"h": "827e985010"
+},
+{
+"id": "r_lose_far_01",
+"who": "r",
+"tag": "lose_far",
+"text": "It's okay. Every try teaches something.",
+"file": "clips/r_lose_far_01.mp3",
+"dur": 2.86,
+"mouth": "1533123334153355555533335125333552251222225555555511111111",
+"h": "f3b54ec8f8"
+},
+{
+"id": "r_lose_far_02",
+"who": "r",
+"tag": "lose_far",
+"text": "Don't worry. We'll get it next time.",
+"file": "clips/r_lose_far_02.mp3",
+"dur": 2.26,
+"mouth": "1543335533335555133333555552225555555111111111",
+"h": "0e0c41f20b"
+},
+{
+"id": "b_lose_far_01",
+"who": "b",
+"tag": "lose_far",
+"text": "Time ran out. Let's rethink the strategy.",
+"file": "clips/b_lose_far_01.mp3",
+"dur": 2.18,
+"mouth": "11333333333335113325555552233555555511111111",
+"h": "99d02489d8"
+},
+{
+"id": "b_lose_far_02",
+"who": "b",
+"tag": "lose_far",
+"text": "Hmm. New approach needed.",
+"file": "clips/b_lose_far_02.mp3",
+"dur": 1.29,
+"mouth": "11344333335225555511111111",
+"h": "ad52f07fd0"
+},
+{
+"id": "g_lose_far_01",
+"who": "g",
+"tag": "lose_far",
+"text": "Time's up? Okay. I wasn't going anywhere anyway.",
+"file": "clips/g_lose_far_01.mp3",
+"dur": 4.21,
+"mouth": "1112533344253351111544411155511111155444322451344444555344445555554445551111111111111",
+"h": "53fdd46f11"
+},
+{
+"id": "g_lose_far_02",
+"who": "g",
+"tag": "lose_far",
+"text": "Eh. Happens.",
+"file": "clips/g_lose_far_02.mp3",
+"dur": 1.74,
+"mouth": "14433333441115334154455112211111111",
+"h": "77e8c8812d"
+},
+{
+"id": "y_lose_far_01",
+"who": "y",
+"tag": "lose_far",
+"text": "Aww! Again! Let's go again!",
+"file": "clips/y_lose_far_01.mp3",
+"dur": 1.95,
+"mouth": "153333315553344435215555555551111111111",
+"h": "5d029c0b72"
+},
+{
+"id": "y_lose_far_02",
+"who": "y",
+"tag": "lose_far",
+"text": "That's okay! Next time we'll zoom!",
+"file": "clips/y_lose_far_02.mp3",
+"dur": 2.06,
+"mouth": "113352331533544352155445512444511111111111",
+"h": "13d75f77b2"
+},
+{
+"id": "p_lose_far_01",
+"who": "p",
+"tag": "lose_far",
+"text": "Well. That was undignified.",
+"file": "clips/p_lose_far_01.mp3",
+"dur": 1.99,
+"mouth": "1553333521331222253413555512555552111111",
+"h": "08fc188da3"
+},
+{
+"id": "p_lose_far_02",
+"who": "p",
+"tag": "lose_far",
+"text": "We shall pretend that never happened.",
+"file": "clips/p_lose_far_02.mp3",
+"dur": 2.3,
+"mouth": "1253333331552233355521355333335555555555111111",
+"h": "116950f611"
+},
+{
+"id": "o_lose_far_01",
+"who": "o",
+"tag": "lose_far",
+"text": "Seriously? We barely moved!",
+"file": "clips/o_lose_far_01.mp3",
+"dur": 1.53,
+"mouth": "1123333225555513335555555111111",
+"h": "852d547966"
+},
+{
+"id": "o_lose_far_02",
+"who": "o",
+"tag": "lose_far",
+"text": "Ugh! Again. And faster this time!",
+"file": "clips/o_lose_far_02.mp3",
+"dur": 1.65,
+"mouth": "133333333355513322333222555511111",
+"h": "94260c39d0"
+},
+{
+"id": "r_streak_01",
+"who": "r",
+"tag": "streak",
+"text": "Look at you go. So graceful.",
+"file": "clips/r_streak_01.mp3",
+"dur": 2.22,
+"mouth": "155333355553333555512235553352222555511111111",
+"h": "a5340a4c7d"
+},
+{
+"id": "r_streak_02",
+"who": "r",
+"tag": "streak",
+"text": "You're in the flow now.",
+"file": "clips/r_streak_02.mp3",
+"dur": 1.8,
+"mouth": "155533333335112333555333555551111111",
+"h": "687186e620"
+},
+{
+"id": "b_streak_01",
+"who": "b",
+"tag": "streak",
+"text": "Three in a row! That's a combo!",
+"file": "clips/b_streak_01.mp3",
+"dur": 1.64,
+"mouth": "114333333335555221555555551111111",
+"h": "2915ac89e6"
+},
+{
+"id": "b_streak_02",
+"who": "b",
+"tag": "streak",
+"text": "Exits per second, very high. I'm impressed.",
+"file": "clips/b_streak_02.mp3",
+"dur": 2.21,
+"mouth": "153332253333334533355555555334533522111111111",
+"h": "3fd9f61122"
+},
+{
+"id": "g_streak_01",
+"who": "g",
+"tag": "streak",
+"text": "Whoa, slow down. You're making me tired.",
+"file": "clips/g_streak_01.mp3",
+"dur": 3.33,
+"mouth": "1554433444222224444451355551111154444551244441111555551111111111111",
+"h": "ecea972641"
+},
+{
+"id": "g_streak_02",
+"who": "g",
+"tag": "streak",
+"text": "Everyone's leaving so fast. Wait for me.",
+"file": "clips/g_streak_02.mp3",
+"dur": 3.85,
+"mouth": "111333544444444254444444222233445112333551122111111154334111244445111111111111",
+"h": "acdc65d519"
+},
+{
+"id": "y_streak_01",
+"who": "y",
+"tag": "streak",
+"text": "Combo! Combo! Combo!",
+"file": "clips/y_streak_01.mp3",
+"dur": 1.9,
+"mouth": "11533333355533455411554455511111111111",
+"h": "c042e32660"
+},
+{
+"id": "y_streak_02",
+"who": "y",
+"tag": "streak",
+"text": "You're on fire! Keep going!",
+"file": "clips/y_streak_02.mp3",
+"dur": 1.87,
+"mouth": "15333331233355511111534455511111111111",
+"h": "fa2f2b7b23"
+},
+{
+"id": "p_streak_01",
+"who": "p",
+"tag": "streak",
+"text": "Now that is how it's done.",
+"file": "clips/p_streak_01.mp3",
+"dur": 1.81,
+"mouth": "1533333333522222253333222335555111111",
+"h": "3f77462519"
+},
+{
+"id": "p_streak_02",
+"who": "p",
+"tag": "streak",
+"text": "Bravo, darling. Bravo.",
+"file": "clips/p_streak_02.mp3",
+"dur": 1.92,
+"mouth": "155333333351333333552213333225552211111",
+"h": "9bf078895a"
+},
+{
+"id": "o_streak_01",
+"who": "o",
+"tag": "streak",
+"text": "Yes! Clear them out! Go go go!",
+"file": "clips/o_streak_01.mp3",
+"dur": 1.6,
+"mouth": "15332223333333511333355335511111",
+"h": "51f69f126b"
+},
+{
+"id": "o_streak_02",
+"who": "o",
+"tag": "streak",
+"text": "Now we're moving!",
+"file": "clips/o_streak_02.mp3",
+"dur": 0.95,
+"mouth": "1533333333335511111",
+"h": "2f2d96978f"
+},
+{
+"id": "r_messy_01",
+"who": "r",
+"tag": "messy",
+"text": "Easy, friend. One move at a time.",
+"file": "clips/r_messy_01.mp3",
+"dur": 2.56,
+"mouth": "1333332235112333555111533553355331253355555111111111",
+"h": "6a485041ae"
+},
+{
+"id": "r_messy_02",
+"who": "r",
+"tag": "messy",
+"text": "Slow down. Look before you slide.",
+"file": "clips/r_messy_02.mp3",
+"dur": 2.43,
+"mouth": "1332233334533335555531155135552253335555111111111",
+"h": "2008d479f5"
+},
+{
+"id": "b_messy_01",
+"who": "b",
+"tag": "messy",
+"text": "That's a lot of moves with zero exits.",
+"file": "clips/b_messy_01.mp3",
+"dur": 1.96,
+"mouth": "1533333334433555512533355555551111111111",
+"h": "81ec840db0"
+},
+{
+"id": "b_messy_02",
+"who": "b",
+"tag": "messy",
+"text": "Random sliding is not a strategy. Just saying.",
+"file": "clips/b_messy_02.mp3",
+"dur": 2.78,
+"mouth": "14333342233333552433522533555555511122222255555511111111",
+"h": "b4dfb62015"
+},
+{
+"id": "g_messy_01",
+"who": "g",
+"tag": "messy",
+"text": "You're moving everyone around a lot. Please stop.",
+"file": "clips/g_messy_01.mp3",
+"dur": 3.78,
+"mouth": "1555344444555555533554444555555555554355511111111145555222255555111111111111",
+"h": "cc7eb3b9c9"
+},
+{
+"id": "g_messy_02",
+"who": "g",
+"tag": "messy",
+"text": "So much sliding. So little point.",
+"file": "clips/g_messy_02.mp3",
+"dur": 2.98,
+"mouth": "152223444312221443355555111111234444444111544451111111111111",
+"h": "bdb63b0b05"
+},
+{
+"id": "y_messy_01",
+"who": "y",
+"tag": "messy",
+"text": "Whee! Wait. Where are we going?",
+"file": "clips/y_messy_01.mp3",
+"dur": 1.87,
+"mouth": "15433355333111433345533455511111111111",
+"h": "cda168a835"
+},
+{
+"id": "y_messy_02",
+"who": "y",
+"tag": "messy",
+"text": "I'm dizzy! Where's the plan?",
+"file": "clips/y_messy_02.mp3",
+"dur": 1.83,
+"mouth": "1334453325555335555555555511111111111",
+"h": "db340f2c6f"
+},
+{
+"id": "p_messy_01",
+"who": "p",
+"tag": "messy",
+"text": "Darling, this is chaos.",
+"file": "clips/p_messy_01.mp3",
+"dur": 1.81,
+"mouth": "1553333335555522552225555555221111111",
+"h": "42b8a14249"
+},
+{
+"id": "p_messy_02",
+"who": "p",
+"tag": "messy",
+"text": "Must you shuffle us around like furniture?",
+"file": "clips/p_messy_02.mp3",
+"dur": 2.3,
+"mouth": "1533322222235123322333335555112333512255551111",
+"h": "f6bde3ecfe"
+},
+{
+"id": "o_messy_01",
+"who": "o",
+"tag": "messy",
+"text": "Stop dragging me back and forth!",
+"file": "clips/o_messy_01.mp3",
+"dur": 1.63,
+"mouth": "122335123333335555555113455111111",
+"h": "4b4a017a81"
+},
+{
+"id": "o_messy_02",
+"who": "o",
+"tag": "messy",
+"text": "What are you even doing?",
+"file": "clips/o_messy_02.mp3",
+"dur": 1.18,
+"mouth": "143355555552333555111111",
+"h": "8ce76c9542"
+},
+{
+"id": "r_stuck_01",
+"who": "r",
+"tag": "stuck",
+"text": "Stuck? Look at the exits first.",
+"file": "clips/r_stuck_01.mp3",
+"dur": 2.32,
+"mouth": "15551333555555555555335555511123355521111111111",
+"h": "969f6381fd"
+},
+{
+"id": "r_stuck_02",
+"who": "r",
+"tag": "stuck",
+"text": "Take a breath. The answer's on the board.",
+"file": "clips/r_stuck_02.mp3",
+"dur": 2.6,
+"mouth": "1552333355333351111555533522555555555555555111111111",
+"h": "362fe05ca5"
+},
+{
+"id": "b_stuck_01",
+"who": "b",
+"tag": "stuck",
+"text": "Hint. Look for the block nearest its own colour.",
+"file": "clips/b_stuck_01.mp3",
+"dur": 2.19,
+"mouth": "12342253311333333514355222255415555511111111",
+"h": "20e6f26689"
+},
+{
+"id": "b_stuck_02",
+"who": "b",
+"tag": "stuck",
+"text": "Try moving whoever's blocking the exit.",
+"file": "clips/b_stuck_02.mp3",
+"dur": 1.98,
+"mouth": "1133333333333552253355555555225111111111",
+"h": "cae550d1a7"
+},
+{
+"id": "g_stuck_01",
+"who": "g",
+"tag": "stuck",
+"text": "Stuck? Same. Every day.",
+"file": "clips/g_stuck_01.mp3",
+"dur": 2.44,
+"mouth": "1442213331111222335555511155554451355555111111111",
+"h": "f8f7f1ff6e"
+},
+{
+"id": "g_stuck_02",
+"who": "g",
+"tag": "stuck",
+"text": "We're not going anywhere, huh.",
+"file": "clips/g_stuck_02.mp3",
+"dur": 2.73,
+"mouth": "1554334433331111344444511534445555511115555112211111111",
+"h": "fa4fa21f16"
+},
+{
+"id": "y_stuck_01",
+"who": "y",
+"tag": "stuck",
+"text": "Hmm hmm hmm. Think think think!",
+"file": "clips/y_stuck_01.mp3",
+"dur": 1.92,
+"mouth": "113345345334441345554115341111111111111",
+"h": "7a92ea6ad3"
+},
+{
+"id": "y_stuck_02",
+"who": "y",
+"tag": "stuck",
+"text": "Ooh! Try something! Anything!",
+"file": "clips/y_stuck_02.mp3",
+"dur": 1.96,
+"mouth": "1534441233322341544153335555511111111111",
+"h": "9e2288ed0f"
+},
+{
+"id": "p_stuck_01",
+"who": "p",
+"tag": "stuck",
+"text": "We seem to be at an impasse.",
+"file": "clips/p_stuck_01.mp3",
+"dur": 1.92,
+"mouth": "154332233333333335523335523335222111111",
+"h": "b3818d113c"
+},
+{
+"id": "p_stuck_02",
+"who": "p",
+"tag": "stuck",
+"text": "Perhaps move the commoners out of my way?",
+"file": "clips/p_stuck_02.mp3",
+"dur": 2.48,
+"mouth": "12235233122233331222233355522555555555553355511111",
+"h": "65b64e67c8"
+},
+{
+"id": "o_stuck_01",
+"who": "o",
+"tag": "stuck",
+"text": "We're stuck! Do something!",
+"file": "clips/o_stuck_01.mp3",
+"dur": 1.21,
+"mouth": "1432213555523355555511111",
+"h": "9f0e02baa7"
+},
+{
+"id": "o_stuck_02",
+"who": "o",
+"tag": "stuck",
+"text": "This is taking forever!",
+"file": "clips/o_stuck_02.mp3",
+"dur": 1.26,
+"mouth": "15333222331532233355511111",
+"h": "7a415956fc"
+},
+{
+"id": "r_idle_01",
+"who": "r",
+"tag": "idle",
+"text": "Still there? No rush.",
+"file": "clips/r_idle_01.mp3",
+"dur": 1.89,
+"mouth": "15322333333555554433355333522221111111",
+"h": "a156bbe40d"
+},
+{
+"id": "r_idle_02",
+"who": "r",
+"tag": "idle",
+"text": "Take your time. We'll wait.",
+"file": "clips/r_idle_02.mp3",
+"dur": 2.02,
+"mouth": "15523355533555333355555554335551111111111",
+"h": "3151fe4373"
+},
+{
+"id": "b_idle_01",
+"who": "b",
+"tag": "idle",
+"text": "Thinking? Good. Thinking is good.",
+"file": "clips/b_idle_01.mp3",
+"dur": 1.48,
+"mouth": "123334433315553325333511111111",
+"h": "03a3f4d3f6"
+},
+{
+"id": "b_idle_02",
+"who": "b",
+"tag": "idle",
+"text": "Analysis mode. I respect it.",
+"file": "clips/b_idle_02.mp3",
+"dur": 1.76,
+"mouth": "154333222243335553332255555511111111",
+"h": "aa9047c2a8"
+},
+{
+"id": "g_idle_01",
+"who": "g",
+"tag": "idle",
+"text": "Oh good, a break. I love breaks.",
+"file": "clips/g_idle_01.mp3",
+"dur": 3.02,
+"mouth": "1443344415335555514455511111555544453355115555511122211111111",
+"h": "c961e3abb7"
+},
+{
+"id": "g_idle_02",
+"who": "g",
+"tag": "idle",
+"text": "Finally, some quiet time.",
+"file": "clips/g_idle_02.mp3",
+"dur": 2.57,
+"mouth": "1111333334445551224451114333555112555555111111111111",
+"h": "0b84ec8605"
+},
+{
+"id": "y_idle_01",
+"who": "y",
+"tag": "idle",
+"text": "Hello? Helloooo? Are you there?",
+"file": "clips/y_idle_01.mp3",
+"dur": 1.87,
+"mouth": "11243334511333444154455555511111111111",
+"h": "a99b83deab"
+},
+{
+"id": "y_idle_02",
+"who": "y",
+"tag": "idle",
+"text": "Pssst! The timer's still going!",
+"file": "clips/y_idle_02.mp3",
+"dur": 2.41,
+"mouth": "1533322221551155555555344411555534455511111111111",
+"h": "1dded869db"
+},
+{
+"id": "p_idle_01",
+"who": "p",
+"tag": "idle",
+"text": "We are waiting, darling.",
+"file": "clips/p_idle_01.mp3",
+"dur": 1.72,
+"mouth": "12533355335125555522333555551111111",
+"h": "d599a3af9a"
+},
+{
+"id": "p_idle_02",
+"who": "p",
+"tag": "idle",
+"text": "The court grows impatient.",
+"file": "clips/p_idle_02.mp3",
+"dur": 1.9,
+"mouth": "15555533352233352255125552255511111111",
+"h": "a459977fad"
+},
+{
+"id": "o_idle_01",
+"who": "o",
+"tag": "idle",
+"text": "Hey! Clock's ticking!",
+"file": "clips/o_idle_01.mp3",
+"dur": 1.14,
+"mouth": "12335533322235555551111",
+"h": "f4eb9e4959"
+},
+{
+"id": "o_idle_02",
+"who": "o",
+"tag": "idle",
+"text": "Are you just gonna stare at us?",
+"file": "clips/o_idle_02.mp3",
+"dur": 1.39,
+"mouth": "1333333213322533335551111111",
+"h": "68e3561771"
+},
+{
+"id": "r_pace_good_01",
+"who": "r",
+"tag": "pace_good",
+"text": "Nice pace. Plenty of time left.",
+"file": "clips/r_pace_good_01.mp3",
+"dur": 2.5,
+"mouth": "153333332115335522111233555555335555333511111111111",
+"h": "15a9f0f2e3"
+},
+{
+"id": "r_pace_good_02",
+"who": "r",
+"tag": "pace_good",
+"text": "You're doing great. Keep it gentle.",
+"file": "clips/r_pace_good_02.mp3",
+"dur": 2.32,
+"mouth": "15553333335553335551111555552335555555511111111",
+"h": "85147ae9c0"
+},
+{
+"id": "b_pace_good_01",
+"who": "b",
+"tag": "pace_good",
+"text": "Ahead of schedule. Excellent.",
+"file": "clips/b_pace_good_01.mp3",
+"dur": 1.54,
+"mouth": "1533332233554355552255551111111",
+"h": "c391bd49cd"
+},
+{
+"id": "b_pace_good_02",
+"who": "b",
+"tag": "pace_good",
+"text": "At this rate, we finish with time to spare.",
+"file": "clips/b_pace_good_02.mp3",
+"dur": 2.03,
+"mouth": "15553223331451335551233555215555551111111",
+"h": "990961d06b"
+},
+{
+"id": "g_pace_good_01",
+"who": "g",
+"tag": "pace_good",
+"text": "Lots of time left. Can we slow down?",
+"file": "clips/g_pace_good_01.mp3",
+"dur": 3.36,
+"mouth": "15443333122411253354444335111111111344422224444441355555111111111111",
+"h": "f00edfb478"
+},
+{
+"id": "g_pace_good_02",
+"who": "g",
+"tag": "pace_good",
+"text": "You're fast. I'm impressed. And sleepy.",
+"file": "clips/g_pace_good_02.mp3",
+"dur": 3.44,
+"mouth": "154444311333555221153344445114335512211111154422224444155511111111111",
+"h": "5129797934"
+},
+{
+"id": "y_pace_good_01",
+"who": "y",
+"tag": "pace_good",
+"text": "We're winning! We're so winning!",
+"file": "clips/y_pace_good_01.mp3",
+"dur": 1.85,
+"mouth": "1144443335551452223444355511111111111",
+"h": "e8b6ca4b5a"
+},
+{
+"id": "y_pace_good_02",
+"who": "y",
+"tag": "pace_good",
+"text": "Fast fast fast! Love it!",
+"file": "clips/y_pace_good_02.mp3",
+"dur": 1.93,
+"mouth": "113332223351153355114433445511111111111",
+"h": "2efacfea6b"
+},
+{
+"id": "p_pace_good_01",
+"who": "p",
+"tag": "pace_good",
+"text": "Ahead of time. As expected of my player.",
+"file": "clips/p_pace_good_01.mp3",
+"dur": 2.66,
+"mouth": "125553332223333355512333312213222552333512333355511111",
+"h": "83b82a0332"
+},
+{
+"id": "p_pace_good_02",
+"who": "p",
+"tag": "pace_good",
+"text": "Marvellous pace.",
+"file": "clips/p_pace_good_02.mp3",
+"dur": 1.43,
+"mouth": "15333333333222233522225511111",
+"h": "161523808f"
+},
+{
+"id": "o_pace_good_01",
+"who": "o",
+"tag": "pace_good",
+"text": "Good. Keep it up. Don't slack.",
+"file": "clips/o_pace_good_01.mp3",
+"dur": 1.44,
+"mouth": "15335125533311555225555111111",
+"h": "e292f0c00d"
+},
+{
+"id": "o_pace_good_02",
+"who": "o",
+"tag": "pace_good",
+"text": "Finally, some speed!",
+"file": "clips/o_pace_good_02.mp3",
+"dur": 1.21,
+"mouth": "1133333322332215555111111",
+"h": "4e49482603"
+},
+{
+"id": "r_pace_behind_01",
+"who": "r",
+"tag": "pace_behind",
+"text": "We might need to pick up the pace a little.",
+"file": "clips/r_pace_behind_01.mp3",
+"dur": 2.45,
+"mouth": "1553333335555551235531111255552255555555511111111",
+"h": "9f36bebef1"
+},
+{
+"id": "r_pace_behind_02",
+"who": "r",
+"tag": "pace_behind",
+"text": "Let's find the quick ones first.",
+"file": "clips/r_pace_behind_02.mp3",
+"dur": 2.22,
+"mouth": "153333521333355553315555521133555222111111111",
+"h": "f8e606298e"
+},
+{
+"id": "b_pace_behind_01",
+"who": "b",
+"tag": "pace_behind",
+"text": "At this rate, we won't make it. Speed up.",
+"file": "clips/b_pace_behind_01.mp3",
+"dur": 1.96,
+"mouth": "1555322333333333555511115553355111111111",
+"h": "a7934a3020"
+},
+{
+"id": "b_pace_behind_02",
+"who": "b",
+"tag": "pace_behind",
+"text": "Clock's ahead of us. Prioritize easy exits.",
+"file": "clips/b_pace_behind_02.mp3",
+"dur": 2.39,
+"mouth": "113352333333521115333355555555555555551111111111",
+"h": "09e6ca5e21"
+},
+{
+"id": "g_pace_behind_01",
+"who": "g",
+"tag": "pace_behind",
+"text": "Uh oh. Even I can tell we're slow.",
+"file": "clips/g_pace_behind_01.mp3",
+"dur": 3.27,
+"mouth": "155333553344511155555345555115551115555555552222244445111111111111",
+"h": "b13ac96ee6"
+},
+{
+"id": "g_pace_behind_02",
+"who": "g",
+"tag": "pace_behind",
+"text": "Maybe hurry a bit? I won't.",
+"file": "clips/g_pace_behind_02.mp3",
+"dur": 2.75,
+"mouth": "1444334533555344445541133511111155345544451111111111111",
+"h": "d849d612ef"
+},
+{
+"id": "y_pace_behind_01",
+"who": "y",
+"tag": "pace_behind",
+"text": "Faster! Faster! We gotta go!",
+"file": "clips/y_pace_behind_01.mp3",
+"dur": 2.13,
+"mouth": "1133321345133322554444333555334451111111111",
+"h": "58cfb40f89"
+},
+{
+"id": "y_pace_behind_02",
+"who": "y",
+"tag": "pace_behind",
+"text": "Come on, come on, come on!",
+"file": "clips/y_pace_behind_02.mp3",
+"dur": 1.93,
+"mouth": "112333334415443355555445555511111111111",
+"h": "d1579c9b35"
+},
+{
+"id": "p_pace_behind_01",
+"who": "p",
+"tag": "pace_behind",
+"text": "Do hurry, darling. Time waits for no queen.",
+"file": "clips/p_pace_behind_01.mp3",
+"dur": 2.66,
+"mouth": "125333333351333333551111233333332222555312555555511111",
+"h": "e3135949b3"
+},
+{
+"id": "p_pace_behind_02",
+"who": "p",
+"tag": "pace_behind",
+"text": "We are rather behind schedule.",
+"file": "clips/p_pace_behind_02.mp3",
+"dur": 2.04,
+"mouth": "11533333333333333332555552223522555511111",
+"h": "7e4dcb7fce"
+},
+{
+"id": "o_pace_behind_01",
+"who": "o",
+"tag": "pace_behind",
+"text": "Move it! We're running out of time!",
+"file": "clips/o_pace_behind_01.mp3",
+"dur": 1.53,
+"mouth": "1533523514333333332225555511111",
+"h": "571eace03e"
+},
+{
+"id": "o_pace_behind_02",
+"who": "o",
+"tag": "pace_behind",
+"text": "Too slow! Way too slow!",
+"file": "clips/o_pace_behind_02.mp3",
+"dur": 1.37,
+"mouth": "1235223333335235225555511111",
+"h": "0bfe96edbe"
+},
+{
+"id": "r_time_low_01",
+"who": "r",
+"tag": "time_low",
+"text": "Under a minute. Stay calm. You can do it.",
+"file": "clips/r_time_low_01.mp3",
+"dur": 2.6,
+"mouth": "1333333333333512223355533333555555554235555221111111",
+"h": "56e031f786"
+},
+{
+"id": "r_time_low_02",
+"who": "r",
+"tag": "time_low",
+"text": "One minute left. Focus.",
+"file": "clips/r_time_low_02.mp3",
+"dur": 2.11,
+"mouth": "1455333333555333511555133355555522211111111",
+"h": "c6556c26f3"
+},
+{
+"id": "b_time_low_01",
+"who": "b",
+"tag": "time_low",
+"text": "Less than a minute and lots left to clear. Go!",
+"file": "clips/b_time_low_01.mp3",
+"dur": 2.46,
+"mouth": "15332233333553333522551112355551111133355511111111",
+"h": "a5c8c06ae7"
+},
+{
+"id": "b_time_low_02",
+"who": "b",
+"tag": "time_low",
+"text": "Sixty seconds. Quick exits only.",
+"file": "clips/b_time_low_02.mp3",
+"dur": 1.94,
+"mouth": "113322223333421135555555555345555111111",
+"h": "a349d9f6da"
+},
+{
+"id": "g_time_low_01",
+"who": "g",
+"tag": "time_low",
+"text": "Under a minute? Okay, even I'm awake now.",
+"file": "clips/g_time_low_01.mp3",
+"dur": 3.69,
+"mouth": "12234453334444451111153441115555111155555555555544445511145555111111111111",
+"h": "737bdcf800"
+},
+{
+"id": "g_time_low_02",
+"who": "g",
+"tag": "time_low",
+"text": "Time's low. Panic? Maybe panic.",
+"file": "clips/g_time_low_02.mp3",
+"dur": 3.2,
+"mouth": "11123333332544444455111153345511111144335444555555551111111111111",
+"h": "3a0f6caf41"
+},
+{
+"id": "y_time_low_01",
+"who": "y",
+"tag": "time_low",
+"text": "One minute! One minute! Hurry hurry!",
+"file": "clips/y_time_low_01.mp3",
+"dur": 2.21,
+"mouth": "153344335115444444511115555555555111111111111",
+"h": "8ba5fbd326"
+},
+{
+"id": "y_time_low_02",
+"who": "y",
+"tag": "time_low",
+"text": "Ahh! Not much time! Go go go!",
+"file": "clips/y_time_low_02.mp3",
+"dur": 2.01,
+"mouth": "11333333555222555444444441355511111111111",
+"h": "9f29dbd22b"
+},
+{
+"id": "p_time_low_01",
+"who": "p",
+"tag": "time_low",
+"text": "Less than a minute? This is not a drill!",
+"file": "clips/p_time_low_01.mp3",
+"dur": 2.32,
+"mouth": "12333522233333355122111322223322552333355511111",
+"h": "4f1fd8a483"
+},
+{
+"id": "p_time_low_02",
+"who": "p",
+"tag": "time_low",
+"text": "Hurry, darling! Quickly now!",
+"file": "clips/p_time_low_02.mp3",
+"dur": 1.86,
+"mouth": "12223333523333355222222553355552211111",
+"h": "23adb3d770"
+},
+{
+"id": "o_time_low_01",
+"who": "o",
+"tag": "time_low",
+"text": "Under a minute! Move! Move!",
+"file": "clips/o_time_low_01.mp3",
+"dur": 1.33,
+"mouth": "133333335533351133555111111",
+"h": "7c8a932a8d"
+},
+{
+"id": "o_time_low_02",
+"who": "o",
+"tag": "time_low",
+"text": "We're running out of time! Come on!",
+"file": "clips/o_time_low_02.mp3",
+"dur": 1.6,
+"mouth": "15333333333125555512555555511111",
+"h": "7b33e74b57"
+},
+{
+"id": "r_time_final_01",
+"who": "r",
+"tag": "time_final",
+"text": "Ten seconds. You can do it.",
+"file": "clips/r_time_final_01.mp3",
+"dur": 2.17,
+"mouth": "15333333222331555521155315555553355111111111",
+"h": "1aed9e7556"
+},
+{
+"id": "r_time_final_02",
+"who": "r",
+"tag": "time_final",
+"text": "Almost. Almost.",
+"file": "clips/r_time_final_02.mp3",
+"dur": 1.82,
+"mouth": "1533333335552225533355555521111111111",
+"h": "aff7fc0a38"
+},
+{
+"id": "b_time_final_01",
+"who": "b",
+"tag": "time_final",
+"text": "Ten seconds! Last moves!",
+"file": "clips/b_time_final_01.mp3",
+"dur": 1.44,
+"mouth": "11332233355333254355111111111",
+"h": "34f79ace02"
+},
+{
+"id": "b_time_final_02",
+"who": "b",
+"tag": "time_final",
+"text": "It's now or never!",
+"file": "clips/b_time_final_02.mp3",
+"dur": 1.09,
+"mouth": "1522333333355555111111",
+"h": "b9894d048d"
+},
+{
+"id": "g_time_final_01",
+"who": "g",
+"tag": "time_final",
+"text": "Ten seconds! Wake up everybody!",
+"file": "clips/g_time_final_01.mp3",
+"dur": 3.09,
+"mouth": "11125334432223355551111115433153351115555444455555511111111111",
+"h": "dab54b4922"
+},
+{
+"id": "g_time_final_02",
+"who": "g",
+"tag": "time_final",
+"text": "Uh oh. Uh oh.",
+"file": "clips/g_time_final_02.mp3",
+"dur": 2.1,
+"mouth": "144333311333445511555551154444511111111111",
+"h": "4016e64d39"
+},
+{
+"id": "y_time_final_01",
+"who": "y",
+"tag": "time_final",
+"text": "Ten! Nine! Eight! Aaah!",
+"file": "clips/y_time_final_01.mp3",
+"dur": 1.75,
+"mouth": "112334433345533511533555511111111111",
+"h": "bb370d3439"
+},
+{
+"id": "y_time_final_02",
+"who": "y",
+"tag": "time_final",
+"text": "Last seconds! Go!",
+"file": "clips/y_time_final_02.mp3",
+"dur": 1.65,
+"mouth": "1443351123555551153344551111111111",
+"h": "b56e8c2fbc"
+},
+{
+"id": "p_time_final_01",
+"who": "p",
+"tag": "time_final",
+"text": "The final moments! How thrilling!",
+"file": "clips/p_time_final_01.mp3",
+"dur": 1.99,
+"mouth": "1532233333333333555222532225333555511111",
+"h": "7fdc76e9bf"
+},
+{
+"id": "p_time_final_02",
+"who": "p",
+"tag": "time_final",
+"text": "Quickly, darling! Quickly!",
+"file": "clips/p_time_final_02.mp3",
+"dur": 1.85,
+"mouth": "1225552255513333335512531255555521111",
+"h": "b291d07850"
+},
+{
+"id": "o_time_final_01",
+"who": "o",
+"tag": "time_final",
+"text": "Now! Now! Now!",
+"file": "clips/o_time_final_01.mp3",
+"dur": 1.0,
+"mouth": "153333333333555111111",
+"h": "0da12462ab"
+},
+{
+"id": "o_time_final_02",
+"who": "o",
+"tag": "time_final",
+"text": "Ten seconds! Don't you dare stop!",
+"file": "clips/o_time_final_02.mp3",
+"dur": 1.63,
+"mouth": "113333333332133333333222355111111",
+"h": "a557ba24d2"
+},
+{
+"id": "r_undo_01",
+"who": "r",
+"tag": "undo",
+"text": "Taking it back? That's okay.",
+"file": "clips/r_undo_01.mp3",
+"dur": 2.24,
+"mouth": "155233523335533335511533555555555555551111111",
+"h": "ac2772c52e"
+},
+{
+"id": "r_undo_02",
+"who": "r",
+"tag": "undo",
+"text": "Second thoughts are wise.",
+"file": "clips/r_undo_02.mp3",
+"dur": 2.06,
+"mouth": "153223333355533331233543333555522211111111",
+"h": "9ee9b2eefa"
+},
+{
+"id": "b_undo_01",
+"who": "b",
+"tag": "undo",
+"text": "Undo! Smart. Let's recalculate.",
+"file": "clips/b_undo_01.mp3",
+"dur": 1.68,
+"mouth": "1533332253355522553355555511111111",
+"h": "e825f2cdc2"
+},
+{
+"id": "b_undo_02",
+"who": "b",
+"tag": "undo",
+"text": "A tactical rewind. Nice.",
+"file": "clips/b_undo_02.mp3",
+"dur": 1.66,
+"mouth": "1552331553444333541153355222111111",
+"h": "ba5c6849ea"
+},
+{
+"id": "g_undo_01",
+"who": "g",
+"tag": "undo",
+"text": "Oh, we're going back? Fine by me.",
+"file": "clips/g_undo_01.mp3",
+"dur": 3.09,
+"mouth": "12233444444455344444413555111111113355555555554445511111111111",
+"h": "42ae90db69"
+},
+{
+"id": "g_undo_02",
+"who": "g",
+"tag": "undo",
+"text": "Undo. My favourite move. Less work.",
+"file": "clips/g_undo_02.mp3",
+"dur": 3.51,
+"mouth": "15334444533444455511113334445514444451111111154332221544551111111111111",
+"h": "cda3ebaf81"
+},
+{
+"id": "y_undo_01",
+"who": "y",
+"tag": "undo",
+"text": "Rewind! Whoosh!",
+"file": "clips/y_undo_01.mp3",
+"dur": 1.46,
+"mouth": "153333334555444511111111111111",
+"h": "667de01c7c"
+},
+{
+"id": "y_undo_02",
+"who": "y",
+"tag": "undo",
+"text": "Wheee! Backwards!",
+"file": "clips/y_undo_02.mp3",
+"dur": 1.44,
+"mouth": "15433345533514555111111111111",
+"h": "a729cfd3ec"
+},
+{
+"id": "p_undo_01",
+"who": "p",
+"tag": "undo",
+"text": "Yes, let's pretend that never happened.",
+"file": "clips/p_undo_01.mp3",
+"dur": 2.39,
+"mouth": "125333522233522222233552135533322235113555211111",
+"h": "426d5057d4"
+},
+{
+"id": "p_undo_02",
+"who": "p",
+"tag": "undo",
+"text": "A wise retreat.",
+"file": "clips/p_undo_02.mp3",
+"dur": 1.59,
+"mouth": "12533333333322552255555122511111",
+"h": "0a6fe70d92"
+},
+{
+"id": "o_undo_01",
+"who": "o",
+"tag": "undo",
+"text": "Make up your mind!",
+"file": "clips/o_undo_01.mp3",
+"dur": 1.04,
+"mouth": "143333333333355521111",
+"h": "18397b747c"
+},
+{
+"id": "o_undo_02",
+"who": "o",
+"tag": "undo",
+"text": "Back again? Seriously?",
+"file": "clips/o_undo_02.mp3",
+"dur": 1.25,
+"mouth": "1331553332223335225551111",
+"h": "bd52b01bf6"
+},
+{
+"id": "r_undo_spam_01",
+"who": "r",
+"tag": "undo_spam",
+"text": "Lots of undos. Maybe pause and look first?",
+"file": "clips/r_undo_spam_01.mp3",
+"dur": 2.91,
+"mouth": "15533333333335555555521155555553333555555113355522211111111",
+"h": "a06501067e"
+},
+{
+"id": "r_undo_spam_02",
+"who": "r",
+"tag": "undo_spam",
+"text": "It's okay. Let's slow down a little.",
+"file": "clips/r_undo_spam_02.mp3",
+"dur": 2.43,
+"mouth": "1533123333125555551335222533345335555555511111111",
+"h": "9f9c870201"
+},
+{
+"id": "b_undo_spam_01",
+"who": "b",
+"tag": "undo_spam",
+"text": "That's a lot of undos. Let's think it through.",
+"file": "clips/b_undo_spam_01.mp3",
+"dur": 2.09,
+"mouth": "153333333334533552113322235511555551111111",
+"h": "ac92b8944d"
+},
+{
+"id": "b_undo_spam_02",
+"who": "b",
+"tag": "undo_spam",
+"text": "Undo count rising. Concerning.",
+"file": "clips/b_undo_spam_02.mp3",
+"dur": 1.79,
+"mouth": "154433333543332555115522355551111111",
+"h": "757dfc57d0"
+},
+{
+"id": "g_undo_spam_01",
+"who": "g",
+"tag": "undo_spam",
+"text": "Back and forth, back and forth. I'm getting seasick.",
+"file": "clips/g_undo_spam_01.mp3",
+"dur": 3.96,
+"mouth": "15533333342113444451111333555441144445511111115334433344222224422551111111111111",
+"h": "e1297af891"
+},
+{
+"id": "g_undo_spam_02",
+"who": "g",
+"tag": "undo_spam",
+"text": "So many undos. So much effort.",
+"file": "clips/g_undo_spam_02.mp3",
+"dur": 3.17,
+"mouth": "1522234444443555444554444511111112234444511115555555111111111111",
+"h": "86949deddd"
+},
+{
+"id": "y_undo_spam_01",
+"who": "y",
+"tag": "undo_spam",
+"text": "Rewind again? Again again?",
+"file": "clips/y_undo_spam_01.mp3",
+"dur": 1.95,
+"mouth": "113333333553344155534555555511111111111",
+"h": "ff61ea84ce"
+},
+{
+"id": "y_undo_spam_02",
+"who": "y",
+"tag": "undo_spam",
+"text": "Back back back! Hehe!",
+"file": "clips/y_undo_spam_02.mp3",
+"dur": 1.65,
+"mouth": "1133513341333511555555511111111111",
+"h": "46b53dd162"
+},
+{
+"id": "p_undo_spam_01",
+"who": "p",
+"tag": "undo_spam",
+"text": "Indecisive, aren't we?",
+"file": "clips/p_undo_spam_01.mp3",
+"dur": 1.83,
+"mouth": "1253333222333222355533355555555111111",
+"h": "d359aa5257"
+},
+{
+"id": "p_undo_spam_02",
+"who": "p",
+"tag": "undo_spam",
+"text": "Darling, commit to something.",
+"file": "clips/p_undo_spam_02.mp3",
+"dur": 1.83,
+"mouth": "1553333335551233511222355125555111111",
+"h": "db436c3e84"
+},
+{
+"id": "o_undo_spam_01",
+"who": "o",
+"tag": "undo_spam",
+"text": "Stop undoing everything!",
+"file": "clips/o_undo_spam_01.mp3",
+"dur": 1.32,
+"mouth": "122333333333555552255511111",
+"h": "98c330ebd4"
+},
+{
+"id": "o_undo_spam_02",
+"who": "o",
+"tag": "undo_spam",
+"text": "Pick a move and stick with it!",
+"file": "clips/o_undo_spam_02.mp3",
+"dur": 1.32,
+"mouth": "153333335552225145555111111",
+"h": "0d1f83cffb"
+},
+{
+"id": "r_magnet_01",
+"who": "r",
+"tag": "magnet",
+"text": "A magnet. Clever.",
+"file": "clips/r_magnet_01.mp3",
+"dur": 1.8,
+"mouth": "153333333355555511113335555555111111",
+"h": "0694bca64c"
+},
+{
+"id": "r_magnet_02",
+"who": "r",
+"tag": "magnet",
+"text": "Oh, a little help. How nice.",
+"file": "clips/r_magnet_02.mp3",
+"dur": 2.19,
+"mouth": "15533333455555552333511555555555522211111111",
+"h": "6f470cc7a7"
+},
+{
+"id": "b_magnet_01",
+"who": "b",
+"tag": "magnet",
+"text": "Magnet! Excellent use of resources.",
+"file": "clips/b_magnet_01.mp3",
+"dur": 1.96,
+"mouth": "1433333351352235532255224355555111111111",
+"h": "9ac5dfc49c"
+},
+{
+"id": "b_magnet_02",
+"who": "b",
+"tag": "magnet",
+"text": "Magnetic attraction. Science!",
+"file": "clips/b_magnet_02.mp3",
+"dur": 1.56,
+"mouth": "14443335423512542255555111111111",
+"h": "0cf1d3b509"
+},
+{
+"id": "g_magnet_01",
+"who": "g",
+"tag": "magnet",
+"text": "Magnet? Can it pull me out too?",
+"file": "clips/g_magnet_01.mp3",
+"dur": 2.82,
+"mouth": "144433333544511111534511114444555541112254455111111111111",
+"h": "f08541cace"
+},
+{
+"id": "g_magnet_02",
+"who": "g",
+"tag": "magnet",
+"text": "Ooh, the easy way. I like it.",
+"file": "clips/g_magnet_02.mp3",
+"dur": 2.8,
+"mouth": "144444445551153355544443551111155544433551155111111111111",
+"h": "1a898a5f96"
+},
+{
+"id": "y_magnet_01",
+"who": "y",
+"tag": "magnet",
+"text": "Magnet! Zoom! Whoosh!",
+"file": "clips/y_magnet_01.mp3",
+"dur": 1.72,
+"mouth": "14433543555233444444451111111111111",
+"h": "9260708457"
+},
+{
+"id": "y_magnet_02",
+"who": "y",
+"tag": "magnet",
+"text": "Ooh, magic powers!",
+"file": "clips/y_magnet_02.mp3",
+"dur": 1.69,
+"mouth": "1334444433425552334555111111111111",
+"h": "59e0bfc45d"
+},
+{
+"id": "p_magnet_01",
+"who": "p",
+"tag": "magnet",
+"text": "How convenient.",
+"file": "clips/p_magnet_01.mp3",
+"dur": 1.41,
+"mouth": "12223335555233333551225511111",
+"h": "5c920fa4ff"
+},
+{
+"id": "p_magnet_02",
+"who": "p",
+"tag": "magnet",
+"text": "A magnet. Practically royal treatment.",
+"file": "clips/p_magnet_02.mp3",
+"dur": 2.41,
+"mouth": "1253333355555111153222225555333352255555511111111",
+"h": "8908927575"
+},
+{
+"id": "o_magnet_01",
+"who": "o",
+"tag": "magnet",
+"text": "Magnet! Finally some action!",
+"file": "clips/o_magnet_01.mp3",
+"dur": 1.47,
+"mouth": "143355551233335235555225551111",
+"h": "98d3e4f6f3"
+},
+{
+"id": "o_magnet_02",
+"who": "o",
+"tag": "magnet",
+"text": "Yeah! Pull them out!",
+"file": "clips/o_magnet_02.mp3",
+"dur": 1.04,
+"mouth": "153335133333355111111",
+"h": "46e317284d"
+},
+{
+"id": "r_hammer_01",
+"who": "r",
+"tag": "hammer",
+"text": "Oh no. I hope that didn't hurt.",
+"file": "clips/r_hammer_01.mp3",
+"dur": 2.28,
+"mouth": "1553333333335555555533512355555555551221111111",
+"h": "feca1926cd"
+},
+{
+"id": "r_hammer_02",
+"who": "r",
+"tag": "hammer",
+"text": "Poor thing. Rest in pieces.",
+"file": "clips/r_hammer_02.mp3",
+"dur": 2.28,
+"mouth": "1555333512355555553351155511552155551111111111",
+"h": "37b0b83627"
+},
+{
+"id": "b_hammer_01",
+"who": "b",
+"tag": "hammer",
+"text": "Hammer. Brutal, but effective.",
+"file": "clips/b_hammer_01.mp3",
+"dur": 1.51,
+"mouth": "1133334533333351251255111111111",
+"h": "1cf9fe737e"
+},
+{
+"id": "b_hammer_02",
+"who": "b",
+"tag": "hammer",
+"text": "That's one way to solve a puzzle.",
+"file": "clips/b_hammer_02.mp3",
+"dur": 1.51,
+"mouth": "1555244433223355553255511111111",
+"h": "ee8f556ec3"
+},
+{
+"id": "g_hammer_01",
+"who": "g",
+"tag": "hammer",
+"text": "Yikes. Glad that wasn't me.",
+"file": "clips/g_hammer_01.mp3",
+"dur": 2.68,
+"mouth": "155533333512221154333555555555543325555444511111111111",
+"h": "4be638d4e7"
+},
+{
+"id": "g_hammer_02",
+"who": "g",
+"tag": "hammer",
+"text": "Smashed. That's a long nap.",
+"file": "clips/g_hammer_02.mp3",
+"dur": 2.55,
+"mouth": "1522244333551111115555224444444444445555111111111111",
+"h": "c82075dcc0"
+},
+{
+"id": "y_hammer_01",
+"who": "y",
+"tag": "hammer",
+"text": "Bonk! Whoa!",
+"file": "clips/y_hammer_01.mp3",
+"dur": 1.26,
+"mouth": "11333455543335551111111111",
+"h": "4d565b6d31"
+},
+{
+"id": "y_hammer_02",
+"who": "y",
+"tag": "hammer",
+"text": "Kaboom! That was intense!",
+"file": "clips/y_hammer_02.mp3",
+"dur": 1.78,
+"mouth": "113333344453345244555551111111111111",
+"h": "e59a385647"
+},
+{
+"id": "p_hammer_01",
+"who": "p",
+"tag": "hammer",
+"text": "How barbaric.",
+"file": "clips/p_hammer_01.mp3",
+"dur": 1.36,
+"mouth": "1222333333333333551222211111",
+"h": "44955dea34"
+},
+{
+"id": "p_hammer_02",
+"who": "p",
+"tag": "hammer",
+"text": "Please, never do that to me.",
+"file": "clips/p_hammer_02.mp3",
+"dur": 1.88,
+"mouth": "11153333352233333335233122533555111111",
+"h": "55a91b9009"
+},
+{
+"id": "o_hammer_01",
+"who": "o",
+"tag": "hammer",
+"text": "Smash it! Yeah!",
+"file": "clips/o_hammer_01.mp3",
+"dur": 1.0,
+"mouth": "112333335533555111111",
+"h": "2ab8b4f4d8"
+},
+{
+"id": "o_hammer_02",
+"who": "o",
+"tag": "hammer",
+"text": "Ha! That felt great. For me.",
+"file": "clips/o_hammer_02.mp3",
+"dur": 1.46,
+"mouth": "113333333335533511333555111111",
+"h": "15588766a6"
+},
+{
+"id": "r_shuffle_01",
+"who": "r",
+"tag": "shuffle",
+"text": "A little shuffle. Fresh start.",
+"file": "clips/r_shuffle_01.mp3",
+"dur": 2.19,
+"mouth": "15333333522555555555113332222335555111111111",
+"h": "bd2e039d89"
+},
+{
+"id": "r_shuffle_02",
+"who": "r",
+"tag": "shuffle",
+"text": "Everyone, find your new spots.",
+"file": "clips/r_shuffle_02.mp3",
+"dur": 2.3,
+"mouth": "1333333333335551123335555522133335512211111111",
+"h": "61435c01ef"
+},
+{
+"id": "b_shuffle_01",
+"who": "b",
+"tag": "shuffle",
+"text": "Shuffled. New layout, new math.",
+"file": "clips/b_shuffle_01.mp3",
+"dur": 1.49,
+"mouth": "123333543333335555555511111111",
+"h": "1feee500c0"
+},
+{
+"id": "b_shuffle_02",
+"who": "b",
+"tag": "shuffle",
+"text": "Randomized. Let me recalculate.",
+"file": "clips/b_shuffle_02.mp3",
+"dur": 1.78,
+"mouth": "143333333322233333123512555511111111",
+"h": "4c43cde772"
+},
+{
+"id": "g_shuffle_01",
+"who": "g",
+"tag": "shuffle",
+"text": "Whoa. Where am I now?",
+"file": "clips/g_shuffle_01.mp3",
+"dur": 2.28,
+"mouth": "1554433344511555555555555554455555111111111111",
+"h": "179ecf2155"
+},
+{
+"id": "g_shuffle_02",
+"who": "g",
+"tag": "shuffle",
+"text": "Shuffled? I was comfy.",
+"file": "clips/g_shuffle_02.mp3",
+"dur": 2.32,
+"mouth": "14223332144445555334444221155344124555551111111",
+"h": "6d8d3f13c0"
+},
+{
+"id": "y_shuffle_01",
+"who": "y",
+"tag": "shuffle",
+"text": "Shuffle! Wheee! Spin!",
+"file": "clips/y_shuffle_01.mp3",
+"dur": 1.59,
+"mouth": "11233333444355115555555111111111",
+"h": "210fbe399e"
+},
+{
+"id": "y_shuffle_02",
+"who": "y",
+"tag": "shuffle",
+"text": "Mix it up! Yay!",
+"file": "clips/y_shuffle_02.mp3",
+"dur": 1.54,
+"mouth": "1443521333355553355511111111111",
+"h": "07c8ef94ea"
+},
+{
+"id": "p_shuffle_01",
+"who": "p",
+"tag": "shuffle",
+"text": "How disorienting.",
+"file": "clips/p_shuffle_01.mp3",
+"dur": 1.52,
+"mouth": "1223333322233333552235555511111",
+"h": "3dfaf5831c"
+},
+{
+"id": "p_shuffle_02",
+"who": "p",
+"tag": "shuffle",
+"text": "Do warn me before you rearrange the court.",
+"file": "clips/p_shuffle_02.mp3",
+"dur": 2.41,
+"mouth": "1253333333333555522335553333355522222555551221111",
+"h": "309342e390"
+},
+{
+"id": "o_shuffle_01",
+"who": "o",
+"tag": "shuffle",
+"text": "Hey! I liked my spot!",
+"file": "clips/o_shuffle_01.mp3",
+"dur": 1.23,
+"mouth": "1233333355332213555111111",
+"h": "75b2fbd798"
+},
+{
+"id": "o_shuffle_02",
+"who": "o",
+"tag": "shuffle",
+"text": "Shuffle? Ugh. Fine.",
+"file": "clips/o_shuffle_02.mp3",
+"dur": 1.16,
+"mouth": "122223333351133355511111",
+"h": "fe007379a2"
 },
 {
 "id": "r_say_58742c82",
